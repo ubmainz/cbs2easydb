@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataExportXML ppn="399107851">
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:30-01-17</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">1999:30-01-17</sbf>
+            <sbf id="t">22:32:50.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:30-01-17</sbf>
+            <sbf id="t">11:21:40.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:30-01-17</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="002C">
+            <sbf id="a">aufgeführte Musik</sbf>
+            <sbf id="b">prm</sbf>
+            <sbf id="2">rdacontent</sbf>
+        </tag>
+        <tag id="002D">
+            <sbf id="a">audio</sbf>
+            <sbf id="b">s</sbf>
+            <sbf id="2">rdamedia</sbf>
+        </tag>
+        <tag id="002E">
+            <sbf id="a">Audiodisk</sbf>
+            <sbf id="b">sd</sbf>
+            <sbf id="2">rdacarrier</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">399107851</sbf>
+        </tag>
+        <tag id="003O">
+            <sbf id="a">OCoLC</sbf>
+            <sbf id="0">970656819</sbf>
+        </tag>
+        <tag id="004C">
+            <sbf id="0">3-252413-657854</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">CD00036578</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">399107851</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">und</sbf>
+        </tag>
+        <tag id="010E">
+            <sbf id="e">rda</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1997</sbf>
+            <sbf id="n">[1997]</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">© 1997</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">℗ 1997</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Sangana</sbf>
+            <sbf id="h">Nico, Rochereau, Kwamy &amp; l&apos;African Fiesta</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">201066262</sbf>
+            <sbf id="7">Tp1</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">135147484</sbf>
+            <sbf id="P">Nico</sbf>
+            <sbf id="l">Docteur</sbf>
+            <sbf id="L">1939-1985</sbf>
+            <sbf id="B">Ausführender</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">200742302</sbf>
+            <sbf id="7">Tp1</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">134782542</sbf>
+            <sbf id="a">Ley</sbf>
+            <sbf id="d">Tabu</sbf>
+            <sbf id="L">1940-2013</sbf>
+            <sbf id="B">Ausführender</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">399107045</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1124410430</sbf>
+            <sbf id="P">Kwamy</sbf>
+            <sbf id="L">1939-1998</sbf>
+            <sbf id="B">Ausführender</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="029F">
+            <sbf id="9">121929531</sbf>
+            <sbf id="7">Tb1</sbf>
+            <sbf id="V">kiz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">3058909-5</sbf>
+            <sbf id="a">African Fiesta</sbf>
+            <sbf id="B">Ausführende</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">Paris</sbf>
+            <sbf id="n">African</sbf>
+        </tag>
+        <tag id="033E">
+            <sbf id="p">Paris</sbf>
+            <sbf id="n">Sonodisc</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 CD</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">12 cm</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">Stereo, digital</sbf>
+        </tag>
+        <tag id="036G">
+            <sbf id="a">éditions VITA</sbf>
+        </tag>
+        <tag id="037A">
+            <sbf id="a">Enthält: African fiesta. Ah!Congo. Godee. Mabusele. Betty. Mwanza distinguée. Prosabel boyoma. Sangana. Santa. Télévision. Tokeseni te. Willy mopaya. Yo gaby 2. Natiya zuwa tina? Linga mbala moko</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">30-01-17</sbf>
+            <sbf id="t">11:21:40.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">30-01-17</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">Kongo</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">Populäre Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">15:31:50.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">30-01-17</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">79967138X</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">30-01-17</sbf>
+            <sbf id="b">r</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">CD 1147</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">66.17/0013</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+</dataExportXML>

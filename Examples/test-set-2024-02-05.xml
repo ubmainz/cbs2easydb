@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataExportXML ppn="402083644">
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:13-04-17</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">1999:13-04-17</sbf>
+            <sbf id="t">22:38:41.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:13-04-17</sbf>
+            <sbf id="t">11:44:15.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:13-04-17</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="002C">
+            <sbf id="a">aufgeführte Musik</sbf>
+            <sbf id="b">prm</sbf>
+            <sbf id="2">rdacontent</sbf>
+        </tag>
+        <tag id="002D">
+            <sbf id="a">audio</sbf>
+            <sbf id="b">s</sbf>
+            <sbf id="2">rdamedia</sbf>
+        </tag>
+        <tag id="002E">
+            <sbf id="a">Audiokassette</sbf>
+            <sbf id="b">ss</sbf>
+            <sbf id="2">rdacarrier</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">402083644</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">MCP 5202</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">402083644</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">und</sbf>
+        </tag>
+        <tag id="010E">
+            <sbf id="e">rda</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1990</sbf>
+            <sbf id="n">[1990?]</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">℗ [1990?]</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Soukouss Express</sbf>
+            <sbf id="h">Soukouss Express</sbf>
+        </tag>
+        <tag id="029F">
+            <sbf id="9">402083423</sbf>
+            <sbf id="7">Tb3</sbf>
+            <sbf id="V">kiz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1129894533</sbf>
+            <sbf id="a">Soukouss Express</sbf>
+            <sbf id="B">Ausführende</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">[Kinshasa?]</sbf>
+            <sbf id="n">MCP</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Tonkassette</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">10x7 cm, 4 mm Band</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Zot le&apos; en pointe. Dou d&apos;amitié. Rencontre</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Cafrina. Femme de l&apos;île. Carry soukouss</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">13-04-17</sbf>
+            <sbf id="t">11:44:15.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">13-04-17</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">Kongo</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">Populäre Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">16:19:34.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">13-04-17</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">805186433</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">13-04-17</sbf>
+            <sbf id="b">r</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">TK 499</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">1996/1581</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:30-01-17</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">1999:30-01-17</sbf>
+            <sbf id="t">22:32:50.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:30-01-17</sbf>
+            <sbf id="t">11:21:40.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:30-01-17</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="002C">
+            <sbf id="a">aufgeführte Musik</sbf>
+            <sbf id="b">prm</sbf>
+            <sbf id="2">rdacontent</sbf>
+        </tag>
+        <tag id="002D">
+            <sbf id="a">audio</sbf>
+            <sbf id="b">s</sbf>
+            <sbf id="2">rdamedia</sbf>
+        </tag>
+        <tag id="002E">
+            <sbf id="a">Audiodisk</sbf>
+            <sbf id="b">sd</sbf>
+            <sbf id="2">rdacarrier</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">399107851</sbf>
+        </tag>
+        <tag id="003O">
+            <sbf id="a">OCoLC</sbf>
+            <sbf id="0">970656819</sbf>
+        </tag>
+        <tag id="004C">
+            <sbf id="0">3-252413-657854</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">CD00036578</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">399107851</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">und</sbf>
+        </tag>
+        <tag id="010E">
+            <sbf id="e">rda</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1997</sbf>
+            <sbf id="n">[1997]</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">© 1997</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">℗ 1997</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Sangana</sbf>
+            <sbf id="h">Nico, Rochereau, Kwamy &amp; l&apos;African Fiesta</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">201066262</sbf>
+            <sbf id="7">Tp1</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">135147484</sbf>
+            <sbf id="P">Nico</sbf>
+            <sbf id="l">Docteur</sbf>
+            <sbf id="L">1939-1985</sbf>
+            <sbf id="B">Ausführender</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">200742302</sbf>
+            <sbf id="7">Tp1</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">134782542</sbf>
+            <sbf id="a">Ley</sbf>
+            <sbf id="d">Tabu</sbf>
+            <sbf id="L">1940-2013</sbf>
+            <sbf id="B">Ausführender</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">399107045</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1124410430</sbf>
+            <sbf id="P">Kwamy</sbf>
+            <sbf id="L">1939-1998</sbf>
+            <sbf id="B">Ausführender</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="029F">
+            <sbf id="9">121929531</sbf>
+            <sbf id="7">Tb1</sbf>
+            <sbf id="V">kiz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">3058909-5</sbf>
+            <sbf id="a">African Fiesta</sbf>
+            <sbf id="B">Ausführende</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">Paris</sbf>
+            <sbf id="n">African</sbf>
+        </tag>
+        <tag id="033E">
+            <sbf id="p">Paris</sbf>
+            <sbf id="n">Sonodisc</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 CD</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">12 cm</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">Stereo, digital</sbf>
+        </tag>
+        <tag id="036G">
+            <sbf id="a">éditions VITA</sbf>
+        </tag>
+        <tag id="037A">
+            <sbf id="a">Enthält: African fiesta. Ah!Congo. Godee. Mabusele. Betty. Mwanza distinguée. Prosabel boyoma. Sangana. Santa. Télévision. Tokeseni te. Willy mopaya. Yo gaby 2. Natiya zuwa tina? Linga mbala moko</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">30-01-17</sbf>
+            <sbf id="t">11:21:40.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">30-01-17</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">Kongo</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">Populäre Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">15:31:50.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">30-01-17</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">79967138X</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">30-01-17</sbf>
+            <sbf id="b">r</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">CD 1147</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">66.17/0013</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:10-02-17</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">0077:18-04-17</sbf>
+            <sbf id="t">10:24:59.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:10-02-17</sbf>
+            <sbf id="t">13:16:13.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:10-02-17</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="002C">
+            <sbf id="a">aufgeführte Musik</sbf>
+            <sbf id="b">prm</sbf>
+            <sbf id="2">rdacontent</sbf>
+        </tag>
+        <tag id="002D">
+            <sbf id="a">audio</sbf>
+            <sbf id="b">s</sbf>
+            <sbf id="2">rdamedia</sbf>
+        </tag>
+        <tag id="002E">
+            <sbf id="a">Audiokassette</sbf>
+            <sbf id="b">ss</sbf>
+            <sbf id="2">rdacarrier</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">399574131</sbf>
+        </tag>
+        <tag id="003O">
+            <sbf id="a">OCoLC</sbf>
+            <sbf id="0">972091148</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">[T.J.R. Music] ATCD101</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">399574131</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">und</sbf>
+        </tag>
+        <tag id="010E">
+            <sbf id="e">rda</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1990</sbf>
+            <sbf id="n">[1990?]</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">℗ [1990?]</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Déviation</sbf>
+            <sbf id="d">sexy soukouss</sbf>
+            <sbf id="h">Yondo Sister</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">366018639</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">pip</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1078283974</sbf>
+            <sbf id="P">Yondo Sister</sbf>
+            <sbf id="L">1958-</sbf>
+            <sbf id="B">Sängerin</sbf>
+            <sbf id="4">sng</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">[Paris?]</sbf>
+            <sbf id="n">[Aladji Touré]</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Tonkassette</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">10x7 cm, 4 mm Band</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">Stereo</sbf>
+        </tag>
+        <tag id="046C">
+            <sbf id="b">Abweichender Titel</sbf>
+            <sbf id="a">Aladji Touré présente Yondo Sister</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Mbuta mutu. Wapi yo. Sexy Yondo</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Déviation. Mwana Kento. Po na tembe</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">10-02-17</sbf>
+            <sbf id="t">10:56:12.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">10-02-17</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">Kongo</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">Populäre Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">16:19:00.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">10-02-17</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">801121612</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">13-03-17</sbf>
+            <sbf id="b">r</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">TK 339</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">1995/602</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:04-08-09</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">0077:04-09-20</sbf>
+            <sbf id="t">11:59:47.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:04-08-09</sbf>
+            <sbf id="t">13:32:08.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:04-08-09</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">214461602</sbf>
+        </tag>
+        <tag id="003O">
+            <sbf id="a">OCoLC</sbf>
+            <sbf id="0">610041410</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">7 EMF 291</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">214461602</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">fre</sbf>
+            <sbf id="a">lin</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1975</sbf>
+            <sbf id="n">P [ca. 1975]</sbf>
+        </tag>
+        <tag id="013H">
+            <sbf id="0">m</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Congo rythm</sbf>
+            <sbf id="n">Tonträger</sbf>
+            <sbf id="h">Ensemble Franco-Vicky-Essous ; De Wayon accompagné par Franco-Essous. Vicky et l&apos;orchestre O.K. Jazz</sbf>
+        </tag>
+        <tag id="027A">
+            <sbf id="a">Alliance mode succès</sbf>
+        </tag>
+        <tag id="027A/01">
+            <sbf id="a">Tongo se elangisa</sbf>
+        </tag>
+        <tag id="027A/02">
+            <sbf id="a">Makolela mama azonga</sbf>
+        </tag>
+        <tag id="027A/03">
+            <sbf id="a">Ah bolingo pasi</sbf>
+        </tag>
+        <tag id="028E">
+            <sbf id="9">321306937</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">pip</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1034498649</sbf>
+            <sbf id="P">Franco</sbf>
+            <sbf id="l">Musiker</sbf>
+            <sbf id="L">1938-1989</sbf>
+        </tag>
+        <tag id="028E/01">
+            <sbf id="9">367085828</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">107950172X</sbf>
+            <sbf id="P">Dewayon</sbf>
+        </tag>
+        <tag id="028E/02">
+            <sbf id="9">419777962</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1143257049</sbf>
+            <sbf id="a">Longomba</sbf>
+            <sbf id="d">Victor</sbf>
+            <sbf id="L">1932-</sbf>
+        </tag>
+        <tag id="028E/03">
+            <sbf id="9">300953046</sbf>
+            <sbf id="7">Tp1</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1022332376</sbf>
+            <sbf id="a">Essous</sbf>
+            <sbf id="d">Jean Serge</sbf>
+            <sbf id="L">1934-2009</sbf>
+        </tag>
+        <tag id="029E">
+            <sbf id="9">044069308</sbf>
+            <sbf id="7">Tb1</sbf>
+            <sbf id="V">kiz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">3015656-7</sbf>
+            <sbf id="a">Tout-Puissant OK Jazz</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">Paris</sbf>
+            <sbf id="n">Pathé Marconi</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Schallpl.</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">17,5 cm</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">45 UpM</sbf>
+        </tag>
+        <tag id="036G">
+            <sbf id="a">Loningisa</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="a">Enth.: Alliance mode succès. Tongo se elangisa. Makolela mama azonga. Ah bolingo pasi</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">04-08-09</sbf>
+            <sbf id="t">13:32:08.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">04-08-09</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">12.3 Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">12.3 Kongo</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">12.3 Lingala</sbf>
+        </tag>
+        <tag id="144Z/38">
+            <sbf id="a">12.3 Rumba</sbf>
+        </tag>
+        <tag id="144Z/39">
+            <sbf id="a">12.3 Bolero</sbf>
+        </tag>
+        <tag id="144Z/40">
+            <sbf id="a">12.3 Cha Cha Cha</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">16:07:49.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">04-08-09</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">580087417</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">04-08-09</sbf>
+            <sbf id="b">z</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">RS 682</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="237A/01">
+            <sbf id="a">dw</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:10-01-24</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">1999:10-01-24</sbf>
+            <sbf id="t">22:41:17.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:10-01-24</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="002C">
+            <sbf id="a">aufgeführte Musik</sbf>
+            <sbf id="b">prm</sbf>
+            <sbf id="2">rdacontent</sbf>
+        </tag>
+        <tag id="002D">
+            <sbf id="a">audio</sbf>
+            <sbf id="b">s</sbf>
+            <sbf id="2">rdamedia</sbf>
+        </tag>
+        <tag id="002E">
+            <sbf id="a">Audiodisk</sbf>
+            <sbf id="b">sd</sbf>
+            <sbf id="2">rdacarrier</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">514578882</sbf>
+        </tag>
+        <tag id="003O">
+            <sbf id="a">OCoLC</sbf>
+            <sbf id="0">1416979591</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">Philips 427 004 NE</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">514578882</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">und</sbf>
+        </tag>
+        <tag id="010E">
+            <sbf id="e">rda</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1970</sbf>
+            <sbf id="n">[1970?]</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">℗ [1970?]</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Congo</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">132634864</sbf>
+            <sbf id="7">Tp1</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">130327255</sbf>
+            <sbf id="a">Cauvin</sbf>
+            <sbf id="d">André</sbf>
+            <sbf id="L">1907-2004</sbf>
+            <sbf id="B">Tonmeister</sbf>
+            <sbf id="4">rcd</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">510775276</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1299866735</sbf>
+            <sbf id="a">Mazel</sbf>
+            <sbf id="d">Jean</sbf>
+            <sbf id="B">Tonmeister</sbf>
+            <sbf id="4">rcd</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">[Eindhoven]</sbf>
+            <sbf id="n">Philips</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Schallplatte</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">17 cm</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">45 UpM</sbf>
+        </tag>
+        <tag id="036G">
+            <sbf id="a">Song And Sound The World Around</sbf>
+        </tag>
+        <tag id="037A">
+            <sbf id="a">Matrix-Nr.: AA 427004∇2E=1//6701ΛΔ;AA 427004∇2=1//6701ΛΔ</sbf>
+        </tag>
+        <tag id="046C">
+            <sbf id="b">Abweichender Titel</sbf>
+            <sbf id="a">Song And Sound The World Around : Congo and South-Morocco</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Congo</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">South Morocco</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">10-01-24</sbf>
+            <sbf id="t">16:04:25.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">10-01-24</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">Kongo</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">Marokko</sbf>
+        </tag>
+        <tag id="144Z/38">
+            <sbf id="a">Traditionelle Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">10-01-24</sbf>
+            <sbf id="t">16:04:25.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">10-01-24</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">1254085920</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">10-01-24</sbf>
+            <sbf id="b">zkh</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">RS 2561</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">66.20/1711.FH</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:15-03-18</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">1999:15-03-18</sbf>
+            <sbf id="t">23:13:36.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:15-03-18</sbf>
+            <sbf id="t">12:40:17.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:15-03-18</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="002C">
+            <sbf id="a">aufgeführte Musik</sbf>
+            <sbf id="b">prm</sbf>
+            <sbf id="2">rdacontent</sbf>
+        </tag>
+        <tag id="002D">
+            <sbf id="a">audio</sbf>
+            <sbf id="b">s</sbf>
+            <sbf id="2">rdamedia</sbf>
+        </tag>
+        <tag id="002E">
+            <sbf id="a">Audiodisk</sbf>
+            <sbf id="b">sd</sbf>
+            <sbf id="2">rdacarrier</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">42753044X</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">Sonafric 61004</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">42753044X</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">und</sbf>
+        </tag>
+        <tag id="010E">
+            <sbf id="e">rda</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1978</sbf>
+            <sbf id="n">[1978]</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">℗ [1978]</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Naboi-matata</sbf>
+            <sbf id="h">T.G. Lembe-Lembe du Zaire</sbf>
+        </tag>
+        <tag id="029F">
+            <sbf id="9">427529166</sbf>
+            <sbf id="7">Tb3</sbf>
+            <sbf id="V">kiz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1154550435</sbf>
+            <sbf id="a">T.G. Lembe-Lembe du Zaire</sbf>
+            <sbf id="B">Ausführende</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">[Paris]</sbf>
+            <sbf id="n">Sonafric</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Schallplatte</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">30 cm</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">33⅓ UpM, Stereo-Mono</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Naboi-matata. Bisengo-bia-ase bikotikala (1ère partie)</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Bisengo-bia-ase bikotikala (2ième partie). Masela</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">15-03-18</sbf>
+            <sbf id="t">12:40:17.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">15-03-18</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">Kongo</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">Populäre Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">15:50:37.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">15-03-18</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">1019876468</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">15-03-18</sbf>
+            <sbf id="b">r</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">R 3143</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">55.219</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:05-07-17</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">1999:05-07-17</sbf>
+            <sbf id="t">22:50:23.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:05-07-17</sbf>
+            <sbf id="t">12:36:51.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:05-07-17</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="002C">
+            <sbf id="a">aufgeführte Musik</sbf>
+            <sbf id="b">prm</sbf>
+            <sbf id="2">rdacontent</sbf>
+        </tag>
+        <tag id="002D">
+            <sbf id="a">audio</sbf>
+            <sbf id="b">s</sbf>
+            <sbf id="2">rdamedia</sbf>
+        </tag>
+        <tag id="002E">
+            <sbf id="a">Audiokassette</sbf>
+            <sbf id="b">ss</sbf>
+            <sbf id="2">rdacarrier</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">404960405</sbf>
+        </tag>
+        <tag id="003O">
+            <sbf id="a">OCoLC</sbf>
+            <sbf id="0">992797370</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">JIP 181</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">404960405</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">und</sbf>
+        </tag>
+        <tag id="010E">
+            <sbf id="e">rda</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1995</sbf>
+            <sbf id="n">[1995?]</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">℗ [1995?]</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Kafou Kafou</sbf>
+            <sbf id="h">Awilo Longomba</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">404931197</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1136337253</sbf>
+            <sbf id="a">Longomba</sbf>
+            <sbf id="d">Awilo</sbf>
+            <sbf id="B">Ausführender</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">[Paris</sbf>
+            <sbf id="n">JIP-Jimmy&apos;s International Production]</sbf>
+        </tag>
+        <tag id="033E">
+            <sbf id="p">[Douala]</sbf>
+            <sbf id="n">JPS [Cameroun]</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Tonkassette</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">10x7 cm, 4 mm Band</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Happy birthday. Sequestration. Abidjan débout. Où l&apos;hibou niche. Cache cache</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Polygamie. Amour perdu. Le @Biaka. Faux dossier. Tchelele</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">05-07-17</sbf>
+            <sbf id="t">12:36:51.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">05-07-17</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">Kongo</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">Populäre Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">16:16:01.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">05-07-17</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">1003106528</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">05-07-17</sbf>
+            <sbf id="b">r</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">TK 1034</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">2002/202</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:15-08-11</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">0077:24-10-11</sbf>
+            <sbf id="t">09:38:44.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:15-08-11</sbf>
+            <sbf id="t">10:14:39.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:15-08-11</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">272942189</sbf>
+        </tag>
+        <tag id="003O">
+            <sbf id="a">OCoLC</sbf>
+            <sbf id="0">643655773</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">Nonesuch H-72077</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">272942189</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">zxx</sbf>
+            <sbf id="a">eng</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1977</sbf>
+            <sbf id="n">P 1977</sbf>
+        </tag>
+        <tag id="013H">
+            <sbf id="0">m</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Africa Shona mbira music</sbf>
+            <sbf id="n">Tonträger</sbf>
+            <sbf id="h">Recorded in Mondoro and Highfields, Rhodesia by Paul Berliner</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">164732861</sbf>
+            <sbf id="7">Tnx</sbf>
+            <sbf id="a">Berliner</sbf>
+            <sbf id="d">Paul F.</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">Los Angeles</sbf>
+            <sbf id="n">Nonesuch Records</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Schallpl.</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">30 cm</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">33 UpM, stereo</sbf>
+        </tag>
+        <tag id="036G">
+            <sbf id="a">Explorer series</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">15-08-11</sbf>
+            <sbf id="t">10:14:39.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">15-08-11</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">12.3 Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">12.3 Zimbabwe</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">12.3 Mbira</sbf>
+        </tag>
+        <tag id="144Z/38">
+            <sbf id="a">12.3 Traditionelle Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">15:40:36.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">15-08-11</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">628278217</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">15-08-11</sbf>
+            <sbf id="b">z</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">R 169</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">1985/238</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:17-02-17</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">1999:17-02-17</sbf>
+            <sbf id="t">22:34:51.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:17-02-17</sbf>
+            <sbf id="t">14:24:26.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:17-02-17</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="002C">
+            <sbf id="a">aufgeführte Musik</sbf>
+            <sbf id="b">prm</sbf>
+            <sbf id="2">rdacontent</sbf>
+        </tag>
+        <tag id="002D">
+            <sbf id="a">audio</sbf>
+            <sbf id="b">s</sbf>
+            <sbf id="2">rdamedia</sbf>
+        </tag>
+        <tag id="002E">
+            <sbf id="a">Audiokassette</sbf>
+            <sbf id="b">ss</sbf>
+            <sbf id="2">rdacarrier</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">39976920X</sbf>
+        </tag>
+        <tag id="003O">
+            <sbf id="a">OCoLC</sbf>
+            <sbf id="0">972900989</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">N° 2&quot;A&quot; 0001 (2A0001)</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">39976920X</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">und</sbf>
+        </tag>
+        <tag id="010E">
+            <sbf id="e">rda</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1995</sbf>
+            <sbf id="n">[1995?]</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">℗ [1995?]</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Tassaba</sbf>
+            <sbf id="h">Les Youtou</sbf>
+        </tag>
+        <tag id="029F">
+            <sbf id="9">124677045</sbf>
+            <sbf id="7">Tb1</sbf>
+            <sbf id="V">kiz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">3060012-1</sbf>
+            <sbf id="a">Youtou</sbf>
+            <sbf id="B">Ausführende</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">Abidjan</sbf>
+            <sbf id="n">2&quot;A&quot; Promotion</sbf>
+        </tag>
+        <tag id="033E">
+            <sbf id="p">[Abidjan]</sbf>
+            <sbf id="n">Showbiz</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Tonkassette</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">10x7 cm, 4 mm Band</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">Stereo</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Tassaba. Enfants du monde. Les @gos d&apos;Abidjan remix</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Les @gos d&apos;Abidjan. La @valeur du rap. Tassaba remix</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">17-02-17</sbf>
+            <sbf id="t">14:24:26.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">17-02-17</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">Côte d&apos;Ivoire</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">Populäre Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">16:16:07.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">17-02-17</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">801562627</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">17-02-17</sbf>
+            <sbf id="b">r</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">TK 105</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">2015/-</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+</dataExportXML>

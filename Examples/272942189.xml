@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataExportXML ppn="272942189">
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:15-08-11</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">0077:24-10-11</sbf>
+            <sbf id="t">09:38:44.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:15-08-11</sbf>
+            <sbf id="t">10:14:39.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:15-08-11</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">272942189</sbf>
+        </tag>
+        <tag id="003O">
+            <sbf id="a">OCoLC</sbf>
+            <sbf id="0">643655773</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">Nonesuch H-72077</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">272942189</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">zxx</sbf>
+            <sbf id="a">eng</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1977</sbf>
+            <sbf id="n">P 1977</sbf>
+        </tag>
+        <tag id="013H">
+            <sbf id="0">m</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Africa Shona mbira music</sbf>
+            <sbf id="n">Tonträger</sbf>
+            <sbf id="h">Recorded in Mondoro and Highfields, Rhodesia by Paul Berliner</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">164732861</sbf>
+            <sbf id="7">Tnx</sbf>
+            <sbf id="a">Berliner</sbf>
+            <sbf id="d">Paul F.</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">Los Angeles</sbf>
+            <sbf id="n">Nonesuch Records</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Schallpl.</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">30 cm</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">33 UpM, stereo</sbf>
+        </tag>
+        <tag id="036G">
+            <sbf id="a">Explorer series</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">15-08-11</sbf>
+            <sbf id="t">10:14:39.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">15-08-11</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">12.3 Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">12.3 Zimbabwe</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">12.3 Mbira</sbf>
+        </tag>
+        <tag id="144Z/38">
+            <sbf id="a">12.3 Traditionelle Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">15:40:36.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">15-08-11</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">628278217</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">15-08-11</sbf>
+            <sbf id="b">z</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">R 169</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">1985/238</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+</dataExportXML>

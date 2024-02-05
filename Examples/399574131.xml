@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataExportXML ppn="399574131">
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:10-02-17</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">0077:18-04-17</sbf>
+            <sbf id="t">10:24:59.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:10-02-17</sbf>
+            <sbf id="t">13:16:13.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:10-02-17</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="002C">
+            <sbf id="a">aufgeführte Musik</sbf>
+            <sbf id="b">prm</sbf>
+            <sbf id="2">rdacontent</sbf>
+        </tag>
+        <tag id="002D">
+            <sbf id="a">audio</sbf>
+            <sbf id="b">s</sbf>
+            <sbf id="2">rdamedia</sbf>
+        </tag>
+        <tag id="002E">
+            <sbf id="a">Audiokassette</sbf>
+            <sbf id="b">ss</sbf>
+            <sbf id="2">rdacarrier</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">399574131</sbf>
+        </tag>
+        <tag id="003O">
+            <sbf id="a">OCoLC</sbf>
+            <sbf id="0">972091148</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">[T.J.R. Music] ATCD101</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">399574131</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">und</sbf>
+        </tag>
+        <tag id="010E">
+            <sbf id="e">rda</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1990</sbf>
+            <sbf id="n">[1990?]</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">℗ [1990?]</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Déviation</sbf>
+            <sbf id="d">sexy soukouss</sbf>
+            <sbf id="h">Yondo Sister</sbf>
+        </tag>
+        <tag id="028C">
+            <sbf id="9">366018639</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">pip</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1078283974</sbf>
+            <sbf id="P">Yondo Sister</sbf>
+            <sbf id="L">1958-</sbf>
+            <sbf id="B">Sängerin</sbf>
+            <sbf id="4">sng</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">[Paris?]</sbf>
+            <sbf id="n">[Aladji Touré]</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Tonkassette</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">10x7 cm, 4 mm Band</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">Stereo</sbf>
+        </tag>
+        <tag id="046C">
+            <sbf id="b">Abweichender Titel</sbf>
+            <sbf id="a">Aladji Touré présente Yondo Sister</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Mbuta mutu. Wapi yo. Sexy Yondo</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Déviation. Mwana Kento. Po na tembe</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">10-02-17</sbf>
+            <sbf id="t">10:56:12.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">10-02-17</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">Kongo</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">Populäre Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">16:19:00.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">10-02-17</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">801121612</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">13-03-17</sbf>
+            <sbf id="b">r</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">TK 339</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">1995/602</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+</dataExportXML>

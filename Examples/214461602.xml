@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataExportXML ppn="214461602">
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:04-08-09</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">0077:04-09-20</sbf>
+            <sbf id="t">11:59:47.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:04-08-09</sbf>
+            <sbf id="t">13:32:08.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:04-08-09</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">214461602</sbf>
+        </tag>
+        <tag id="003O">
+            <sbf id="a">OCoLC</sbf>
+            <sbf id="0">610041410</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">7 EMF 291</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">214461602</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">fre</sbf>
+            <sbf id="a">lin</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1975</sbf>
+            <sbf id="n">P [ca. 1975]</sbf>
+        </tag>
+        <tag id="013H">
+            <sbf id="0">m</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Congo rythm</sbf>
+            <sbf id="n">Tonträger</sbf>
+            <sbf id="h">Ensemble Franco-Vicky-Essous ; De Wayon accompagné par Franco-Essous. Vicky et l&apos;orchestre O.K. Jazz</sbf>
+        </tag>
+        <tag id="027A">
+            <sbf id="a">Alliance mode succès</sbf>
+        </tag>
+        <tag id="027A/01">
+            <sbf id="a">Tongo se elangisa</sbf>
+        </tag>
+        <tag id="027A/02">
+            <sbf id="a">Makolela mama azonga</sbf>
+        </tag>
+        <tag id="027A/03">
+            <sbf id="a">Ah bolingo pasi</sbf>
+        </tag>
+        <tag id="028E">
+            <sbf id="9">321306937</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">pip</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1034498649</sbf>
+            <sbf id="P">Franco</sbf>
+            <sbf id="l">Musiker</sbf>
+            <sbf id="L">1938-1989</sbf>
+        </tag>
+        <tag id="028E/01">
+            <sbf id="9">367085828</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">107950172X</sbf>
+            <sbf id="P">Dewayon</sbf>
+        </tag>
+        <tag id="028E/02">
+            <sbf id="9">419777962</sbf>
+            <sbf id="7">Tp3</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1143257049</sbf>
+            <sbf id="a">Longomba</sbf>
+            <sbf id="d">Victor</sbf>
+            <sbf id="L">1932-</sbf>
+        </tag>
+        <tag id="028E/03">
+            <sbf id="9">300953046</sbf>
+            <sbf id="7">Tp1</sbf>
+            <sbf id="V">piz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1022332376</sbf>
+            <sbf id="a">Essous</sbf>
+            <sbf id="d">Jean Serge</sbf>
+            <sbf id="L">1934-2009</sbf>
+        </tag>
+        <tag id="029E">
+            <sbf id="9">044069308</sbf>
+            <sbf id="7">Tb1</sbf>
+            <sbf id="V">kiz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">3015656-7</sbf>
+            <sbf id="a">Tout-Puissant OK Jazz</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">Paris</sbf>
+            <sbf id="n">Pathé Marconi</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Schallpl.</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">17,5 cm</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">45 UpM</sbf>
+        </tag>
+        <tag id="036G">
+            <sbf id="a">Loningisa</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="a">Enth.: Alliance mode succès. Tongo se elangisa. Makolela mama azonga. Ah bolingo pasi</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">04-08-09</sbf>
+            <sbf id="t">13:32:08.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">04-08-09</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">12.3 Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">12.3 Kongo</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">12.3 Lingala</sbf>
+        </tag>
+        <tag id="144Z/38">
+            <sbf id="a">12.3 Rumba</sbf>
+        </tag>
+        <tag id="144Z/39">
+            <sbf id="a">12.3 Bolero</sbf>
+        </tag>
+        <tag id="144Z/40">
+            <sbf id="a">12.3 Cha Cha Cha</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">16:07:49.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">04-08-09</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">580087417</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">04-08-09</sbf>
+            <sbf id="b">z</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">RS 682</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="237A/01">
+            <sbf id="a">dw</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+</dataExportXML>

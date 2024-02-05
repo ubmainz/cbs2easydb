@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataExportXML ppn="42753044X">
+    <record>
+        <tag id="001A">
+            <sbf id="0">0077:15-03-18</sbf>
+        </tag>
+        <tag id="001B">
+            <sbf id="0">1999:15-03-18</sbf>
+            <sbf id="t">23:13:36.000</sbf>
+        </tag>
+        <tag id="001C">
+            <sbf id="0">0077:15-03-18</sbf>
+            <sbf id="t">12:40:17.000</sbf>
+        </tag>
+        <tag id="001D">
+            <sbf id="0">0077:15-03-18</sbf>
+        </tag>
+        <tag id="001U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="001X">
+            <sbf id="0">0</sbf>
+        </tag>
+        <tag id="002@">
+            <sbf id="0">Gau</sbf>
+        </tag>
+        <tag id="002C">
+            <sbf id="a">aufgeführte Musik</sbf>
+            <sbf id="b">prm</sbf>
+            <sbf id="2">rdacontent</sbf>
+        </tag>
+        <tag id="002D">
+            <sbf id="a">audio</sbf>
+            <sbf id="b">s</sbf>
+            <sbf id="2">rdamedia</sbf>
+        </tag>
+        <tag id="002E">
+            <sbf id="a">Audiodisk</sbf>
+            <sbf id="b">sd</sbf>
+            <sbf id="2">rdacarrier</sbf>
+        </tag>
+        <tag id="003@">
+            <sbf id="0">42753044X</sbf>
+        </tag>
+        <tag id="004E/01">
+            <sbf id="0">Sonafric 61004</sbf>
+        </tag>
+        <tag id="007A">
+            <sbf id="a">HEB</sbf>
+            <sbf id="0">42753044X</sbf>
+        </tag>
+        <tag id="010@">
+            <sbf id="a">und</sbf>
+        </tag>
+        <tag id="010E">
+            <sbf id="e">rda</sbf>
+        </tag>
+        <tag id="011@">
+            <sbf id="a">1978</sbf>
+            <sbf id="n">[1978]</sbf>
+        </tag>
+        <tag id="011F">
+            <sbf id="n">℗ [1978]</sbf>
+        </tag>
+        <tag id="021A">
+            <sbf id="a">Naboi-matata</sbf>
+            <sbf id="h">T.G. Lembe-Lembe du Zaire</sbf>
+        </tag>
+        <tag id="029F">
+            <sbf id="9">427529166</sbf>
+            <sbf id="7">Tb3</sbf>
+            <sbf id="V">kiz</sbf>
+            <sbf id="A">gnd</sbf>
+            <sbf id="0">1154550435</sbf>
+            <sbf id="a">T.G. Lembe-Lembe du Zaire</sbf>
+            <sbf id="B">Ausführende</sbf>
+            <sbf id="4">prf</sbf>
+        </tag>
+        <tag id="033A">
+            <sbf id="p">[Paris]</sbf>
+            <sbf id="n">Sonafric</sbf>
+        </tag>
+        <tag id="034D">
+            <sbf id="a">1 Schallplatte</sbf>
+        </tag>
+        <tag id="034I">
+            <sbf id="a">30 cm</sbf>
+        </tag>
+        <tag id="034M">
+            <sbf id="a">33⅓ UpM, Stereo-Mono</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Naboi-matata. Bisengo-bia-ase bikotikala (1ère partie)</sbf>
+        </tag>
+        <tag id="046M">
+            <sbf id="t">Bisengo-bia-ase bikotikala (2ième partie). Masela</sbf>
+        </tag>
+        <tag id="101B">
+            <sbf id="0">15-03-18</sbf>
+            <sbf id="t">12:40:17.000</sbf>
+        </tag>
+        <tag id="101C">
+            <sbf id="0">15-03-18</sbf>
+        </tag>
+        <tag id="101U">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="144Z/35">
+            <sbf id="a">Musik</sbf>
+        </tag>
+        <tag id="144Z/36">
+            <sbf id="a">Kongo</sbf>
+        </tag>
+        <tag id="144Z/37">
+            <sbf id="a">Populäre Musik</sbf>
+        </tag>
+        <tag id="201B/01">
+            <sbf id="0">15-10-18</sbf>
+            <sbf id="t">15:50:37.000</sbf>
+        </tag>
+        <tag id="201C/01">
+            <sbf id="0">15-03-18</sbf>
+        </tag>
+        <tag id="201U/01">
+            <sbf id="0">utf8</sbf>
+        </tag>
+        <tag id="203@/01">
+            <sbf id="0">1019876468</sbf>
+        </tag>
+        <tag id="208@/01">
+            <sbf id="a">15-03-18</sbf>
+            <sbf id="b">r</sbf>
+        </tag>
+        <tag id="209A/01">
+            <sbf id="a">R 3143</sbf>
+            <sbf id="f">066</sbf>
+            <sbf id="d">s</sbf>
+            <sbf id="x">00</sbf>
+        </tag>
+        <tag id="209C/01">
+            <sbf id="a">55.219</sbf>
+        </tag>
+        <tag id="209G/01">
+            <sbf id="a">AMA - African Music Archives</sbf>
+            <sbf id="x">01</sbf>
+        </tag>
+        <tag id="247C/01">
+            <sbf id="9">102600155</sbf>
+            <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+            <sbf id="b">77/066</sbf>
+            <sbf id="c">651066-8</sbf>
+            <sbf id="h">DE-77-066</sbf>
+            <sbf id="d">HES</sbf>
+            <sbf id="e">nd</sbf>
+        </tag>
+    </record>
+</dataExportXML>
+
