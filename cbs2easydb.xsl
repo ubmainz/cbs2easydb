@@ -21,6 +21,9 @@
                 </xsl:for-each>
             </xsl:with-param>
         </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Umfang -->
+            <xsl:with-param name="wert" select="string-join((tag[@id='034D']/sbf[@id='a'],tag[@id='034I']/sbf[@id='a']),' ; ')"/>
+        </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Signatur -->
             <xsl:with-param name="wert" select="tag[starts-with(@id,'209A') and (sbf[@id='f']='066')]/sbf[@id='a']"/>
         </xsl:call-template>
@@ -39,6 +42,9 @@
             <xsl:with-param name="wert">Objektbeschreibung</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Umfang</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Signatur</xsl:with-param>
         </xsl:call-template>
         <xsl:apply-templates/>
@@ -46,7 +52,7 @@
     
     <xsl:template name="feld">
         <xsl:param name="wert"/>
-        <xsl:text>&quot;</xsl:text><xsl:value-of select="translate(normalize-unicode($wert,'NFC'),'@','')"/><xsl:text>&quot;&#x9;</xsl:text>
+        <xsl:value-of select="translate(normalize-unicode($wert,'NFC'),'@','')"/><xsl:text>&#x9;</xsl:text>
     </xsl:template>
     
 </xsl:stylesheet>
