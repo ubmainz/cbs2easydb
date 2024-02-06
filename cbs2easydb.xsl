@@ -14,9 +14,10 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Objektbeschreibung -->
             <xsl:with-param name="wert">
+                <xsl:text>Enthält: </xsl:text>           
                 <xsl:for-each select="tag[@id='046M']/sbf[@id='t']">
-                    <xsl:text>Enthält: </xsl:text><xsl:value-of select="."/>
-                    <xsl:if test="position() != last()"><xsl:text> </xsl:text></xsl:if>
+                    <xsl:value-of select="."/>
+                    <xsl:if test="position() != last()"><xsl:text> - </xsl:text></xsl:if>
                 </xsl:for-each>
             </xsl:with-param>
         </xsl:call-template>
