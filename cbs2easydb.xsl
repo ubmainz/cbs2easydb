@@ -32,6 +32,12 @@
         <xsl:call-template name="feld"> <!-- Jahr -->
             <xsl:with-param name="wert" select="tag[@id='011@']/sbf[@id='a']"/>
         </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Ort -->
+            <xsl:with-param name="wert" select="tag[@id='033A']/sbf[@id='p']"/>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Label -->
+            <xsl:with-param name="wert" select="tag[@id='033A']/sbf[@id='n']"/>
+        </xsl:call-template>
         
         
         <xsl:text>&#13;</xsl:text>
@@ -55,6 +61,12 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Datum</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Ort</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Label</xsl:with-param>
         </xsl:call-template>
         <xsl:apply-templates/>
     </xsl:template>
