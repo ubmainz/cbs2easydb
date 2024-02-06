@@ -61,6 +61,7 @@
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Label</xsl:with-param>
         </xsl:call-template>
+        <xsl:text>&#13;</xsl:text>
         <xsl:apply-templates/>
     </xsl:template>
     
