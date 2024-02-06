@@ -12,15 +12,17 @@
         <xsl:call-template name="feld"> <!-- Titelergänzung ? -->
             <xsl:with-param name="wert" select="tag[@id='021A']/sbf[@id='h']"/>
         </xsl:call-template>
-        <xsl:call-template name="feld"> <!-- Objektbeschreibung -->
-            <xsl:with-param name="wert">
-                <xsl:text>Enthält: </xsl:text>           
-                <xsl:for-each select="tag[@id='046M']/sbf[@id='t']">
-                    <xsl:value-of select="."/>
-                    <xsl:if test="position() != last()"><xsl:text> - </xsl:text></xsl:if>
-                </xsl:for-each>
-            </xsl:with-param>
-        </xsl:call-template>
+        <xsl:if test="tag[@id='046M']/sbf[@id='t']">
+            <xsl:call-template name="feld"> <!-- Objektbeschreibung -->
+                <xsl:with-param name="wert">
+                    <xsl:text>Enthält: </xsl:text>           
+                    <xsl:for-each select="tag[@id='046M']/sbf[@id='t']">
+                        <xsl:value-of select="."/>
+                        <xsl:if test="position() != last()"><xsl:text> - </xsl:text></xsl:if>
+                    </xsl:for-each>
+                </xsl:with-param>
+            </xsl:call-template>
+        </xsl:if>
         <xsl:call-template name="feld"> <!-- Umfang -->
             <xsl:with-param name="wert" select="string-join((tag[@id='034D']/sbf[@id='a'],tag[@id='034I']/sbf[@id='a']),' ; ')"/>
         </xsl:call-template>
