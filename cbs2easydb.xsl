@@ -7,10 +7,7 @@
    
     <xsl:template match="//record">
         <xsl:call-template name="feld"> <!-- Objekttitel -->
-            <xsl:with-param name="wert" select="tag[@id='021A']/sbf[@id='a']"/>
-        </xsl:call-template>
-        <xsl:call-template name="feld"> <!-- Titelergänzung ? -->
-            <xsl:with-param name="wert" select="tag[@id='021A']/sbf[@id='h']"/>
+            <xsl:with-param name="wert" select="string-join((tag[@id='021A']/sbf[@id='a'],tag[@id='021A']/sbf[@id='h']),' / ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Objektbeschreibung -->
             <xsl:with-param name="wert">
@@ -46,9 +43,6 @@
     <xsl:template match="/">
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Objekttitel</xsl:with-param>
-        </xsl:call-template>
-        <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Titelergänzung</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Objektbeschreibung</xsl:with-param>
