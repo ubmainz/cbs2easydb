@@ -4,6 +4,7 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output  method="text" encoding="UTF-8"/>
+    <xsl:strip-space elements="*"/>
    
     <xsl:template match="//record">
         <xsl:call-template name="feld"> <!-- Objekttitel -->
@@ -35,8 +36,6 @@
         <xsl:call-template name="feld"> <!-- Label -->
             <xsl:with-param name="wert" select="tag[@id='033A']/sbf[@id='n']"/>
         </xsl:call-template>
-        
-        
         <xsl:text>&#13;</xsl:text>
     </xsl:template>
     
