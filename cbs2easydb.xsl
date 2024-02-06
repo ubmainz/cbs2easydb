@@ -29,6 +29,10 @@
         <xsl:call-template name="feld"> <!-- Signatur -->
             <xsl:with-param name="wert" select="tag[starts-with(@id,'209A') and (sbf[@id='f']='066')]/sbf[@id='a']"/>
         </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Jahr -->
+            <xsl:with-param name="wert" select="tag[@id='011@']/sbf[@id='a']"/>
+        </xsl:call-template>
+        
         
         <xsl:text>&#13;</xsl:text>
     </xsl:template>
@@ -48,6 +52,9 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Signatur</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Datum</xsl:with-param>
         </xsl:call-template>
         <xsl:apply-templates/>
     </xsl:template>
