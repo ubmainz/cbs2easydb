@@ -50,6 +50,21 @@
         <xsl:call-template name="feld"> <!-- Weitere Informationen -->
             <xsl:with-param name="wert" select="string-join(tag[@id='037A']/sbf[@id='a'],' - ')"/>
         </xsl:call-template>
+        <xsl:for-each select="tag[@id='028A']|tag[@id='028C']|tag[@id='029A']|tag[@id='029F']">
+            <xsl:call-template name="feld"> <!-- GND-ID -->
+                <xsl:with-param name="wert" select="sbf[@id='0']"/>                
+            </xsl:call-template>
+            <xsl:call-template name="feld"> <!-- Rolle -->
+                <xsl:with-param name="wert" select="sbf[@id='4']"/>                
+            </xsl:call-template>
+            <xsl:call-template name="feld"> <!-- Name -->
+                <xsl:with-param name="wert" select="concat(if (sbf[@id='a']) then string-join((sbf[@id='c'],string-join((sbf[@id='a'],sbf[@id='d']),', ')),' ') else (sbf[@id='P']),
+                    if (sbf[@id='l']) then concat(' &lt;',sbf[@id='l'],'&gt;') else ())"/>                
+            </xsl:call-template>
+            <xsl:call-template name="feld"> <!-- Bemerkung -->
+                <xsl:with-param name="wert" select="sbf[@id='L']"/>                
+            </xsl:call-template>           
+        </xsl:for-each>
         <xsl:text>&#13;</xsl:text>
     </xsl:template>
     
@@ -90,6 +105,45 @@
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Informationen</xsl:with-param>
         </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">GND-ID (1.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Rolle (1.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Name (1.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Bemerkung (1.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">GND-ID (2.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Rolle (2.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Name (2.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Bemerkung (2.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">GND-ID (3.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Rolle (3.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Name (3.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Bemerkung (3.)</xsl:with-param>
+        </xsl:call-template> 
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">etc.</xsl:with-param>
+        </xsl:call-template> 
         <xsl:text>&#13;</xsl:text>
         <xsl:apply-templates/>
     </xsl:template>
