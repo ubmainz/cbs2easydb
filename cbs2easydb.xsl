@@ -15,10 +15,7 @@
                 <xsl:if test="tag[@id='046M']/sbf[@id='t']">
                     <xsl:text>Enthält: </xsl:text>
                 </xsl:if>
-                <xsl:for-each select="tag[@id='046M']/sbf[@id='t']">
-                    <xsl:value-of select="."/>
-                    <xsl:if test="position() != last()"><xsl:text> - </xsl:text></xsl:if>
-                </xsl:for-each>
+                <xsl:value-of select="string-join(tag[@id='046M']/sbf[@id='t'],' - ')"/>
             </xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Umfang -->
