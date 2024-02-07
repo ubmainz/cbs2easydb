@@ -42,7 +42,10 @@
             <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'],', ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Schlagwörter -->
-            <xsl:with-param name="wert" select="string-join(tag[starts-with(@id,'144Z/')]/sbf[@id='a'],', ')"/>
+            <xsl:with-param name="wert" select="string-join(tag[starts-with(@id,'144Z')]/sbf[@id='a'],', ')"/>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Inventarnummer -->
+            <xsl:with-param name="wert" select="tag[starts-with(@id,'209C')]/sbf[@id='a'][1]"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Weitere Informationen -->
             <xsl:with-param name="wert" select="string-join(tag[@id='037A']/sbf[@id='a'],' - ')"/>
@@ -80,6 +83,9 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Schlagwörter</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Teilsammlung (AMA)</xsl:with-param>
         </xsl:call-template>        
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Informationen</xsl:with-param>
