@@ -67,7 +67,7 @@
             <xsl:with-param name="wert">Umfang</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Signatur</xsl:with-param>
+            <xsl:with-param name="wert">Weitere Nummer (Signatur)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Datum</xsl:with-param>
@@ -82,7 +82,7 @@
             <xsl:with-param name="wert">Schlagwörter</xsl:with-param>
         </xsl:call-template>        
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Weitere_Informationen</xsl:with-param>
+            <xsl:with-param name="wert">Weitere Informationen</xsl:with-param>
         </xsl:call-template>
         <xsl:text>&#13;</xsl:text>
         <xsl:apply-templates/>
