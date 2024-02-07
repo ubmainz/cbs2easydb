@@ -8,6 +8,9 @@
    
     <xsl:template match="//record">
         <xsl:variable name="ppn" select="tag[@id='003@']/sbf[@id='0']"/>
+        <xsl:call-template name="feld"> <!-- PPN -->
+            <xsl:with-param name="wert" select="$ppn"/>
+        </xsl:call-template>
         <xsl:variable name="signatur" select="tag[starts-with(@id,'209A') and (sbf[@id='f']='066')]/sbf[@id='a'][1]"/>
         <xsl:call-template name="feld"> <!-- Signatur_PPN -->
             <xsl:with-param name="wert" select="concat($signatur,' ',$ppn)"/>
@@ -42,6 +45,9 @@
     </xsl:template>
     
     <xsl:template match="/">
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">PPN</xsl:with-param>
+        </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Signatur_PPN</xsl:with-param>
         </xsl:call-template>
