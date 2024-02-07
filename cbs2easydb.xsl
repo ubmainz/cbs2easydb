@@ -16,7 +16,7 @@
             <xsl:with-param name="wert" select="concat($signatur,' ',$ppn)"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Objekttitel -->
-            <xsl:with-param name="wert" select="string-join((tag[@id='021A']/sbf[@id='a'],tag[@id='021A']/sbf[@id='h']),' / ')"/>
+            <xsl:with-param name="wert" select="string-join((string-join((tag[@id='021A']/sbf[@id='a'],tag[@id='021A']/sbf[@id='d']),' : '),tag[@id='021A']/sbf[@id='h']),' / ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Objektbeschreibung -->
             <xsl:with-param name="wert">
