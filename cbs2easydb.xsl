@@ -50,12 +50,12 @@
         <xsl:call-template name="feld"> <!-- Weitere Informationen -->
             <xsl:with-param name="wert" select="string-join(tag[@id='037A']/sbf[@id='a'],' - ')"/>
         </xsl:call-template>
-        <xsl:for-each select="tag[@id='028A']|tag[@id='028C']|tag[@id='029A']|tag[@id='029F']">
+        <xsl:for-each select="tag[starts-with(@id,'028')]|tag[starts-with(@id,'029')]">
             <xsl:call-template name="feld"> <!-- GND-ID -->
                 <xsl:with-param name="wert" select="sbf[@id='0']"/>                
             </xsl:call-template>
             <xsl:call-template name="feld"> <!-- Rolle -->
-                <xsl:with-param name="wert" select="sbf[@id='4']"/>                
+                <xsl:with-param name="wert" select="if (sbf[@id='4']) then (sbf[@id='4'][1]) else (sbf[@id='B'][1])"/>                
             </xsl:call-template>
             <xsl:call-template name="feld"> <!-- Name -->
                 <xsl:with-param name="wert" select="concat(if (sbf[@id='a']) then string-join((sbf[@id='c'],string-join((sbf[@id='a'],sbf[@id='d']),', ')),' ') else (sbf[@id='P']),
