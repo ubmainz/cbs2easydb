@@ -7,6 +7,11 @@
     <xsl:strip-space elements="*"/>
    
     <xsl:template match="//record">
+        <xsl:variable name="ppn" select="tag[@id='003@']/sbf[@id='0']"/>
+        <xsl:variable name="signatur" select="tag[starts-with(@id,'209A') and (sbf[@id='f']='066')]/sbf[@id='a'][1]"/>
+        <xsl:call-template name="feld"> <!-- Signatur_PPN -->
+            <xsl:with-param name="wert" select="concat($signatur,' ',$ppn)"/>
+        </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Objekttitel -->
             <xsl:with-param name="wert" select="string-join((tag[@id='021A']/sbf[@id='a'],tag[@id='021A']/sbf[@id='h']),' / ')"/>
         </xsl:call-template>
@@ -21,7 +26,6 @@
         <xsl:call-template name="feld"> <!-- Umfang -->
             <xsl:with-param name="wert" select="string-join((tag[@id='034D']/sbf[@id='a'],tag[@id='034M']/sbf[@id='a'],tag[@id='034I']/sbf[@id='a'],tag[@id='034K']/sbf[@id='a']),' ; ')"/>
         </xsl:call-template>
-        <xsl:variable name="signatur" select="tag[starts-with(@id,'209A') and (sbf[@id='f']='066')]/sbf[@id='a'][1]"/>
         <xsl:call-template name="feld"> <!-- Signatur -->
             <xsl:with-param name="wert" select="$signatur"/>
         </xsl:call-template>
@@ -38,6 +42,9 @@
     </xsl:template>
     
     <xsl:template match="/">
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Signatur_PPN</xsl:with-param>
+        </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Objekttitel</xsl:with-param>
         </xsl:call-template>
