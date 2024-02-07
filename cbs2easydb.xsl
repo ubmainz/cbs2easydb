@@ -41,6 +41,9 @@
         <xsl:call-template name="feld"> <!-- Label -->
             <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'],', ')"/>
         </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Weitere Informationen -->
+            <xsl:with-param name="wert" select="string-join(tag[@id='037A']/sbf[@id='a'],' - ')"/>
+        </xsl:call-template>
         <xsl:text>&#13;</xsl:text>
     </xsl:template>
     
@@ -71,6 +74,9 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Label</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Weitere_Informationen</xsl:with-param>
         </xsl:call-template>
         <xsl:text>&#13;</xsl:text>
         <xsl:apply-templates/>
