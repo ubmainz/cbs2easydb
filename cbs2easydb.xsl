@@ -19,7 +19,7 @@
             </xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Umfang -->
-            <xsl:with-param name="wert" select="string-join((tag[@id='034D']/sbf[@id='a'],tag[@id='034M']/sbf[@id='a'],tag[@id='034I']/sbf[@id='a']),' ; ')"/>
+            <xsl:with-param name="wert" select="string-join((tag[@id='034D']/sbf[@id='a'],tag[@id='034M']/sbf[@id='a'],tag[@id='034I']/sbf[@id='a'],tag[@id='034K']/sbf[@id='a']),' ; ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Signatur -->
             <xsl:with-param name="wert" select="tag[starts-with(@id,'209A') and (sbf[@id='f']='066')]/sbf[@id='a']"/>
