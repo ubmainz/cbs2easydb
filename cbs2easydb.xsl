@@ -31,10 +31,10 @@
             <xsl:with-param name="wert" select="tag[@id='011@']/sbf[@id='a']"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Ort -->
-            <xsl:with-param name="wert" select="tag[@id='033A']/sbf[@id='p']"/>
+            <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='p'],', ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Label -->
-            <xsl:with-param name="wert" select="tag[@id='033A']/sbf[@id='n']"/>
+            <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'],', ')"/>
         </xsl:call-template>
         <xsl:text>&#13;</xsl:text>
     </xsl:template>
@@ -67,7 +67,7 @@
     
     <xsl:template name="feld">
         <xsl:param name="wert"/>
-        <xsl:value-of select="translate(normalize-unicode($wert,'NFC'),'@','')"/><xsl:text>&#x9;</xsl:text>
+        <xsl:value-of select="translate(normalize-unicode($wert,'NFC'),'{@','')"/><xsl:text>&#x9;</xsl:text>
     </xsl:template>
     
 </xsl:stylesheet>
