@@ -54,6 +54,9 @@
             <xsl:call-template name="feld"> <!-- GND-ID -->
                 <xsl:with-param name="wert" select="sbf[@id='0']"/>                
             </xsl:call-template>
+            <xsl:call-template name="feld"> <!-- Kategorie -->
+                <xsl:with-param name="wert" select="@id"/>                
+            </xsl:call-template>
             <xsl:call-template name="feld"> <!-- Rolle -->
                 <xsl:with-param name="wert" select="if (sbf[@id='4']) then (sbf[@id='4'][1]) else (sbf[@id='B'][1])"/>                
             </xsl:call-template>
@@ -109,6 +112,9 @@
             <xsl:with-param name="wert">GND-ID (1.)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Kategorie (1.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Rolle (1.)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
@@ -121,6 +127,9 @@
             <xsl:with-param name="wert">GND-ID (2.)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Kategorie (2.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Rolle (2.)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
@@ -131,6 +140,9 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">GND-ID (3.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Kategorie (3.)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Rolle (3.)</xsl:with-param>
