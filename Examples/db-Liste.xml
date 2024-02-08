@@ -1,0 +1,4636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2024-02-08T09:48:19">
+    <db-Liste>
+        <Min_Pk_dB>-90.31</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <Signatur>RS 82</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>035025034</PPN>
+        <Signatur>CD 47</Signatur>
+        <Min_Pk_dB>-5.26</Min_Pk_dB>
+        <Max_Pk_dB>-0.21</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>049051253</PPN>
+        <Signatur>CD 1148</Signatur>
+        <Min_Pk_dB>-4.87</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>049051253</PPN>
+        <Signatur>CD 2261</Signatur>
+        <Min_Pk_dB>-4.87</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>049051326</PPN>
+        <Signatur>CD 2262</Signatur>
+        <Min_Pk_dB>-3.8</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>049157175</PPN>
+        <Signatur>CD 1655</Signatur>
+        <Min_Pk_dB>-0.22</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>051811057</PPN>
+        <Signatur>CD 1079</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>071552979</PPN>
+        <Signatur>CD 449</Signatur>
+        <Min_Pk_dB>-0.18</Min_Pk_dB>
+        <Max_Pk_dB>-0.18</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>09343961X</PPN>
+        <Signatur>CD 2230</Signatur>
+        <Min_Pk_dB>-0.2</Min_Pk_dB>
+        <Max_Pk_dB>-0.2</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>102227535</PPN>
+        <Signatur>RS 1942</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>109708202</PPN>
+        <Signatur>CD 2606</Signatur>
+        <Min_Pk_dB>-3.45</Min_Pk_dB>
+        <Max_Pk_dB>-0.16</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>109708237</PPN>
+        <Signatur>CD 2605</Signatur>
+        <Min_Pk_dB>-0.73</Min_Pk_dB>
+        <Max_Pk_dB>-0.07</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>124751903</PPN>
+        <Signatur>RS 2386</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>124752268</PPN>
+        <Signatur>RS 1715</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>124752594</PPN>
+        <Signatur>RS 316</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>124752675</PPN>
+        <Signatur>RS 315</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>124752705</PPN>
+        <Signatur>RS 1779</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>124752705</PPN>
+        <Signatur>RS 313</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>124752756</PPN>
+        <Signatur>RS 312</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12475287X</PPN>
+        <Signatur>RS 2385</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12475287X</PPN>
+        <Signatur>RS 310</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12476424X</PPN>
+        <Signatur>RS 352</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>124764290</PPN>
+        <Signatur>RS 353</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12476441X</PPN>
+        <Signatur>RS 355</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>124764487</PPN>
+        <Signatur>RS 356</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>124781721</PPN>
+        <Signatur>RS 1762</Signatur>
+        <Min_Pk_dB>-14.7</Min_Pk_dB>
+        <Max_Pk_dB>-13.75</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>124781721</PPN>
+        <Signatur>RS 280</Signatur>
+        <Min_Pk_dB>-14.7</Min_Pk_dB>
+        <Max_Pk_dB>-13.75</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12562817X</PPN>
+        <Signatur>RS 274</Signatur>
+        <Min_Pk_dB>-5.98</Min_Pk_dB>
+        <Max_Pk_dB>-5.9</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125629249</PPN>
+        <Signatur>RS 343</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125667132</PPN>
+        <Signatur>RS 433</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125667574</PPN>
+        <Signatur>RS 232</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125668503</PPN>
+        <Signatur>RS 225</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125670052</PPN>
+        <Signatur>RS 371</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125670206</PPN>
+        <Signatur>RS 2203</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125670648</PPN>
+        <Signatur>RS 236</Signatur>
+        <Min_Pk_dB>-8.06</Min_Pk_dB>
+        <Max_Pk_dB>-8.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125671474</PPN>
+        <Signatur>RS 233</Signatur>
+        <Min_Pk_dB>-8.06</Min_Pk_dB>
+        <Max_Pk_dB>-8.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125671636</PPN>
+        <Signatur>RS 235</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12580668X</PPN>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12580668X</PPN>
+        <Signatur>RS 392</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125822138</PPN>
+        <Signatur>RS 271</Signatur>
+        <Min_Pk_dB>-12.72</Min_Pk_dB>
+        <Max_Pk_dB>-11.08</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125822340</PPN>
+        <Signatur>RS 268</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125829116</PPN>
+        <Signatur>RS 267</Signatur>
+        <Min_Pk_dB>-16.54</Min_Pk_dB>
+        <Max_Pk_dB>-15.55</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125829183</PPN>
+        <Signatur>RS 2428</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125829183</PPN>
+        <Signatur>RS 270</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125829264</PPN>
+        <Signatur>RS 269</Signatur>
+        <Min_Pk_dB>-17.44</Min_Pk_dB>
+        <Max_Pk_dB>-14.52</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125829469</PPN>
+        <Signatur>RS 265</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125829590</PPN>
+        <Signatur>RS 266</Signatur>
+        <Min_Pk_dB>-16.51</Min_Pk_dB>
+        <Max_Pk_dB>-12.54</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125829663</PPN>
+        <Signatur>RS 272</Signatur>
+        <Min_Pk_dB>-11.71</Min_Pk_dB>
+        <Max_Pk_dB>-11.71</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125837992</PPN>
+        <Signatur>RS 130</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>125840934</PPN>
+        <Signatur>RS 07</Signatur>
+        <Min_Pk_dB>-12.06</Min_Pk_dB>
+        <Max_Pk_dB>-12.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12616634X</PPN>
+        <Signatur>RS 357</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12616651X</PPN>
+        <Signatur>RS 358</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126166552</PPN>
+        <Signatur>RS 359</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126166749</PPN>
+        <Signatur>RS 405</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126166803</PPN>
+        <Signatur>RS 360</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126166897</PPN>
+        <Signatur>RS 361</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126166978</PPN>
+        <Signatur>RS 404</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126167621</PPN>
+        <Signatur>RS 435</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126167648</PPN>
+        <Signatur>RS 2508</Signatur>
+        <Min_Pk_dB>-5.69</Min_Pk_dB>
+        <Max_Pk_dB>-2.26</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126167648</PPN>
+        <Signatur>RS 434</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126167702</PPN>
+        <Signatur>RS 403</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126360324</PPN>
+        <Signatur>RS 367</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126360405</PPN>
+        <Signatur>RS 368</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126360561</PPN>
+        <Signatur>RS 372</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126360650</PPN>
+        <Signatur>RS 369</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12636074X</PPN>
+        <Signatur>RS 370</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126362432</PPN>
+        <Signatur>RS 419</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126362548</PPN>
+        <Signatur>RS 363</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126362599</PPN>
+        <Signatur>RS 364</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126362653</PPN>
+        <Signatur>RS 493</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12636303X</PPN>
+        <Signatur>RS 362</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126363129</PPN>
+        <Signatur>RS 497</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126363242</PPN>
+        <Signatur>RS 365</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126363366</PPN>
+        <Signatur>RS 366</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126363420</PPN>
+        <Signatur>RS 498</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126363560</PPN>
+        <Signatur>RS 495</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126363609</PPN>
+        <Signatur>RS 406</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126363668</PPN>
+        <Signatur>RS 408</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126363749</PPN>
+        <Signatur>RS 407</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126363854</PPN>
+        <Signatur>RS 415</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126364060</PPN>
+        <Signatur>RS 418</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126364168</PPN>
+        <Signatur>RS 374</Signatur>
+        <Min_Pk_dB>-8.06</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126364192</PPN>
+        <Signatur>RS 375</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126364427</PPN>
+        <Signatur>RS 373</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126364486</PPN>
+        <Signatur>RS 417</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126364516</PPN>
+        <Signatur>RS 416</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126408610</PPN>
+        <Signatur>RS 423</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126514496</PPN>
+        <Signatur>RS 424</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126514623</PPN>
+        <Signatur>RS 426</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126515026</PPN>
+        <Signatur>RS 492</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126515204</PPN>
+        <Signatur>RS 428</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126515360</PPN>
+        <Signatur>RS 378</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126615233</PPN>
+        <Signatur>RS 377</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126615314</PPN>
+        <Signatur>RS 376</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12661539X</PPN>
+        <Signatur>RS 430</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126615780</PPN>
+        <Signatur>RS 488</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126616000</PPN>
+        <Signatur>RS 410</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12661606X</PPN>
+        <Signatur>RS 412</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126616655</PPN>
+        <Signatur>RS 432</Signatur>
+        <Min_Pk_dB>-8.63</Min_Pk_dB>
+        <Max_Pk_dB>-7.59</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126616779</PPN>
+        <Signatur>RS 401</Signatur>
+        <Min_Pk_dB>-5.5</Min_Pk_dB>
+        <Max_Pk_dB>-4.09</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126616825</PPN>
+        <Signatur>RS 402</Signatur>
+        <Min_Pk_dB>-4.04</Min_Pk_dB>
+        <Max_Pk_dB>-2.22</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126616973</PPN>
+        <Signatur>RS 414</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126617031</PPN>
+        <Signatur>RS 409</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126617104</PPN>
+        <Signatur>RS 411</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12661749X</PPN>
+        <Signatur>RS 494</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126617554</PPN>
+        <Signatur>RS 431</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12661816X</PPN>
+        <Signatur>RS 421</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126618240</PPN>
+        <Signatur>RS 422</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12661850X</PPN>
+        <Signatur>RS 425</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126618569</PPN>
+        <Signatur>RS 427</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12661864X</PPN>
+        <Signatur>RS 487</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>126618739</PPN>
+        <Signatur>RS 420</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>12661881X</PPN>
+        <Signatur>RS 2395</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>183089804</PPN>
+        <Signatur>TK 1049</Signatur>
+        <Min_Pk_dB>-2.59</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>188078886</PPN>
+        <Signatur>TK 1103</Signatur>
+        <Min_Pk_dB>-0.61</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>188079076</PPN>
+        <Signatur>TK 1104</Signatur>
+        <Min_Pk_dB>-1.66</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>199248133</PPN>
+        <Signatur>RS 798</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>199266689</PPN>
+        <Signatur>RS 797</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>207908702</PPN>
+        <Signatur>CD 933</Signatur>
+        <Min_Pk_dB>-5.51</Min_Pk_dB>
+        <Max_Pk_dB>-0.41</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>207908990</PPN>
+        <Signatur>RS 1855</Signatur>
+        <Min_Pk_dB>-6.54</Min_Pk_dB>
+        <Max_Pk_dB>-4.3</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>207909148</PPN>
+        <Signatur>RS 1856</Signatur>
+        <Min_Pk_dB>-2.53</Min_Pk_dB>
+        <Max_Pk_dB>-2.53</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>211254819</PPN>
+        <Signatur>RS 01</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>211257249</PPN>
+        <Signatur>RS 02</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>212003208</PPN>
+        <Signatur>RS 75</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>212006088</PPN>
+        <Signatur>RS 76</Signatur>
+        <Min_Pk_dB>-12.06</Min_Pk_dB>
+        <Max_Pk_dB>-7.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>212007343</PPN>
+        <Signatur>RS 77</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>212808680</PPN>
+        <Signatur>RS 518</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>212808982</PPN>
+        <Signatur>RS 519</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213009498</PPN>
+        <Signatur>RS 524</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213161419</PPN>
+        <Signatur>RS 506</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213242257</PPN>
+        <Signatur>RS 477</Signatur>
+        <Min_Pk_dB>-1.69</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213354764</PPN>
+        <Signatur>RS 534</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21338776X</PPN>
+        <Signatur>RS 540</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213389975</PPN>
+        <Signatur>RS 541</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21339927X</PPN>
+        <Signatur>RS 542</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21341578X</PPN>
+        <Signatur>RS 543</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213416468</PPN>
+        <Signatur>RS 544</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213417022</PPN>
+        <Signatur>RS 545</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213488140</PPN>
+        <Signatur>RS 546</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213489503</PPN>
+        <Signatur>RS 547</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21349034X</PPN>
+        <Signatur>RS 548</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213490803</PPN>
+        <Signatur>RS 549</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213491524</PPN>
+        <Signatur>RS 550</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213507943</PPN>
+        <Signatur>RS 551</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213508370</PPN>
+        <Signatur>RS 552</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21350989X</PPN>
+        <Signatur>RS 553</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213536641</PPN>
+        <Signatur>RS 554</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213537966</PPN>
+        <Signatur>RS 555</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213538504</PPN>
+        <Signatur>RS 556</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213539322</PPN>
+        <Signatur>RS 557</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213540479</PPN>
+        <Signatur>RS 558</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213541807</PPN>
+        <Signatur>RS 559</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213543192</PPN>
+        <Signatur>RS 560</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213544490</PPN>
+        <Signatur>RS 501</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213558734</PPN>
+        <Signatur>RS 561</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213559447</PPN>
+        <Signatur>RS 562</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213560089</PPN>
+        <Signatur>RS 563</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21364729X</PPN>
+        <Signatur>RS 564</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21364925X</PPN>
+        <Signatur>RS 565</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213649365</PPN>
+        <Signatur>RS 566</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213652560</PPN>
+        <Signatur>RS 567</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213653613</PPN>
+        <Signatur>RS 568</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213653850</PPN>
+        <Signatur>RS 569</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213654245</PPN>
+        <Signatur>RS 570</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213654385</PPN>
+        <Signatur>RS 571</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213655365</PPN>
+        <Signatur>RS 572</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213656043</PPN>
+        <Signatur>RS 573</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213675404</PPN>
+        <Signatur>RS 582</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213728524</PPN>
+        <Signatur>RS 605</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213730154</PPN>
+        <Signatur>RS 606</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213755505</PPN>
+        <Signatur>RS 610</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>213756412</PPN>
+        <Signatur>RS 611</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214270300</PPN>
+        <Signatur>RS 510</Signatur>
+        <Min_Pk_dB>-8.97</Min_Pk_dB>
+        <Max_Pk_dB>-3.88</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214383040</PPN>
+        <Signatur>RS 647</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214383407</PPN>
+        <Signatur>RS 648</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214384136</PPN>
+        <Signatur>RS 653</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214386058</PPN>
+        <Signatur>RS 650</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21438652X</PPN>
+        <Signatur>RS 651</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214387364</PPN>
+        <Signatur>RS 652</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214388484</PPN>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214388484</PPN>
+        <Signatur>RS 654</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214389391</PPN>
+        <Signatur>RS 649</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214408531</PPN>
+        <Signatur>RS 658</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214411397</PPN>
+        <Signatur>RS 659</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214412466</PPN>
+        <Signatur>RS 660</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214414191</PPN>
+        <Signatur>RS 661</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214424243</PPN>
+        <Signatur>RS 662</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21442605X</PPN>
+        <Signatur>RS 663</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214427315</PPN>
+        <Signatur>RS 664</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214427692</PPN>
+        <Signatur>RS 665</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214428087</PPN>
+        <Signatur>RS 666</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214428591</PPN>
+        <Signatur>RS 667</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21442992X</PPN>
+        <Signatur>RS 668</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214459462</PPN>
+        <Signatur>RS 681</Signatur>
+        <Min_Pk_dB>-2.22</Min_Pk_dB>
+        <Max_Pk_dB>-1.94</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214461602</PPN>
+        <Signatur>RS 682</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214515354</PPN>
+        <Signatur>RS 686</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214515885</PPN>
+        <Signatur>RS 687</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214520870</PPN>
+        <Signatur>RS 691</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214529703</PPN>
+        <Signatur>RS 695</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214605213</PPN>
+        <Signatur>RS 696</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214606481</PPN>
+        <Signatur>RS 697</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214860787</PPN>
+        <Signatur>RS 750</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214861287</PPN>
+        <Signatur>RS 749</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214862631</PPN>
+        <Signatur>RS 747</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214863158</PPN>
+        <Signatur>RS 1881</Signatur>
+        <Min_Pk_dB>-4.25</Min_Pk_dB>
+        <Max_Pk_dB>-2.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214863158</PPN>
+        <Signatur>RS 748</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214878147</PPN>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214878147</PPN>
+        <Signatur>RS 2268</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214878147</PPN>
+        <Signatur>RS 704</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214926109</PPN>
+        <Signatur>RS 1981</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214926109</PPN>
+        <Signatur>RS 751</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214926540</PPN>
+        <Signatur>RS 752</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214926702</PPN>
+        <Signatur>RS 753</Signatur>
+        <Min_Pk_dB>-8.06</Min_Pk_dB>
+        <Max_Pk_dB>-8.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214926850</PPN>
+        <Signatur>RS 754</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214927083</PPN>
+        <Signatur>RS 755</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214927814</PPN>
+        <Signatur>RS 757</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214928047</PPN>
+        <Signatur>RS 756</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214928314</PPN>
+        <Signatur>RS 758</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>214928551</PPN>
+        <Signatur>RS 759</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>215089936</PPN>
+        <Signatur>RS 701</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>215610261</PPN>
+        <Signatur>RS 742</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>215611071</PPN>
+        <Signatur>RS 745</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>215612272</PPN>
+        <Signatur>RS 744</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>215612671</PPN>
+        <Signatur>RS 743</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216066204</PPN>
+        <Signatur>RS 825</Signatur>
+        <Min_Pk_dB>-6.28</Min_Pk_dB>
+        <Max_Pk_dB>-3.29</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216072662</PPN>
+        <Signatur>RS 828</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216078113</PPN>
+        <Signatur>RS 830</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216390680</PPN>
+        <Signatur>RS 853</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21639189X</PPN>
+        <Signatur>RS 854</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216393760</PPN>
+        <Signatur>RS 855</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216394163</PPN>
+        <Signatur>RS 856</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216397278</PPN>
+        <Signatur>RS 857</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216397596</PPN>
+        <Signatur>RS 858</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216397979</PPN>
+        <Signatur>RS 859</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216463408</PPN>
+        <Signatur>RS 860</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216463734</PPN>
+        <Signatur>RS 861</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216465168</PPN>
+        <Signatur>RS 862</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21656591X</PPN>
+        <Signatur>RS 863</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216566967</PPN>
+        <Signatur>RS 865</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216567629</PPN>
+        <Signatur>RS 866</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216568560</PPN>
+        <Signatur>RS 867</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216571596</PPN>
+        <Signatur>RS 868</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216636302</PPN>
+        <Signatur>RS 875</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>216640873</PPN>
+        <Signatur>RS 876</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>217109969</PPN>
+        <Signatur>RS 882</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>217111181</PPN>
+        <Signatur>RS 883</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>217111475</PPN>
+        <Signatur>RS 884</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>217112935</PPN>
+        <Signatur>RS 885</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21711363X</PPN>
+        <Signatur>RS 886</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>217114946</PPN>
+        <Signatur>RS 880</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>217116000</PPN>
+        <Signatur>RS 878</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>217116469</PPN>
+        <Signatur>RS 879</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>217153704</PPN>
+        <Signatur>RS 881</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>217194699</PPN>
+        <Signatur>RS 919</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>217197078</PPN>
+        <Signatur>RS 874</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>217200133</PPN>
+        <Signatur>RS 877</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21899981X</PPN>
+        <Signatur>RS 2206</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>21899981X</PPN>
+        <Signatur>RS 952</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219031630</PPN>
+        <Signatur>RS 853</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219031630</PPN>
+        <Signatur>RS 953</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219032262</PPN>
+        <Signatur>RS 954</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219063133</PPN>
+        <Signatur>RS 955</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219350620</PPN>
+        <Signatur>RS 971</Signatur>
+        <Min_Pk_dB>-3.03</Min_Pk_dB>
+        <Max_Pk_dB>-2.73</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219376506</PPN>
+        <Signatur>RS 974</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219376859</PPN>
+        <Signatur>RS 975</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219376859</PPN>
+        <Signatur>RS 978</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219831874</PPN>
+        <Signatur>RS 982</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219833095</PPN>
+        <Signatur>RS 984</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219833656</PPN>
+        <Signatur>RS 985</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219835306</PPN>
+        <Signatur>RS 986</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219836515</PPN>
+        <Signatur>RS 987</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>219837155</PPN>
+        <Signatur>RS 988</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22010929X</PPN>
+        <Signatur>RS 1008</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>220109524</PPN>
+        <Signatur>RS 1009</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>220142416</PPN>
+        <Signatur>RS 1011</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>220145431</PPN>
+        <Signatur>RS 1013</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22014818X</PPN>
+        <Signatur>RS 1015</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>221170189</PPN>
+        <Signatur>RS 1123</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>221171509</PPN>
+        <Signatur>RS 1124</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>221172173</PPN>
+        <Signatur>RS 1125</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22117267X</PPN>
+        <Signatur>RS 1126</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22117298X</PPN>
+        <Signatur>RS 1127</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>221704043</PPN>
+        <Signatur>RS 1155</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22199467X</PPN>
+        <Signatur>RS 1174</Signatur>
+        <Min_Pk_dB>-6.68</Min_Pk_dB>
+        <Max_Pk_dB>-3.35</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22258873X</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22258873X</PPN>
+        <Signatur>RS 1209</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>222588985</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>222588985</PPN>
+        <Signatur>RS 1210</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>222649852</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>222649852</PPN>
+        <Signatur>RS 1211</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>222650265</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>222650265</PPN>
+        <Signatur>RS 1212</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22268156X</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22268156X</PPN>
+        <Signatur>RS 1218</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>222687363</PPN>
+        <Signatur>RS 1224</Signatur>
+        <Min_Pk_dB>-16.3</Min_Pk_dB>
+        <Max_Pk_dB>-12.07</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223728306</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223728306</PPN>
+        <Signatur>RS 1297</Signatur>
+        <Min_Pk_dB>-1.71</Min_Pk_dB>
+        <Max_Pk_dB>-1.71</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223734284</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223734284</PPN>
+        <Signatur>RS 1302</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223734691</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223734691</PPN>
+        <Signatur>RS 1303</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223735272</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223735272</PPN>
+        <Signatur>RS 1304</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223735477</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223735477</PPN>
+        <Signatur>RS 1305</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223735957</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223735957</PPN>
+        <Signatur>RS 1306</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223736880</PPN>
+        <Signatur>RS 1310</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223738441</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223738441</PPN>
+        <Signatur>RS 1307</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223856371</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223856371</PPN>
+        <Signatur>RS 1308</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223857173</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223857173</PPN>
+        <Signatur>RS 1309</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223858188</PPN>
+        <Signatur>RS 1311</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223859109</PPN>
+        <Signatur>RS 1312</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22385980X</PPN>
+        <Signatur>RS 1313</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223877123</PPN>
+        <Signatur>RS 1314</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223877875</PPN>
+        <Signatur>RS 1315</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223878405</PPN>
+        <Signatur>RS 1316</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223888443</PPN>
+        <Signatur>RS 1318</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223888648</PPN>
+        <Signatur>RS 1319</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223894389</PPN>
+        <Signatur>RS 1321</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223959774</PPN>
+        <Signatur>RS 1322</Signatur>
+        <Min_Pk_dB>-11.85</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223960748</PPN>
+        <Signatur>RS 1323</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22396347X</PPN>
+        <Signatur>RS 1324</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223965448</PPN>
+        <Signatur>RS 1325</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>223968714</PPN>
+        <Signatur>RS 1326</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22401000X</PPN>
+        <Signatur>RS 1327</Signatur>
+        <Min_Pk_dB>-1.63</Min_Pk_dB>
+        <Max_Pk_dB>-1.25</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224010522</PPN>
+        <Signatur>RS 1328</Signatur>
+        <Min_Pk_dB>-1.75</Min_Pk_dB>
+        <Max_Pk_dB>-1.57</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224011294</PPN>
+        <Signatur>RS 1329</Signatur>
+        <Min_Pk_dB>-5.18</Min_Pk_dB>
+        <Max_Pk_dB>-4.94</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224528580</PPN>
+        <Signatur>RS 1330</Signatur>
+        <Min_Pk_dB>-1.48</Min_Pk_dB>
+        <Max_Pk_dB>-1.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224529129</PPN>
+        <Signatur>RS 1331</Signatur>
+        <Min_Pk_dB>-9.72</Min_Pk_dB>
+        <Max_Pk_dB>-1.85</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22452948X</PPN>
+        <Signatur>RS 1332</Signatur>
+        <Min_Pk_dB>-2.02</Min_Pk_dB>
+        <Max_Pk_dB>-1.96</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224529986</PPN>
+        <Signatur>RS 1333</Signatur>
+        <Min_Pk_dB>-2.09</Min_Pk_dB>
+        <Max_Pk_dB>-1.82</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224538519</PPN>
+        <Signatur>RS 1334</Signatur>
+        <Min_Pk_dB>-1.75</Min_Pk_dB>
+        <Max_Pk_dB>-1.75</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224539043</PPN>
+        <Signatur>RS 1335</Signatur>
+        <Min_Pk_dB>-1.71</Min_Pk_dB>
+        <Max_Pk_dB>-1.65</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22453940X</PPN>
+        <Signatur>RS 1336</Signatur>
+        <Min_Pk_dB>-2.42</Min_Pk_dB>
+        <Max_Pk_dB>-1.54</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224539647</PPN>
+        <Signatur>RS 1337</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224542494</PPN>
+        <Signatur>RS 1338</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22454280X</PPN>
+        <Signatur>RS 1339</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224543148</PPN>
+        <Signatur>RS 1340</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224583328</PPN>
+        <Signatur>RS 1341</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224584456</PPN>
+        <Signatur>RS 1342</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>224584804</PPN>
+        <Signatur>RS 1343</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>226190617</PPN>
+        <Signatur>RS 1414</Signatur>
+        <Min_Pk_dB>-2.92</Min_Pk_dB>
+        <Max_Pk_dB>-2.92</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>226247708</PPN>
+        <Signatur>RS 1416</Signatur>
+        <Min_Pk_dB>-3.56</Min_Pk_dB>
+        <Max_Pk_dB>-2.19</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>226251659</PPN>
+        <Signatur>RS 1420</Signatur>
+        <Min_Pk_dB>-2.5</Min_Pk_dB>
+        <Max_Pk_dB>-1.71</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>226284492</PPN>
+        <Signatur>RS 1421</Signatur>
+        <Min_Pk_dB>-5.18</Min_Pk_dB>
+        <Max_Pk_dB>-4.94</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>226285278</PPN>
+        <Signatur>RS 1422</Signatur>
+        <Min_Pk_dB>-3.58</Min_Pk_dB>
+        <Max_Pk_dB>-3.51</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228296447</PPN>
+        <Signatur>RS 1717</Signatur>
+        <Min_Pk_dB>-1.84</Min_Pk_dB>
+        <Max_Pk_dB>-1.81</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228296447</PPN>
+        <Signatur>RS 1738</Signatur>
+        <Min_Pk_dB>-1.84</Min_Pk_dB>
+        <Max_Pk_dB>-1.81</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228297079</PPN>
+        <Signatur>RS 1718</Signatur>
+        <Min_Pk_dB>-4.14</Min_Pk_dB>
+        <Max_Pk_dB>-2.26</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228297079</PPN>
+        <Signatur>RS 1766</Signatur>
+        <Min_Pk_dB>-14.67</Min_Pk_dB>
+        <Max_Pk_dB>-12.58</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228297648</PPN>
+        <Signatur>RS 1719</Signatur>
+        <Min_Pk_dB>-2.33</Min_Pk_dB>
+        <Max_Pk_dB>-2.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228297648</PPN>
+        <Signatur>RS 1756</Signatur>
+        <Min_Pk_dB>-2.33</Min_Pk_dB>
+        <Max_Pk_dB>-2.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228411270</PPN>
+        <Signatur>RS 1720</Signatur>
+        <Min_Pk_dB>-4.36</Min_Pk_dB>
+        <Max_Pk_dB>-2.56</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228411270</PPN>
+        <Signatur>RS 1764</Signatur>
+        <Min_Pk_dB>-4.36</Min_Pk_dB>
+        <Max_Pk_dB>-2.56</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228411785</PPN>
+        <Signatur>RS 1721</Signatur>
+        <Min_Pk_dB>-2.51</Min_Pk_dB>
+        <Max_Pk_dB>-2.13</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228411785</PPN>
+        <Signatur>RS 1772</Signatur>
+        <Min_Pk_dB>-2.51</Min_Pk_dB>
+        <Max_Pk_dB>-2.13</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228412706</PPN>
+        <Signatur>RS 1722</Signatur>
+        <Min_Pk_dB>-1.95</Min_Pk_dB>
+        <Max_Pk_dB>-1.6</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228412706</PPN>
+        <Signatur>RS 1770</Signatur>
+        <Min_Pk_dB>-1.95</Min_Pk_dB>
+        <Max_Pk_dB>-1.6</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228423783</PPN>
+        <Signatur>RS 1723</Signatur>
+        <Min_Pk_dB>-1.87</Min_Pk_dB>
+        <Max_Pk_dB>-1.6</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228425379</PPN>
+        <Signatur>RS 1724</Signatur>
+        <Min_Pk_dB>-1.66</Min_Pk_dB>
+        <Max_Pk_dB>-1.64</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228432146</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228432146</PPN>
+        <Signatur>RS 1725</Signatur>
+        <Min_Pk_dB>-14.48</Min_Pk_dB>
+        <Max_Pk_dB>-14.12</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228437296</PPN>
+        <Signatur>RS 1728</Signatur>
+        <Min_Pk_dB>-4.33</Min_Pk_dB>
+        <Max_Pk_dB>-2.74</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228437873</PPN>
+        <Signatur>RS 1729</Signatur>
+        <Min_Pk_dB>-1.71</Min_Pk_dB>
+        <Max_Pk_dB>-1.58</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228438810</PPN>
+        <Signatur>RS 1730</Signatur>
+        <Min_Pk_dB>-6.42</Min_Pk_dB>
+        <Max_Pk_dB>-3.74</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228440009</PPN>
+        <Signatur>RS 1731</Signatur>
+        <Min_Pk_dB>-2.17</Min_Pk_dB>
+        <Max_Pk_dB>-1.77</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22844246X</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22844246X</PPN>
+        <Signatur>RS 1732</Signatur>
+        <Min_Pk_dB>-14.91</Min_Pk_dB>
+        <Max_Pk_dB>-14.46</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228531659</PPN>
+        <Signatur>RS 1750</Signatur>
+        <Min_Pk_dB>-2.38</Min_Pk_dB>
+        <Max_Pk_dB>-1.72</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228532906</PPN>
+        <Signatur>RS 1752</Signatur>
+        <Min_Pk_dB>-3.21</Min_Pk_dB>
+        <Max_Pk_dB>-3.16</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228533317</PPN>
+        <Signatur>RS 1753</Signatur>
+        <Min_Pk_dB>-4.08</Min_Pk_dB>
+        <Max_Pk_dB>-2.13</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228533813</PPN>
+        <Signatur>RS 1754</Signatur>
+        <Min_Pk_dB>-2.28</Min_Pk_dB>
+        <Max_Pk_dB>-1.93</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228534844</PPN>
+        <Signatur>RS 1755</Signatur>
+        <Min_Pk_dB>-2.36</Min_Pk_dB>
+        <Max_Pk_dB>-2.2</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228582784</PPN>
+        <Signatur>RS 1757</Signatur>
+        <Min_Pk_dB>-6.63</Min_Pk_dB>
+        <Max_Pk_dB>-2.46</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228584620</PPN>
+        <Signatur>RS 1760</Signatur>
+        <Min_Pk_dB>-1.76</Min_Pk_dB>
+        <Max_Pk_dB>-1.69</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228585686</PPN>
+        <Signatur>RS 1761</Signatur>
+        <Min_Pk_dB>-1.87</Min_Pk_dB>
+        <Max_Pk_dB>-1.6</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228586305</PPN>
+        <Signatur>RS 1762</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228588286</PPN>
+        <Signatur>RS 1765</Signatur>
+        <Min_Pk_dB>-1.85</Min_Pk_dB>
+        <Max_Pk_dB>-1.71</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228593530</PPN>
+        <Signatur>RS 1771</Signatur>
+        <Min_Pk_dB>-1.79</Min_Pk_dB>
+        <Max_Pk_dB>-1.7</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228594847</PPN>
+        <Signatur>RS 1773</Signatur>
+        <Min_Pk_dB>-1.83</Min_Pk_dB>
+        <Max_Pk_dB>-1.55</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228602610</PPN>
+        <Signatur>RS 1776</Signatur>
+        <Min_Pk_dB>-12.28</Min_Pk_dB>
+        <Max_Pk_dB>-9.78</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228652596</PPN>
+        <Signatur>RS 1777</Signatur>
+        <Min_Pk_dB>-2.28</Min_Pk_dB>
+        <Max_Pk_dB>-1.93</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228653762</PPN>
+        <Signatur>RS 1778</Signatur>
+        <Min_Pk_dB>-2</Min_Pk_dB>
+        <Max_Pk_dB>-1.65</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228654637</PPN>
+        <Signatur>RS 1780</Signatur>
+        <Min_Pk_dB>-2.13</Min_Pk_dB>
+        <Max_Pk_dB>-2.13</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>228662583</PPN>
+        <Signatur>RS 1785</Signatur>
+        <Min_Pk_dB>-2.12</Min_Pk_dB>
+        <Max_Pk_dB>-2</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>229007961</PPN>
+        <Signatur>RS 1794</Signatur>
+        <Min_Pk_dB>-4.23</Min_Pk_dB>
+        <Max_Pk_dB>-2.35</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>229117341</PPN>
+        <Signatur>RS 1825</Signatur>
+        <Min_Pk_dB>-2.5</Min_Pk_dB>
+        <Max_Pk_dB>-1.78</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>229129471</PPN>
+        <Signatur>RS 1832</Signatur>
+        <Min_Pk_dB>-5.09</Min_Pk_dB>
+        <Max_Pk_dB>-4.41</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>229202802</PPN>
+        <Signatur>RS 1838</Signatur>
+        <Min_Pk_dB>-1.71</Min_Pk_dB>
+        <Max_Pk_dB>-1.7</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>229439330</PPN>
+        <Signatur>RS 1862</Signatur>
+        <Min_Pk_dB>-4.15</Min_Pk_dB>
+        <Max_Pk_dB>-2.39</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>229621252</PPN>
+        <Signatur>RS 1873</Signatur>
+        <Min_Pk_dB>-4.75</Min_Pk_dB>
+        <Max_Pk_dB>-4.64</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>229629547</PPN>
+        <Signatur>RS 1875</Signatur>
+        <Min_Pk_dB>-6.33</Min_Pk_dB>
+        <Max_Pk_dB>-2.77</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22971031X</PPN>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22971031X</PPN>
+        <Signatur>RS 1882</Signatur>
+        <Min_Pk_dB>-17.48</Min_Pk_dB>
+        <Max_Pk_dB>-13.52</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>22971031X</PPN>
+        <Signatur>RS 266</Signatur>
+        <Min_Pk_dB>-16.51</Min_Pk_dB>
+        <Max_Pk_dB>-12.54</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>229758673</PPN>
+        <Signatur>RS 1898</Signatur>
+        <Min_Pk_dB>-1.49</Min_Pk_dB>
+        <Max_Pk_dB>-1.47</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>229758932</PPN>
+        <Signatur>RS 1899</Signatur>
+        <Min_Pk_dB>-1.54</Min_Pk_dB>
+        <Max_Pk_dB>-1.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>229994245</PPN>
+        <Signatur>TK 0914</Signatur>
+        <Min_Pk_dB>-0.42</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>231743041</PPN>
+        <Signatur>TK 1253</Signatur>
+        <Min_Pk_dB>-2.23</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>347041078</PPN>
+        <Signatur>CD 1073</Signatur>
+        <Min_Pk_dB>-0.07</Min_Pk_dB>
+        <Max_Pk_dB>-0.07</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>358513693</PPN>
+        <Signatur>CD 1078</Signatur>
+        <Min_Pk_dB>-4.37</Min_Pk_dB>
+        <Max_Pk_dB>-0.71</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>386978891</PPN>
+        <Signatur>RS 1957</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>386978891</PPN>
+        <Signatur>RS 1975</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>399102264</PPN>
+        <Signatur>CD 1143</Signatur>
+        <Min_Pk_dB>-0.83</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>399107851</PPN>
+        <Signatur>CD 1147</Signatur>
+        <Min_Pk_dB>-5.74</Min_Pk_dB>
+        <Max_Pk_dB>-0.09</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>399169938</PPN>
+        <Signatur>CD 1167</Signatur>
+        <Min_Pk_dB>-0.74</Min_Pk_dB>
+        <Max_Pk_dB>-0.17</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>399574131</PPN>
+        <Signatur>TK 0339</Signatur>
+        <Min_Pk_dB>-0.94</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>399654631</PPN>
+        <Signatur>TK 0468</Signatur>
+        <Min_Pk_dB>-2.85</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>399664378</PPN>
+        <Signatur>TK 0966</Signatur>
+        <Min_Pk_dB>-1.18</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>399908501</PPN>
+        <Signatur>TK 0471</Signatur>
+        <Min_Pk_dB>-2.42</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>399908501</PPN>
+        <Signatur>TK 0893</Signatur>
+        <Min_Pk_dB>-1.6</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400371154</PPN>
+        <Signatur>TK 0316</Signatur>
+        <Min_Pk_dB>-2.21</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400416115</PPN>
+        <Signatur>TK 0331</Signatur>
+        <Min_Pk_dB>-3.66</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400423006</PPN>
+        <Signatur>TK 0334</Signatur>
+        <Min_Pk_dB>-1.25</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400443848</PPN>
+        <Signatur>TK 0336</Signatur>
+        <Min_Pk_dB>-1.88</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400445174</PPN>
+        <Signatur>TK 0337</Signatur>
+        <Min_Pk_dB>-3.71</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400445751</PPN>
+        <Signatur>TK 0338</Signatur>
+        <Min_Pk_dB>-1.73</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400450577</PPN>
+        <Signatur>TK 0341</Signatur>
+        <Min_Pk_dB>-2.4</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400453568</PPN>
+        <Signatur>TK 0343</Signatur>
+        <Min_Pk_dB>-2.05</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400454009</PPN>
+        <Signatur>TK 0342</Signatur>
+        <Min_Pk_dB>-1.34</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400455803</PPN>
+        <Signatur>TK 0345</Signatur>
+        <Min_Pk_dB>-2.25</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400456982</PPN>
+        <Signatur>TK 0347</Signatur>
+        <Min_Pk_dB>-2.29</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400585006</PPN>
+        <Signatur>TK 0365</Signatur>
+        <Min_Pk_dB>-9.99</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400587106</PPN>
+        <Signatur>TK 0368</Signatur>
+        <Min_Pk_dB>-1.25</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400587939</PPN>
+        <Signatur>TK 0369</Signatur>
+        <Min_Pk_dB>-3.05</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400589451</PPN>
+        <Signatur>TK 0370</Signatur>
+        <Min_Pk_dB>-1.84</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400591596</PPN>
+        <Signatur>TK 0371</Signatur>
+        <Min_Pk_dB>-0.5</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400592177</PPN>
+        <Signatur>TK 0372</Signatur>
+        <Min_Pk_dB>-3.16</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400592770</PPN>
+        <Signatur>TK 0373</Signatur>
+        <Min_Pk_dB>-1.49</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400628562</PPN>
+        <Signatur>TK 0374</Signatur>
+        <Min_Pk_dB>-1.09</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400630222</PPN>
+        <Signatur>TK 0376</Signatur>
+        <Min_Pk_dB>-0.93</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400630575</PPN>
+        <Signatur>TK 0377</Signatur>
+        <Min_Pk_dB>-2.3</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40063404X</PPN>
+        <Signatur>TK 0378</Signatur>
+        <Min_Pk_dB>-2.16</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>400635925</PPN>
+        <Signatur>TK 0379</Signatur>
+        <Min_Pk_dB>-1.39</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>401334686</PPN>
+        <Signatur>TK 0386</Signatur>
+        <Min_Pk_dB>-1.52</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>401489396</PPN>
+        <Signatur>TK 0393</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>402007506</PPN>
+        <Signatur>TK 0466</Signatur>
+        <Min_Pk_dB>-3.59</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>402014693</PPN>
+        <Signatur>TK 0467</Signatur>
+        <Min_Pk_dB>-3.12</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>402014898</PPN>
+        <Signatur>TK 0469</Signatur>
+        <Min_Pk_dB>-6</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>402063554</PPN>
+        <Signatur>TK 0472</Signatur>
+        <Min_Pk_dB>-2.75</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>402076621</PPN>
+        <Signatur>TK 0473</Signatur>
+        <Min_Pk_dB>-1.68</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>402083644</PPN>
+        <Signatur>TK 0499</Signatur>
+        <Min_Pk_dB>-1.34</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>402085620</PPN>
+        <Signatur>TK 0501</Signatur>
+        <Min_Pk_dB>-0.39</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>402089960</PPN>
+        <Signatur>TK 508</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>402091108</PPN>
+        <Signatur>TK 0510</Signatur>
+        <Min_Pk_dB>-4.24</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>402092686</PPN>
+        <Signatur>TK 0512</Signatur>
+        <Min_Pk_dB>-1.95</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40236497X</PPN>
+        <Signatur>TK 0513</Signatur>
+        <Min_Pk_dB>-0.86</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>402982908</PPN>
+        <Signatur>TK 0629</Signatur>
+        <Min_Pk_dB>-0.85</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40311957X</PPN>
+        <Signatur>TK 0671</Signatur>
+        <Min_Pk_dB>-4.56</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403150493</PPN>
+        <Signatur>TK 0678</Signatur>
+        <Min_Pk_dB>-1.76</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403151783</PPN>
+        <Signatur>TK 0679</Signatur>
+        <Min_Pk_dB>-2.68</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40315281X</PPN>
+        <Signatur>TK 0680</Signatur>
+        <Min_Pk_dB>-6.08</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403193192</PPN>
+        <Signatur>TK 0689</Signatur>
+        <Min_Pk_dB>-1.88</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403259010</PPN>
+        <Signatur>TK 0703</Signatur>
+        <Min_Pk_dB>-2.25</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403274753</PPN>
+        <Signatur>TK 0702</Signatur>
+        <Min_Pk_dB>-1.11</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403275741</PPN>
+        <Signatur>TK 0668</Signatur>
+        <Min_Pk_dB>-1.42</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403276454</PPN>
+        <Signatur>TK 0760</Signatur>
+        <Min_Pk_dB>-1.47</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403277787</PPN>
+        <Signatur>TK 0705</Signatur>
+        <Min_Pk_dB>-3.44</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403278708</PPN>
+        <Signatur>TK 0707</Signatur>
+        <Min_Pk_dB>-1.53</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403279631</PPN>
+        <Signatur>TK 0708</Signatur>
+        <Min_Pk_dB>-1.79</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403300983</PPN>
+        <Signatur>TK 0709</Signatur>
+        <Min_Pk_dB>-1.77</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403303206</PPN>
+        <Signatur>TK 0710</Signatur>
+        <Min_Pk_dB>-1.64</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403404827</PPN>
+        <Signatur>TK 0722</Signatur>
+        <Min_Pk_dB>-1.61</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403446945</PPN>
+        <Signatur>TK 0999</Signatur>
+        <Min_Pk_dB>-2.88</Min_Pk_dB>
+        <Max_Pk_dB>-0.42</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403449367</PPN>
+        <Signatur>TK 0728</Signatur>
+        <Min_Pk_dB>-1.56</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403463858</PPN>
+        <Signatur>TK 0731</Signatur>
+        <Min_Pk_dB>-3.28</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40371804X</PPN>
+        <Signatur>TK 0762</Signatur>
+        <Min_Pk_dB>-1.6</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403718236</PPN>
+        <Signatur>TK 0763</Signatur>
+        <Min_Pk_dB>-1.3</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403741017</PPN>
+        <Signatur>TK 0764</Signatur>
+        <Min_Pk_dB>-0.99</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403742730</PPN>
+        <Signatur>TK 0741</Signatur>
+        <Min_Pk_dB>-1.06</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403742811</PPN>
+        <Signatur>TK 0742</Signatur>
+        <Min_Pk_dB>-1.38</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403747546</PPN>
+        <Signatur>TK 0745</Signatur>
+        <Min_Pk_dB>-0.4</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403754607</PPN>
+        <Signatur>TK 0749</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403755980</PPN>
+        <Signatur>TK 0750</Signatur>
+        <Min_Pk_dB>-6.88</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40376825X</PPN>
+        <Signatur>TK 0755</Signatur>
+        <Min_Pk_dB>-1.61</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403769280</PPN>
+        <Signatur>TK 0756</Signatur>
+        <Min_Pk_dB>-0.7</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403905524</PPN>
+        <Signatur>TK 0770</Signatur>
+        <Min_Pk_dB>-1.39</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403908698</PPN>
+        <Signatur>TK 0772</Signatur>
+        <Min_Pk_dB>-1.16</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>403909759</PPN>
+        <Signatur>TK 0773</Signatur>
+        <Min_Pk_dB>-1.72</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404329055</PPN>
+        <Signatur>TK 0888</Signatur>
+        <Min_Pk_dB>-0.92</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404330479</PPN>
+        <Signatur>TK 0889</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404343112</PPN>
+        <Signatur>TK 0894</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404352081</PPN>
+        <Signatur>TK 0896</Signatur>
+        <Min_Pk_dB>-1.86</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40435307X</PPN>
+        <Signatur>TK 0897</Signatur>
+        <Min_Pk_dB>-1.25</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404354939</PPN>
+        <Signatur>TK 0900</Signatur>
+        <Min_Pk_dB>-1.97</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404355536</PPN>
+        <Signatur>TK 0901</Signatur>
+        <Min_Pk_dB>-0.89</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404357318</PPN>
+        <Signatur>TK 0904</Signatur>
+        <Min_Pk_dB>-2.53</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404358721</PPN>
+        <Signatur>TK 0905</Signatur>
+        <Min_Pk_dB>-3.12</Min_Pk_dB>
+        <Max_Pk_dB>-0.05</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404368255</PPN>
+        <Signatur>TK 0907</Signatur>
+        <Min_Pk_dB>-2.68</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404368727</PPN>
+        <Signatur>TK 0908</Signatur>
+        <Min_Pk_dB>-2.77</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404378455</PPN>
+        <Signatur>TK 0910</Signatur>
+        <Min_Pk_dB>-2.14</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404380999</PPN>
+        <Signatur>TK 0913</Signatur>
+        <Min_Pk_dB>-0.05</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404382894</PPN>
+        <Signatur>TK 0916</Signatur>
+        <Min_Pk_dB>-1.05</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404445764</PPN>
+        <Signatur>TK 0922</Signatur>
+        <Min_Pk_dB>-0.9</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404447910</PPN>
+        <Signatur>TK 0925</Signatur>
+        <Min_Pk_dB>-2.55</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404457622</PPN>
+        <Signatur>TK 0927</Signatur>
+        <Min_Pk_dB>-0.16</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404459684</PPN>
+        <Signatur>TK 0928</Signatur>
+        <Min_Pk_dB>-0.82</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404460194</PPN>
+        <Signatur>TK 0929</Signatur>
+        <Min_Pk_dB>-0.62</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404461492</PPN>
+        <Signatur>TK 0930</Signatur>
+        <Min_Pk_dB>-1.97</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40446310X</PPN>
+        <Signatur>TK 0931</Signatur>
+        <Min_Pk_dB>-0.69</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404464963</PPN>
+        <Signatur>TK 0933</Signatur>
+        <Min_Pk_dB>-0.76</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404471056</PPN>
+        <Signatur>TK 0935</Signatur>
+        <Min_Pk_dB>-0.86</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404476783</PPN>
+        <Signatur>TK 0939</Signatur>
+        <Min_Pk_dB>-1.93</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404553311</PPN>
+        <Signatur>TK 0940</Signatur>
+        <Min_Pk_dB>-1.28</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404556272</PPN>
+        <Signatur>TK 0943</Signatur>
+        <Min_Pk_dB>-0.54</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404565867</PPN>
+        <Signatur>TK 0946</Signatur>
+        <Min_Pk_dB>-1.66</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404566871</PPN>
+        <Signatur>TK 0947</Signatur>
+        <Min_Pk_dB>-1.79</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404567819</PPN>
+        <Signatur>TK 0948</Signatur>
+        <Min_Pk_dB>-1.65</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404568327</PPN>
+        <Signatur>TK 0949</Signatur>
+        <Min_Pk_dB>-2.44</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404569366</PPN>
+        <Signatur>TK 0951</Signatur>
+        <Min_Pk_dB>-1.7</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40457212X</PPN>
+        <Signatur>TK 0952</Signatur>
+        <Min_Pk_dB>-1.33</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404612261</PPN>
+        <Signatur>TK 0953</Signatur>
+        <Min_Pk_dB>-0.68</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404613616</PPN>
+        <Signatur>TK 0954</Signatur>
+        <Min_Pk_dB>-0.77</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404616496</PPN>
+        <Signatur>TK 0955</Signatur>
+        <Min_Pk_dB>-0.87</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404617506</PPN>
+        <Signatur>TK 0956</Signatur>
+        <Min_Pk_dB>-2.57</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404618189</PPN>
+        <Signatur>TK 0957</Signatur>
+        <Min_Pk_dB>-1.32</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40463303X</PPN>
+        <Signatur>TK 0958</Signatur>
+        <Min_Pk_dB>-1.02</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404710921</PPN>
+        <Signatur>TK 0959</Signatur>
+        <Min_Pk_dB>-2.35</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404711480</PPN>
+        <Signatur>TK 0960</Signatur>
+        <Min_Pk_dB>-1.16</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404712223</PPN>
+        <Signatur>TK 0961</Signatur>
+        <Min_Pk_dB>-0.62</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404724655</PPN>
+        <Signatur>TK 0963</Signatur>
+        <Min_Pk_dB>-1.31</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40472566X</PPN>
+        <Signatur>TK 0964</Signatur>
+        <Min_Pk_dB>-0.34</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404728936</PPN>
+        <Signatur>TK 0981</Signatur>
+        <Min_Pk_dB>-0.69</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404729460</PPN>
+        <Signatur>TK 0969</Signatur>
+        <Min_Pk_dB>-1.36</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404739091</PPN>
+        <Signatur>TK 0970</Signatur>
+        <Min_Pk_dB>-1.07</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404745474</PPN>
+        <Signatur>TK 0971</Signatur>
+        <Min_Pk_dB>-3.65</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404745997</PPN>
+        <Signatur>TK 0972</Signatur>
+        <Min_Pk_dB>-1.25</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404751792</PPN>
+        <Signatur>TK 0973</Signatur>
+        <Min_Pk_dB>-0.91</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404836100</PPN>
+        <Signatur>TK 0976</Signatur>
+        <Min_Pk_dB>-0.02</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404837069</PPN>
+        <Signatur>TK 0977</Signatur>
+        <Min_Pk_dB>-0.55</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404876811</PPN>
+        <Signatur>TK 1002</Signatur>
+        <Min_Pk_dB>-1.36</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404877648</PPN>
+        <Signatur>TK 1003</Signatur>
+        <Min_Pk_dB>-1.13</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404899404</PPN>
+        <Signatur>TK 0985</Signatur>
+        <Min_Pk_dB>-1.62</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404928285</PPN>
+        <Signatur>TK 1017</Signatur>
+        <Min_Pk_dB>-0.43</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404929087</PPN>
+        <Signatur>TK 1018</Signatur>
+        <Min_Pk_dB>-1</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404946585</PPN>
+        <Signatur>TK 1024</Signatur>
+        <Min_Pk_dB>-1.31</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404946895</PPN>
+        <Signatur>TK 1026</Signatur>
+        <Min_Pk_dB>-3.16</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404954146</PPN>
+        <Signatur>TK 1028</Signatur>
+        <Min_Pk_dB>-0.27</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404956041</PPN>
+        <Signatur>TK 1032</Signatur>
+        <Min_Pk_dB>-2.11</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404960405</PPN>
+        <Signatur>TK 1034</Signatur>
+        <Min_Pk_dB>-1.64</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404960774</PPN>
+        <Signatur>TK 1035</Signatur>
+        <Min_Pk_dB>-0.69</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404983030</PPN>
+        <Signatur>TK 0991</Signatur>
+        <Min_Pk_dB>-1.77</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>40498360X</PPN>
+        <Signatur>TK 0992</Signatur>
+        <Min_Pk_dB>-1.83</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404996892</PPN>
+        <Signatur>TK 0994</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>404999131</PPN>
+        <Signatur>TK 1048</Signatur>
+        <Min_Pk_dB>-3.77</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>405347715</PPN>
+        <Signatur>TK 0998</Signatur>
+        <Min_Pk_dB>-0.52</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>406500614</PPN>
+        <Signatur>TK 1085</Signatur>
+        <Min_Pk_dB>-1.66</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>41737738X</PPN>
+        <Signatur>TK 1272</Signatur>
+        <Min_Pk_dB>-1.24</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>417723172</PPN>
+        <Signatur>TK 1279</Signatur>
+        <Min_Pk_dB>-1.4</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>417724985</PPN>
+        <Signatur>TK 1280</Signatur>
+        <Min_Pk_dB>-2.19</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>43852750X</PPN>
+        <Signatur>RS 1964</Signatur>
+        <Min_Pk_dB>-11.05</Min_Pk_dB>
+        <Max_Pk_dB>-3.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>445740116</PPN>
+        <Signatur>RS 1977</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>445740116</PPN>
+        <Signatur>RS 2259</Signatur>
+        <Min_Pk_dB>-11.39</Min_Pk_dB>
+        <Max_Pk_dB>-10.37</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>445741120</PPN>
+        <Signatur>RS 1978</Signatur>
+        <Min_Pk_dB>-5.11</Min_Pk_dB>
+        <Max_Pk_dB>-2.56</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>445741120</PPN>
+        <Signatur>RS 2262</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>445742194</PPN>
+        <Signatur>RS 1979</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>445742194</PPN>
+        <Signatur>RS 951</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>445744375</PPN>
+        <Signatur>RS 1980</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>445744375</PPN>
+        <Signatur>RS 2267</Signatur>
+        <Min_Pk_dB>-12.26</Min_Pk_dB>
+        <Max_Pk_dB>-11.89</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>445745584</PPN>
+        <Signatur>RS 1982</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>445745584</PPN>
+        <Signatur>RS 2239</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>446226491</PPN>
+        <Signatur>RS 2019</Signatur>
+        <Min_Pk_dB>-3.16</Min_Pk_dB>
+        <Max_Pk_dB>-1.75</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447384287</PPN>
+        <Signatur>RS 2055</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447388134</PPN>
+        <Signatur>RS 2060</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447391585</PPN>
+        <Signatur>RS 2065</Signatur>
+        <Min_Pk_dB>-10.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447393014</PPN>
+        <Signatur>RS 2068</Signatur>
+        <Min_Pk_dB>-10.06</Min_Pk_dB>
+        <Max_Pk_dB>-10.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>44739343X</PPN>
+        <Signatur>RS 2069</Signatur>
+        <Min_Pk_dB>-10.06</Min_Pk_dB>
+        <Max_Pk_dB>-10.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447393669</PPN>
+        <Signatur>RS 2070</Signatur>
+        <Min_Pk_dB>-10.06</Min_Pk_dB>
+        <Max_Pk_dB>-10.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447393758</PPN>
+        <Signatur>RS 2071</Signatur>
+        <Min_Pk_dB>-10.06</Min_Pk_dB>
+        <Max_Pk_dB>-10.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447394096</PPN>
+        <Signatur>RS 2072</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447740288</PPN>
+        <Signatur>RS 2091</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>44775789X</PPN>
+        <Signatur>RS 2092</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>44776005X</PPN>
+        <Signatur>RS 2093</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>44776215X</PPN>
+        <Signatur>RS 2094</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447763474</PPN>
+        <Signatur>RS 2095</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447764845</PPN>
+        <Signatur>RS 2096</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447766163</PPN>
+        <Signatur>RS 2097</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447766473</PPN>
+        <Signatur>RS 2098</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>44778398X</PPN>
+        <Signatur>RS 2099</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447784943</PPN>
+        <Signatur>RS 2100</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>447785192</PPN>
+        <Signatur>RS 2101</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>44778529X</PPN>
+        <Signatur>RS 2102</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>448245914</PPN>
+        <Signatur>RS 2481</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>450644596</PPN>
+        <Signatur>CD 1391</Signatur>
+        <Min_Pk_dB>-1.73</Min_Pk_dB>
+        <Max_Pk_dB>-0.21</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>45064488X</PPN>
+        <Signatur>CD 1390</Signatur>
+        <Min_Pk_dB>-1.61</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>450689794</PPN>
+        <Signatur>CD 1398</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>450691446</PPN>
+        <Signatur>CD 1400</Signatur>
+        <Min_Pk_dB>-0.48</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>450769526</PPN>
+        <Signatur>CD 1410</Signatur>
+        <Min_Pk_dB>-3.14</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>455416729</PPN>
+        <Signatur>RS 2174</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>457455748</PPN>
+        <Signatur>TK 1669</Signatur>
+        <Min_Pk_dB>-20.06</Min_Pk_dB>
+        <Max_Pk_dB>-20.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>457456434</PPN>
+        <Signatur>TK 1670</Signatur>
+        <Min_Pk_dB>-20.25</Min_Pk_dB>
+        <Max_Pk_dB>-20.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>45746156X</PPN>
+        <Signatur>TK 1678</Signatur>
+        <Min_Pk_dB>-22.28</Min_Pk_dB>
+        <Max_Pk_dB>-20.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>457462094</PPN>
+        <Signatur>TK 1677</Signatur>
+        <Min_Pk_dB>-20.82</Min_Pk_dB>
+        <Max_Pk_dB>-20.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>457463635</PPN>
+        <Signatur>TK 1679</Signatur>
+        <Min_Pk_dB>-20.06</Min_Pk_dB>
+        <Max_Pk_dB>-20.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>457464399</PPN>
+        <Signatur>TK 1680</Signatur>
+        <Min_Pk_dB>-20.06</Min_Pk_dB>
+        <Max_Pk_dB>-20.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>463453778</PPN>
+        <Signatur>CD 1658</Signatur>
+        <Min_Pk_dB>-1.69</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>463517091</PPN>
+        <Signatur>CD 1666</Signatur>
+        <Min_Pk_dB>-0.18</Min_Pk_dB>
+        <Max_Pk_dB>-0.18</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>463520319</PPN>
+        <Signatur>CD 1669</Signatur>
+        <Min_Pk_dB>-1.43</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>463737830</PPN>
+        <Signatur>CD 1674</Signatur>
+        <Min_Pk_dB>-0.25</Min_Pk_dB>
+        <Max_Pk_dB>-0.25</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>464196965</PPN>
+        <Signatur>CD 1710</Signatur>
+        <Min_Pk_dB>-3.65</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>475047605</PPN>
+        <Signatur>TK 1844</Signatur>
+        <Min_Pk_dB>-20.06</Min_Pk_dB>
+        <Max_Pk_dB>-20.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>47623476X</PPN>
+        <Signatur>RS 2204</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476236037</PPN>
+        <Signatur>RS 2205</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476237300</PPN>
+        <Signatur>RS 2207</Signatur>
+        <Min_Pk_dB>-6.51</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476238420</PPN>
+        <Signatur>RS 2208</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476240859</PPN>
+        <Signatur>RS 2211</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476241065</PPN>
+        <Signatur>RS 2212</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476474019</PPN>
+        <Signatur>RS 2215</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476474353</PPN>
+        <Signatur>RS 2216</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476475244</PPN>
+        <Signatur>RS 2217</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476475511</PPN>
+        <Signatur>RS 2218</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476475732</PPN>
+        <Signatur>RS 2219</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476476070</PPN>
+        <Signatur>RS 2220</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>47665534X</PPN>
+        <Signatur>RS 2221</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476656176</PPN>
+        <Signatur>RS 2222</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476657997</PPN>
+        <Signatur>RS 2223</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476660424</PPN>
+        <Signatur>RS 2224</Signatur>
+        <Min_Pk_dB>-8.97</Min_Pk_dB>
+        <Max_Pk_dB>-6.34</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476662311</PPN>
+        <Signatur>RS 2225</Signatur>
+        <Min_Pk_dB>-9.01</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476665051</PPN>
+        <Signatur>RS 2226</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476666333</PPN>
+        <Signatur>RS 2227</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476667046</PPN>
+        <Signatur>RS 2228</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>47686478X</PPN>
+        <Signatur>RS 2229</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476866804</PPN>
+        <Signatur>RS 2230</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476900646</PPN>
+        <Signatur>RS 2231</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-0.83</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476901154</PPN>
+        <Signatur>RS 2232</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476942179</PPN>
+        <Signatur>RS 2234</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476942802</PPN>
+        <Signatur>RS 2235</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476943221</PPN>
+        <Signatur>RS 2236</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>476946778</PPN>
+        <Signatur>RS 2237</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477099505</PPN>
+        <Signatur>RS 2238</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477100201</PPN>
+        <Signatur>RS 2240</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477100600</PPN>
+        <Signatur>RS 2241</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477100880</PPN>
+        <Signatur>RS 2242</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>47710133X</PPN>
+        <Signatur>RS 2243</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477134106</PPN>
+        <Signatur>RS 2247</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477270824</PPN>
+        <Signatur>RS 2253</Signatur>
+        <Min_Pk_dB>-20.14</Min_Pk_dB>
+        <Max_Pk_dB>-13.49</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477271243</PPN>
+        <Signatur>RS 2254</Signatur>
+        <Min_Pk_dB>-17.48</Min_Pk_dB>
+        <Max_Pk_dB>-16.08</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477272576</PPN>
+        <Signatur>RS 2255</Signatur>
+        <Min_Pk_dB>-19.51</Min_Pk_dB>
+        <Max_Pk_dB>-17.6</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>47727384X</PPN>
+        <Signatur>RS 2256</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477274560</PPN>
+        <Signatur>RS 2258</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477275370</PPN>
+        <Signatur>RS 2260</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477275729</PPN>
+        <Signatur>RS 2261</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477276709</PPN>
+        <Signatur>RS 2263</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477390870</PPN>
+        <Signatur>RS 2264</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477392512</PPN>
+        <Signatur>RS 2266</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477394388</PPN>
+        <Signatur>RS 2269</Signatur>
+        <Min_Pk_dB>-16.4</Min_Pk_dB>
+        <Max_Pk_dB>-15.87</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477465919</PPN>
+        <Signatur>RS 2272</Signatur>
+        <Min_Pk_dB>-15.48</Min_Pk_dB>
+        <Max_Pk_dB>-13.32</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477468284</PPN>
+        <Signatur>RS 2274</Signatur>
+        <Min_Pk_dB>-14.48</Min_Pk_dB>
+        <Max_Pk_dB>-14.29</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477468659</PPN>
+        <Signatur>RS 2275</Signatur>
+        <Min_Pk_dB>-14.72</Min_Pk_dB>
+        <Max_Pk_dB>-14.71</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477468950</PPN>
+        <Signatur>RS 2276</Signatur>
+        <Min_Pk_dB>-14.8</Min_Pk_dB>
+        <Max_Pk_dB>-14.59</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477469361</PPN>
+        <Signatur>RS 2277</Signatur>
+        <Min_Pk_dB>-15.11</Min_Pk_dB>
+        <Max_Pk_dB>-14.93</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477469809</PPN>
+        <Signatur>RS 2278</Signatur>
+        <Min_Pk_dB>-14.59</Min_Pk_dB>
+        <Max_Pk_dB>-14.21</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477470181</PPN>
+        <Signatur>RS 2279</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477470769</PPN>
+        <Signatur>RS 2280</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477471064</PPN>
+        <Signatur>RS 2281</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477471307</PPN>
+        <Signatur>RS 2282</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477472273</PPN>
+        <Signatur>RS 2283</Signatur>
+        <Min_Pk_dB>-11.21</Min_Pk_dB>
+        <Max_Pk_dB>-10.18</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477472834</PPN>
+        <Signatur>RS 2284</Signatur>
+        <Min_Pk_dB>-13.76</Min_Pk_dB>
+        <Max_Pk_dB>-13.63</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477473172</PPN>
+        <Signatur>RS 2285</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>47749420X</PPN>
+        <Signatur>RS 2291</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477496520</PPN>
+        <Signatur>RS 2293</Signatur>
+        <Min_Pk_dB>-15.43</Min_Pk_dB>
+        <Max_Pk_dB>-12.96</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477496970</PPN>
+        <Signatur>RS 2294</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477498361</PPN>
+        <Signatur>RS 2295</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477707904</PPN>
+        <Signatur>RS 2296</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477708234</PPN>
+        <Signatur>RS 2297</Signatur>
+        <Min_Pk_dB>-10.06</Min_Pk_dB>
+        <Max_Pk_dB>-10.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477708463</PPN>
+        <Signatur>RS 2298</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477708986</PPN>
+        <Signatur>RS 2299</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>47790663X</PPN>
+        <Signatur>RS 2307</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477907660</PPN>
+        <Signatur>RS 2308</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477908934</PPN>
+        <Signatur>RS 2309</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477913784</PPN>
+        <Signatur>RS 2314</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477914179</PPN>
+        <Signatur>RS 2315</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>47794115X</PPN>
+        <Signatur>RS 2317</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>477944140</PPN>
+        <Signatur>RS 2319</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478131224</PPN>
+        <Signatur>RS 2323</Signatur>
+        <Min_Pk_dB>-10.22</Min_Pk_dB>
+        <Max_Pk_dB>-10.11</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478131518</PPN>
+        <Signatur>RS 2322</Signatur>
+        <Min_Pk_dB>-10.06</Min_Pk_dB>
+        <Max_Pk_dB>-10.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478145888</PPN>
+        <Signatur>RS 2325</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478176724</PPN>
+        <Signatur>RS 2327</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478177410</PPN>
+        <Signatur>RS 2328</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478178069</PPN>
+        <Signatur>RS 2329</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478178530</PPN>
+        <Signatur>RS 2330</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478179022</PPN>
+        <Signatur>RS 2331</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478285728</PPN>
+        <Signatur>TK 1990</Signatur>
+        <Min_Pk_dB>-15.72</Min_Pk_dB>
+        <Max_Pk_dB>-12.95</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478477457</PPN>
+        <Signatur>TK 1948</Signatur>
+        <Min_Pk_dB>-9.69</Min_Pk_dB>
+        <Max_Pk_dB>-6.51</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>47848870X</PPN>
+        <Signatur>TK 1960</Signatur>
+        <Min_Pk_dB>-13.28</Min_Pk_dB>
+        <Max_Pk_dB>-8.95</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478742614</PPN>
+        <Signatur>RS 2394</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478743483</PPN>
+        <Signatur>RS 2396</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478744439</PPN>
+        <Signatur>RS 2397</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478745311</PPN>
+        <Signatur>RS 2398</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478746431</PPN>
+        <Signatur>RS 2399</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478747578</PPN>
+        <Signatur>RS 2400</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478790570</PPN>
+        <Signatur>RS 2403</Signatur>
+        <Min_Pk_dB>-10.06</Min_Pk_dB>
+        <Max_Pk_dB>-10.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478791267</PPN>
+        <Signatur>RS 2404</Signatur>
+        <Min_Pk_dB>-11.8</Min_Pk_dB>
+        <Max_Pk_dB>-10.29</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478935935</PPN>
+        <Signatur>RS 2414</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>47896529X</PPN>
+        <Signatur>RS 2421</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478966555</PPN>
+        <Signatur>RS 2423</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478967152</PPN>
+        <Signatur>RS 2424</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>478968345</PPN>
+        <Signatur>RS 2425</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479304777</PPN>
+        <Signatur>TK 1972</Signatur>
+        <Min_Pk_dB>-12.39</Min_Pk_dB>
+        <Max_Pk_dB>-10.77</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>47930582X</PPN>
+        <Signatur>TK 1975</Signatur>
+        <Min_Pk_dB>-11.2</Min_Pk_dB>
+        <Max_Pk_dB>-10.4</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479315310</PPN>
+        <Signatur>RS 2426</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479316309</PPN>
+        <Signatur>RS 2427</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479320535</PPN>
+        <Signatur>RS 2429</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479323402</PPN>
+        <Signatur>RS 2430</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479325871</PPN>
+        <Signatur>RS 2431</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479326207</PPN>
+        <Signatur>RS 2432</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479343810</PPN>
+        <Signatur>RS 2433</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479344485</PPN>
+        <Signatur>RS 2434</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479345236</PPN>
+        <Signatur>RS 2435</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479346542</PPN>
+        <Signatur>RS 2436</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479347379</PPN>
+        <Signatur>RS 2437</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479387451</PPN>
+        <Signatur>RS 2438</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479387990</PPN>
+        <Signatur>RS 2439</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479487618</PPN>
+        <Signatur>RS 2446</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479488339</PPN>
+        <Signatur>RS 2447</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479488932</PPN>
+        <Signatur>RS 2448</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479489939</PPN>
+        <Signatur>RS 2449</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479490341</PPN>
+        <Signatur>RS 2450</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479490929</PPN>
+        <Signatur>RS 2451</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479495912</PPN>
+        <Signatur>RS 2452</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479496242</PPN>
+        <Signatur>RS 2453</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479519838</PPN>
+        <Signatur>CD 2334</Signatur>
+        <Min_Pk_dB>-4.62</Min_Pk_dB>
+        <Max_Pk_dB>-0.07</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479522529</PPN>
+        <Signatur>RS 2460</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479530009</PPN>
+        <Signatur>RS 2454</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479568243</PPN>
+        <Signatur>RS 2455</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479573557</PPN>
+        <Signatur>RS 2456</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479573743</PPN>
+        <Signatur>RS 2457</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479647925</PPN>
+        <Signatur>TK 1913</Signatur>
+        <Min_Pk_dB>-13.12</Min_Pk_dB>
+        <Max_Pk_dB>-4.6</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479648964</PPN>
+        <Signatur>TK 1914</Signatur>
+        <Min_Pk_dB>-19.38</Min_Pk_dB>
+        <Max_Pk_dB>-17.28</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>479665141</PPN>
+        <Signatur>TK 1897</Signatur>
+        <Min_Pk_dB>-14.74</Min_Pk_dB>
+        <Max_Pk_dB>-6.12</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>480460094</PPN>
+        <Signatur>RS 2461</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>480723451</PPN>
+        <Signatur>RS 2469</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>483047767</PPN>
+        <Signatur>TK 2020</Signatur>
+        <Min_Pk_dB>-22.81</Min_Pk_dB>
+        <Max_Pk_dB>-20.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>483047775</PPN>
+        <Signatur>TK 2019</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>483047813</PPN>
+        <Signatur>TK 2017</Signatur>
+        <Min_Pk_dB>-13.42</Min_Pk_dB>
+        <Max_Pk_dB>-11.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>483072486</PPN>
+        <Signatur>CD 2255</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>483072591</PPN>
+        <Signatur>CD 2254</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>483072702</PPN>
+        <Signatur>CD 2253</Signatur>
+        <Min_Pk_dB>-0.1</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>48307277X</PPN>
+        <Signatur>CD 2252</Signatur>
+        <Min_Pk_dB>-0.1</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484209558</PPN>
+        <Signatur>CD 2257</Signatur>
+        <Min_Pk_dB>-1.64</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484209558</PPN>
+        <Signatur>CD 35</Signatur>
+        <Min_Pk_dB>-1.64</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484212729</PPN>
+        <Signatur>CD 623</Signatur>
+        <Min_Pk_dB>-0.28</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484212893</PPN>
+        <Signatur>CD 623</Signatur>
+        <Min_Pk_dB>-0.25</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484665499</PPN>
+        <Signatur>CD 2256</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484668439</PPN>
+        <Signatur>CD 2266</Signatur>
+        <Min_Pk_dB>-0.18</Min_Pk_dB>
+        <Max_Pk_dB>-0.15</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484669680</PPN>
+        <Signatur>CD 2267</Signatur>
+        <Min_Pk_dB>-1</Min_Pk_dB>
+        <Max_Pk_dB>-0.41</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484956418</PPN>
+        <Signatur>CD 2269</Signatur>
+        <Min_Pk_dB>-0.48</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484960687</PPN>
+        <Signatur>CD 2271</Signatur>
+        <Min_Pk_dB>-0.46</Min_Pk_dB>
+        <Max_Pk_dB>-0.46</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484962116</PPN>
+        <Signatur>CD 2273</Signatur>
+        <Min_Pk_dB>-0.48</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484962825</PPN>
+        <Signatur>CD 2274</Signatur>
+        <Min_Pk_dB>-1.03</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>484962973</PPN>
+        <Signatur>CD 2275</Signatur>
+        <Min_Pk_dB>-1.86</Min_Pk_dB>
+        <Max_Pk_dB>-0.07</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>485296489</PPN>
+        <Signatur>CD 2276</Signatur>
+        <Min_Pk_dB>-1.18</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>485296691</PPN>
+        <Signatur>CD 2277</Signatur>
+        <Min_Pk_dB>-2.58</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>485299224</PPN>
+        <Signatur>CD 2281</Signatur>
+        <Min_Pk_dB>-0.07</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>48530385X</PPN>
+        <Signatur>CD 2286</Signatur>
+        <Min_Pk_dB>-1.79</Min_Pk_dB>
+        <Max_Pk_dB>-0.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>48552290X</PPN>
+        <Signatur>CD 2289</Signatur>
+        <Min_Pk_dB>-4.79</Min_Pk_dB>
+        <Max_Pk_dB>-0.04</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>488350387</PPN>
+        <Signatur>CD 2228</Signatur>
+        <Min_Pk_dB>-2.28</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>488350409</PPN>
+        <Signatur>CD 2231</Signatur>
+        <Min_Pk_dB>-1.64</Min_Pk_dB>
+        <Max_Pk_dB>-0.19</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>488350417</PPN>
+        <Signatur>CD 2232</Signatur>
+        <Min_Pk_dB>-4.71</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>488350425</PPN>
+        <Signatur>CD 2233</Signatur>
+        <Min_Pk_dB>-0.48</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>488350433</PPN>
+        <Signatur>CD 2234</Signatur>
+        <Min_Pk_dB>-0.7</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>488350441</PPN>
+        <Signatur>CD 2235</Signatur>
+        <Min_Pk_dB>-1.49</Min_Pk_dB>
+        <Max_Pk_dB>-0.37</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>48949725X</PPN>
+        <Signatur>CD 2186</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489497268</PPN>
+        <Signatur>CD 2187</Signatur>
+        <Min_Pk_dB>-0.69</Min_Pk_dB>
+        <Max_Pk_dB>-0.07</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489497330</PPN>
+        <Signatur>CD 2189</Signatur>
+        <Min_Pk_dB>-0.83</Min_Pk_dB>
+        <Max_Pk_dB>-0.24</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489497411</PPN>
+        <Signatur>CD 2190</Signatur>
+        <Min_Pk_dB>-2.2</Min_Pk_dB>
+        <Max_Pk_dB>-0.08</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489497454</PPN>
+        <Signatur>CD 2191</Signatur>
+        <Min_Pk_dB>-0.55</Min_Pk_dB>
+        <Max_Pk_dB>-0.1</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>48951541X</PPN>
+        <Signatur>CD 2201</Signatur>
+        <Min_Pk_dB>-0.27</Min_Pk_dB>
+        <Max_Pk_dB>-0.03</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489516793</PPN>
+        <Signatur>CD 2181</Signatur>
+        <Min_Pk_dB>-2.47</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489974104</PPN>
+        <Signatur>CD 2202</Signatur>
+        <Min_Pk_dB>-0.36</Min_Pk_dB>
+        <Max_Pk_dB>-0.36</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489974465</PPN>
+        <Signatur>CD 2205</Signatur>
+        <Min_Pk_dB>-1.63</Min_Pk_dB>
+        <Max_Pk_dB>-0.51</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489974589</PPN>
+        <Signatur>CD 2211</Signatur>
+        <Min_Pk_dB>-0.51</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489990398</PPN>
+        <Signatur>CD 2208</Signatur>
+        <Min_Pk_dB>-0.47</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489990568</PPN>
+        <Signatur>CD 2206</Signatur>
+        <Min_Pk_dB>-0.67</Min_Pk_dB>
+        <Max_Pk_dB>-0.08</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489994008</PPN>
+        <Signatur>CD 2209</Signatur>
+        <Min_Pk_dB>-0.1</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489994008</PPN>
+        <Signatur>CD 667</Signatur>
+        <Min_Pk_dB>-0.1</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>489995144</PPN>
+        <Signatur>CD 2217</Signatur>
+        <Min_Pk_dB>-1.17</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490311016</PPN>
+        <Signatur>CD 2218</Signatur>
+        <Min_Pk_dB>-2.47</Min_Pk_dB>
+        <Max_Pk_dB>-0.07</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490311067</PPN>
+        <Signatur>CD 2219</Signatur>
+        <Min_Pk_dB>-0.01</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490311075</PPN>
+        <Signatur>CD 2220</Signatur>
+        <Min_Pk_dB>-3.21</Min_Pk_dB>
+        <Max_Pk_dB>-0.8</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490328865</PPN>
+        <Signatur>CD 2155</Signatur>
+        <Min_Pk_dB>-1.3</Min_Pk_dB>
+        <Max_Pk_dB>-0.62</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490775497</PPN>
+        <Signatur>CD 2222</Signatur>
+        <Min_Pk_dB>-2.59</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490775586</PPN>
+        <Signatur>CD 2226</Signatur>
+        <Min_Pk_dB>-2.52</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490775594</PPN>
+        <Signatur>CD 2227</Signatur>
+        <Min_Pk_dB>-1.65</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490775632</PPN>
+        <Signatur>CD 2240</Signatur>
+        <Min_Pk_dB>-3.74</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490775659</PPN>
+        <Signatur>CD 2241</Signatur>
+        <Min_Pk_dB>-1.44</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490775675</PPN>
+        <Signatur>CD 2242</Signatur>
+        <Min_Pk_dB>-1.16</Min_Pk_dB>
+        <Max_Pk_dB>-1.1</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490775756</PPN>
+        <Signatur>CD 2243</Signatur>
+        <Min_Pk_dB>-3.04</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490775853</PPN>
+        <Signatur>CD 2244</Signatur>
+        <Min_Pk_dB>-0.45</Min_Pk_dB>
+        <Max_Pk_dB>-0.1</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490793452</PPN>
+        <Signatur>CD 2245</Signatur>
+        <Min_Pk_dB>-0.72</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490794483</PPN>
+        <Signatur>CD 2246</Signatur>
+        <Min_Pk_dB>-1.69</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>49079677X</PPN>
+        <Signatur>CD 2249</Signatur>
+        <Min_Pk_dB>-1</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>490797288</PPN>
+        <Signatur>CD 2250</Signatur>
+        <Min_Pk_dB>-3.03</Min_Pk_dB>
+        <Max_Pk_dB>-0.49</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>49093787X</PPN>
+        <Signatur>CD 2251</Signatur>
+        <Min_Pk_dB>-2.35</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>49371734X</PPN>
+        <Signatur>CD 2522</Signatur>
+        <Min_Pk_dB>-1.34</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>50996656X</PPN>
+        <Signatur>CD 2836</Signatur>
+        <Min_Pk_dB>-1.3</Min_Pk_dB>
+        <Max_Pk_dB>-0.23</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>50996656X</PPN>
+        <Signatur>CD 49</Signatur>
+        <Min_Pk_dB>-1.3</Min_Pk_dB>
+        <Max_Pk_dB>-0.23</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>51304051X</PPN>
+        <Signatur>CD 21</Signatur>
+        <Min_Pk_dB>-1.45</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513047352</PPN>
+        <Signatur>CD 32</Signatur>
+        <Min_Pk_dB>-0.01</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513050817</PPN>
+        <Signatur>CD 44</Signatur>
+        <Min_Pk_dB>-0.01</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513182845</PPN>
+        <Signatur>CD 58</Signatur>
+        <Min_Pk_dB>-0.72</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513184309</PPN>
+        <Signatur>CD 65</Signatur>
+        <Min_Pk_dB>-4.59</Min_Pk_dB>
+        <Max_Pk_dB>-0.19</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513185364</PPN>
+        <Signatur>CD 82</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513197680</PPN>
+        <Signatur>CD 112</Signatur>
+        <Min_Pk_dB>-1.26</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>51319844X</PPN>
+        <Signatur>CD 113</Signatur>
+        <Min_Pk_dB>-3.49</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513199020</PPN>
+        <Signatur>CD 139</Signatur>
+        <Min_Pk_dB>-2.31</Min_Pk_dB>
+        <Max_Pk_dB>-0.18</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513200134</PPN>
+        <Signatur>CD 140</Signatur>
+        <Min_Pk_dB>-6.48</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513204342</PPN>
+        <Signatur>CD 164</Signatur>
+        <Min_Pk_dB>-5.73</Min_Pk_dB>
+        <Max_Pk_dB>-0.39</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513206469</PPN>
+        <Signatur>CD 179</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513207279</PPN>
+        <Signatur>CD 180</Signatur>
+        <Min_Pk_dB>-0.55</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>51321495X</PPN>
+        <Signatur>CD 182</Signatur>
+        <Min_Pk_dB>-0.08</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>51321724X</PPN>
+        <Signatur>CD 183</Signatur>
+        <Min_Pk_dB>-16.71</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513220763</PPN>
+        <Signatur>CD 205</Signatur>
+        <Min_Pk_dB>-1.33</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513392858</PPN>
+        <Signatur>CD 335</Signatur>
+        <Min_Pk_dB>-5.19</Min_Pk_dB>
+        <Max_Pk_dB>-1.43</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513398406</PPN>
+        <Signatur>CD 388</Signatur>
+        <Min_Pk_dB>-0.59</Min_Pk_dB>
+        <Max_Pk_dB>-0.26</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513398880</PPN>
+        <Signatur>CD 391</Signatur>
+        <Min_Pk_dB>-1.87</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513403248</PPN>
+        <Signatur>CD 441</Signatur>
+        <Min_Pk_dB>-0.19</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513480447</PPN>
+        <Signatur>CD 442</Signatur>
+        <Min_Pk_dB>-0.25</Min_Pk_dB>
+        <Max_Pk_dB>-0.18</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513489851</PPN>
+        <Signatur>CD 445</Signatur>
+        <Min_Pk_dB>0</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513490450</PPN>
+        <Signatur>CD 447</Signatur>
+        <Min_Pk_dB>-2.64</Min_Pk_dB>
+        <Max_Pk_dB>-0.48</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513494510</PPN>
+        <Signatur>CD 453</Signatur>
+        <Min_Pk_dB>-7.3</Min_Pk_dB>
+        <Max_Pk_dB>-3.67</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513497269</PPN>
+        <Signatur>CD 477</Signatur>
+        <Min_Pk_dB>-0.42</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513498028</PPN>
+        <Signatur>CD 484</Signatur>
+        <Min_Pk_dB>-0.3</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513543147</PPN>
+        <Signatur>CD 533</Signatur>
+        <Min_Pk_dB>-2.33</Min_Pk_dB>
+        <Max_Pk_dB>-0.3</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>51371359X</PPN>
+        <Signatur>CD 662</Signatur>
+        <Min_Pk_dB>-2.62</Min_Pk_dB>
+        <Max_Pk_dB>-0.35</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513740163</PPN>
+        <Signatur>CD 663</Signatur>
+        <Min_Pk_dB>-0.83</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513740597</PPN>
+        <Signatur>RS 2473</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513740961</PPN>
+        <Signatur>RS 2474</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513741259</PPN>
+        <Signatur>RS 2475</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513741976</PPN>
+        <Signatur>CD 666</Signatur>
+        <Min_Pk_dB>-0.89</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513742123</PPN>
+        <Signatur>CD 668</Signatur>
+        <Min_Pk_dB>-1.02</Min_Pk_dB>
+        <Max_Pk_dB>-0.1</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513762728</PPN>
+        <Signatur>RS 2476</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513762906</PPN>
+        <Signatur>CD 670</Signatur>
+        <Min_Pk_dB>-0.07</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513763023</PPN>
+        <Signatur>RS 2477</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513763864</PPN>
+        <Signatur>RS 2478</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513765093</PPN>
+        <Signatur>RS 2479</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>51376724X</PPN>
+        <Signatur>CD 671</Signatur>
+        <Min_Pk_dB>-1</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513768351</PPN>
+        <Signatur>CD 672</Signatur>
+        <Min_Pk_dB>-0.1</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513778608</PPN>
+        <Signatur>RS 2482</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513779159</PPN>
+        <Signatur>RS 2483</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513779566</PPN>
+        <Signatur>RS 2484</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513780491</PPN>
+        <Signatur>RS 2485</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513995307</PPN>
+        <Signatur>RS 2486</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513995625</PPN>
+        <Signatur>RS 2487</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>513995986</PPN>
+        <Signatur>RS 2488</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514007826</PPN>
+        <Signatur>RS 2490</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514018933</PPN>
+        <Signatur>RS 2491</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514022531</PPN>
+        <Signatur>RS 2492</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514023155</PPN>
+        <Signatur>RS 2493</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514075058</PPN>
+        <Signatur>RS 2494</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>51407549X</PPN>
+        <Signatur>RS 2495</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514076100</PPN>
+        <Signatur>RS 2496</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514076461</PPN>
+        <Signatur>RS 2497</Signatur>
+        <Min_Pk_dB>-24</Min_Pk_dB>
+        <Max_Pk_dB>-23.81</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514076941</PPN>
+        <Signatur>RS 2498</Signatur>
+        <Min_Pk_dB>-19.71</Min_Pk_dB>
+        <Max_Pk_dB>-19.57</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514077476</PPN>
+        <Signatur>RS 2499</Signatur>
+        <Min_Pk_dB>-24.1</Min_Pk_dB>
+        <Max_Pk_dB>-19.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514077980</PPN>
+        <Signatur>RS 2500</Signatur>
+        <Min_Pk_dB>-13.38</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514078685</PPN>
+        <Signatur>RS 2501</Signatur>
+        <Min_Pk_dB>-2.57</Min_Pk_dB>
+        <Max_Pk_dB>-2.57</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514080795</PPN>
+        <Signatur>CD 673</Signatur>
+        <Min_Pk_dB>-1.1</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514085789</PPN>
+        <Signatur>RS 2505</Signatur>
+        <Min_Pk_dB>-4.77</Min_Pk_dB>
+        <Max_Pk_dB>-0.99</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514236981</PPN>
+        <Signatur>CD 675</Signatur>
+        <Min_Pk_dB>-0.55</Min_Pk_dB>
+        <Max_Pk_dB>0</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514237473</PPN>
+        <Signatur>CD 676</Signatur>
+        <Min_Pk_dB>-0.01</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514248262</PPN>
+        <Signatur>CD 677</Signatur>
+        <Min_Pk_dB>-0.01</Min_Pk_dB>
+        <Max_Pk_dB>-0.01</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514293829</PPN>
+        <Signatur>CD 678</Signatur>
+        <Min_Pk_dB>-0.72</Min_Pk_dB>
+        <Max_Pk_dB>-0.15</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514296097</PPN>
+        <Signatur>CD 679</Signatur>
+        <Min_Pk_dB>-2.02</Min_Pk_dB>
+        <Max_Pk_dB>-0.56</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>51429616X</PPN>
+        <Signatur>CD 680</Signatur>
+        <Min_Pk_dB>-1.11</Min_Pk_dB>
+        <Max_Pk_dB>-0.36</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514296232</PPN>
+        <Signatur>CD 681</Signatur>
+        <Min_Pk_dB>-0.56</Min_Pk_dB>
+        <Max_Pk_dB>-0.56</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514412321</PPN>
+        <Signatur>RS 2506</Signatur>
+        <Min_Pk_dB>-5.8</Min_Pk_dB>
+        <Max_Pk_dB>-3.62</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>51441345X</PPN>
+        <Signatur>RS 2509</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514413832</PPN>
+        <Signatur>RS 2510</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514414987</PPN>
+        <Signatur>RS 2511</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514423811</PPN>
+        <Signatur>RS 2562</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514424842</PPN>
+        <Signatur>RS 2513</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514425601</PPN>
+        <Signatur>RS 2514</Signatur>
+        <Min_Pk_dB>-6.06</Min_Pk_dB>
+        <Max_Pk_dB>-6.06</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514426888</PPN>
+        <Signatur>CD 682</Signatur>
+        <Min_Pk_dB>-3.01</Min_Pk_dB>
+        <Max_Pk_dB>-0.09</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514427957</PPN>
+        <Signatur>CD 683</Signatur>
+        <Min_Pk_dB>-0.5</Min_Pk_dB>
+        <Max_Pk_dB>-0.5</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514505818</PPN>
+        <Signatur>CD 921</Signatur>
+        <Min_Pk_dB>-2.46</Min_Pk_dB>
+        <Max_Pk_dB>-0.8</Max_Pk_dB>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514548193</PPN>
+        <Signatur>RS 2547</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514556420</PPN>
+        <Signatur>RS 2548</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514556811</PPN>
+        <Signatur>RS 2549</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514557761</PPN>
+        <Signatur>RS 2550</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514564962</PPN>
+        <Signatur>RS 2551</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514565292</PPN>
+        <Signatur>RS 2552</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>51456668X</PPN>
+        <Signatur>RS 2553</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514568143</PPN>
+        <Signatur>RS 2554</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514571438</PPN>
+        <Signatur>RS 2555</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514574585</PPN>
+        <Signatur>RS 2557</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514575395</PPN>
+        <Signatur>RS 2558</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514577843</PPN>
+        <Signatur>RS 2559</Signatur>
+    </db-Liste>
+    <db-Liste>
+        <PPN>514578882</PPN>
+        <Signatur>RS 2561</Signatur>
+    </db-Liste>
+</dataroot>
