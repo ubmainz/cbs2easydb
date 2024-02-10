@@ -43,10 +43,10 @@
             <xsl:with-param name="wert">Product</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Year</xsl:with-param>
+            <xsl:with-param name="wert">DateCreated</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Artists</xsl:with-param>
+            <xsl:with-param name="wert">Artist</xsl:with-param>
         </xsl:call-template>
         <xsl:text>&#13;</xsl:text>
         <xsl:apply-templates/>
