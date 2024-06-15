@@ -17,7 +17,7 @@
         </xsl:call-template>
         <xsl:variable name="statistics" select="document('Examples/db-Liste.xml')/dataroot/db-Liste[PPN=$ppn]"/>
         <xsl:call-template name="feld">
-            <xsl:with-param name="wert" select="string-join(($statistics/Min_Pk_dB,$statistics/Max_Pk_dB),' / ')"/>
+            <xsl:with-param name="wert" select="string-join(($statistics/MinvonPk_x0020_lev_x0020_dB_x0020_O,$statistics/MaxvonPk_x0020_lev_x0020_dB_x0020_O),' / ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Objekttitel -->
             <xsl:with-param name="wert" select="string-join((string-join((tag[@id='021A']/sbf[@id='a'],tag[@id='021A']/sbf[@id='d']),' : '),tag[@id='021A']/sbf[@id='h']),' / ')"/>
