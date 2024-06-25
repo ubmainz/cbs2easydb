@@ -45,6 +45,9 @@
         <xsl:call-template name="feld"> <!-- Verlags-Bestellnummer -->
             <xsl:with-param name="wert" select="string-join(tag[@id='004E/01']/sbf[@id='0'],', ')"/>
         </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- UPC -->
+            <xsl:with-param name="wert" select="string-join(tag[@id='004C']/sbf[@id='0'],', ')"/>
+        </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Matrixnr. -->
             <xsl:with-param name="wert" select="substring-after(tag[@id='037A']/sbf[@id='a'][contains(.,'Matrix')],':')"/>
         </xsl:call-template>
@@ -117,6 +120,9 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Nummer (Verlagsnr.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Weitere Nummer (UPC)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Nummer (Matrix)</xsl:with-param>
