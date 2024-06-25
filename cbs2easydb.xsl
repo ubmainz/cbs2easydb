@@ -25,6 +25,9 @@
         <xsl:call-template name="feld"> <!-- Reihentitel -->
             <xsl:with-param name="wert" select="tag[@id='036C']/sbf[@id='a']"/>
         </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Sprache -->
+            <xsl:with-param name="wert" select="string-join(tag[@id='010@']/sbf[@id='a'],', ')"/>
+        </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Objektbeschreibung -->
             <xsl:with-param name="wert">
                 <xsl:if test="tag[@id='046M']/sbf[@id='t']">
@@ -96,6 +99,9 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Reihentiteltitel</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Sprachen</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Objektbeschreibung</xsl:with-param>
