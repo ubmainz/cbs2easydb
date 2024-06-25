@@ -72,6 +72,9 @@
         <xsl:call-template name="feld"> <!-- Merkmale -->
             <xsl:with-param name="wert" select="string-join(tag[starts-with(@id,'237A')]/sbf[@id='a'],', ')"/>
         </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Interpret -->
+            <xsl:with-param name="wert" select="tag[@id='046S']/sbf[@id='a']"/>
+        </xsl:call-template>
         <xsl:for-each select="tag[starts-with(@id,'028')]|tag[starts-with(@id,'029')]">
             <xsl:call-template name="feld"> <!-- GND-ID -->
                 <xsl:with-param name="wert" select="sbf[@id='0']"/>                
@@ -150,6 +153,9 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Merkmale</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Interpret</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">GND-ID (1.)</xsl:with-param>
