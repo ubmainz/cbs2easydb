@@ -25,9 +25,9 @@
         <xsl:call-template name="feld"> <!-- Objektbeschreibung -->
             <xsl:with-param name="wert">
                 <xsl:if test="tag[@id='046M']/sbf[@id='t']">
-                    <xsl:text>Enthält: </xsl:text>
+                    <xsl:text>Enth.: </xsl:text>
                 </xsl:if>
-                <xsl:value-of select="string-join(tag[@id='046M']/sbf[@id='t'],' - ')"/>
+                <xsl:value-of select="string-join(tag[@id='046M']/sbf[@id='t']|tag[@id='046M']/sbf[@id='a'],' - ')"/>
             </xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Umfang -->
