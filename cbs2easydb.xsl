@@ -167,7 +167,67 @@
             <xsl:with-param name="wert">Bemerkung (3.)</xsl:with-param>
         </xsl:call-template> 
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">etc.</xsl:with-param>
+            <xsl:with-param name="wert">GND-ID (4.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Kategorie (4.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Rolle (4.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Name (4.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Bemerkung (4.)</xsl:with-param>
+        </xsl:call-template> 
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">GND-ID (5.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Kategorie (5.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Rolle (5.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Name (5.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Bemerkung (5.)</xsl:with-param>
+        </xsl:call-template> 
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">GND-ID (6.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Kategorie (6.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Rolle (6.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Name (6.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Bemerkung (6.)</xsl:with-param>
+        </xsl:call-template> 
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">GND-ID (7.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Kategorie (7.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Rolle (7.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Name (7.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Bemerkung (7.)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">etc.</xsl:with-param> <!-- TBD bis 12 Personen -->
         </xsl:call-template> 
         <xsl:text>&#13;</xsl:text>
         <xsl:apply-templates/>
