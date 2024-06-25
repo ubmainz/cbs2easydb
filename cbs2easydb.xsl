@@ -42,6 +42,9 @@
         <xsl:call-template name="feld"> <!-- Ort -->
             <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='p'],', ')"/>
         </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Label -->
+            <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'],', ')"/>
+        </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Schlagwörter -->
             <xsl:with-param name="wert" select="string-join(tag[starts-with(@id,'144Z')]/sbf[@id='a'],', ')"/>
         </xsl:call-template>
@@ -50,9 +53,6 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Weitere Informationen -->
             <xsl:with-param name="wert" select="string-join(tag[@id='037A']/sbf[@id='a'],' - ')"/>
-        </xsl:call-template>
-        <xsl:call-template name="feld"> <!-- Label -->
-            <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'],', ')"/>
         </xsl:call-template>
         <xsl:for-each select="tag[starts-with(@id,'028')]|tag[starts-with(@id,'029')]">
             <xsl:call-template name="feld"> <!-- GND-ID -->
