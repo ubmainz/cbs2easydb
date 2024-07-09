@@ -78,8 +78,15 @@
         </xsl:call-template>
         <xsl:for-each select="tag[starts-with(@id,'028')]|tag[starts-with(@id,'029')]">
             <xsl:if test="position() gt $persons"><xsl:message><xsl:text>Warnung: </xsl:text><xsl:value-of select="position()"/></xsl:message></xsl:if>
+            <xsl:variable name="gndid" select="sbf[@id='0']"/>
+            <xsl:variable name="gnddata"> <!-- TBD -->
+                    <xsl:copy-of
+                        select="document(concat('http://d-nb.info/gnd/',$gndid,'/about/lds.rdf'))/rdf:RDF/rdf:Description/*"
+                    />
+            </xsl:variable>
+            <xsl:message><xsl:value-of select="$gnddata"/></xsl:message>
             <xsl:call-template name="feld"> <!-- GND-ID -->
-                <xsl:with-param name="wert" select="sbf[@id='0']"/>                
+                <xsl:with-param name="wert" select="$gndid"/>                
             </xsl:call-template>
             <xsl:call-template name="feld"> <!-- Kategorie -->
                 <xsl:with-param name="wert" select="@id"/>                
