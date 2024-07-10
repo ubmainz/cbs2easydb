@@ -6,7 +6,6 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output  method="text" encoding="UTF-8"/>
-    <xsl:strip-space elements="*"/>
     <xsl:param name="persons" select="13"/>
    
     <xsl:template match="//record">
@@ -90,24 +89,31 @@
             </xsl:variable>
             <xsl:variable name="gndname">
                 <xsl:choose>
+                    <xsl:when test="string-length($gndid) lt 22"/>
                     <xsl:when test="$gnddata/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson'">
                         <xsl:value-of select="$gnddata/*:preferredNameForThePerson"/>
                     </xsl:when>
                     <xsl:when test="$gnddata/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#CorporateBody'">
                         <xsl:value-of select="$gnddata/*:preferredNameForTheCorporateBody"/>
                     </xsl:when>
+                    <xsl:when test="$gnddata/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#MusicalCorporateBody'">
+                        <xsl:value-of select="$gnddata/*:preferredNameForTheCorporateBody"/>
+                    </xsl:when>
+                    <xsl:otherwise><xsl:message>Warnung: Unbekannter GND-Typ</xsl:message></xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
             <xsl:variable name="gndjson">
-                <xsl:text>{&quot;frontendLanguage&quot;:&quot;de&quot;,&quot;_fulltext&quot;:{&quot;text&quot;:&quot;TBD&quot;},&quot;conceptURI&quot;:&quot;</xsl:text>
-                <xsl:value-of select="$gndid"/>
-                <xsl:text>&quot;,&quot;_standard&quot;:{&quot;text&quot;:&quot;</xsl:text>
-                <xsl:value-of select="$gndname"/>
-                <xsl:text>&quot;},&quot;conceptName&quot;:&quot;</xsl:text>
-                <xsl:value-of select="$gndname"/>
-                <xsl:text>&quot;}</xsl:text>
+                <xsl:if test="not($gndname='')">
+                    <xsl:text>{&quot;frontendLanguage&quot;:&quot;de&quot;,&quot;_fulltext&quot;:{&quot;text&quot;:&quot;TBD&quot;},&quot;conceptURI&quot;:&quot;</xsl:text>
+                    <xsl:value-of select="$gndid"/>
+                    <xsl:text>&quot;,&quot;_standard&quot;:{&quot;text&quot;:&quot;</xsl:text>
+                    <xsl:value-of select="$gndname"/>
+                    <xsl:text>&quot;},&quot;conceptName&quot;:&quot;</xsl:text>
+                    <xsl:value-of select="$gndname"/>
+                    <xsl:text>&quot;}</xsl:text>
+                </xsl:if>
             </xsl:variable>
-            <xsl:message><xsl:value-of select="$gndid"/><xsl:text> - </xsl:text><xsl:value-of select="$gndjson"/></xsl:message>
+            <!-- <xsl:message><xsl:value-of select="$gndid"/><xsl:text> - </xsl:text><xsl:value-of select="$gndjson"/></xsl:message> -->
             <xsl:call-template name="feld"> <!-- GND-ID -->
                 <xsl:with-param name="wert" select="$gndid"/>                
             </xsl:call-template>
