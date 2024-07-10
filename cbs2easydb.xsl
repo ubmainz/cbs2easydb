@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:gndo="http://d-nb.info/standards/elementset/gnd#"
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output  method="text" encoding="UTF-8"/>
@@ -78,15 +80,42 @@
         </xsl:call-template>
         <xsl:for-each select="tag[starts-with(@id,'028')]|tag[starts-with(@id,'029')]">
             <xsl:if test="position() gt $persons"><xsl:message><xsl:text>Warnung: </xsl:text><xsl:value-of select="position()"/></xsl:message></xsl:if>
-            <xsl:variable name="gndid" select="sbf[@id='0']"/>
-            <xsl:variable name="gnddata"> <!-- TBD -->
+            <xsl:variable name="gndid" select="concat('http://d-nb.info/gnd/',sbf[@id='0'])"/>
+            <xsl:variable name="gnddata">
+                <xsl:if test="string-length($gndid) ge 22">
                     <xsl:copy-of
-                        select="document(concat('http://d-nb.info/gnd/',$gndid,'/about/lds.rdf'))/rdf:RDF/rdf:Description/*"
+                        select="document(concat($gndid,'/about/lds.rdf'))/rdf:RDF/rdf:Description/*"
                     />
+                </xsl:if>
             </xsl:variable>
-            <xsl:message><xsl:value-of select="$gnddata"/></xsl:message>
+            <xsl:variable name="gndname">
+                <xsl:choose>
+                    <xsl:when test="$gnddata/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson'">
+                        <xsl:value-of select="$gnddata/*:preferredNameForThePerson"/>
+                    </xsl:when>
+                    <xsl:when test="$gnddata/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#CorporateBody'">
+                        <xsl:value-of select="$gnddata/*:preferredNameForTheCorporateBody"/>
+                    </xsl:when>
+                </xsl:choose>
+            </xsl:variable>
+            <xsl:variable name="gndjson">
+                <xsl:text>{&quot;frontendLanguage&quot;:&quot;de&quot;,&quot;_fulltext&quot;:{&quot;text&quot;:&quot;TBD&quot;},&quot;conceptURI&quot;:&quot;</xsl:text>
+                <xsl:value-of select="$gndid"/>
+                <xsl:text>&quot;,&quot;_standard&quot;:{&quot;text&quot;:&quot;</xsl:text>
+                <xsl:value-of select="$gndname"/>
+                <xsl:text>&quot;},&quot;conceptName&quot;:&quot;</xsl:text>
+                <xsl:value-of select="$gndname"/>
+                <xsl:text>&quot;}</xsl:text>
+            </xsl:variable>
+            <xsl:message><xsl:value-of select="$gndid"/><xsl:text> - </xsl:text><xsl:value-of select="$gndjson"/></xsl:message>
             <xsl:call-template name="feld"> <!-- GND-ID -->
                 <xsl:with-param name="wert" select="$gndid"/>                
+            </xsl:call-template>
+            <xsl:call-template name="feld"> <!-- GND-Name -->
+                <xsl:with-param name="wert" select="$gndname"/>                
+            </xsl:call-template>
+            <xsl:call-template name="feld"> <!-- GND-JSON -->
+                <xsl:with-param name="wert" select="$gndjson"/>                
             </xsl:call-template>
             <xsl:call-template name="feld"> <!-- Kategorie -->
                 <xsl:with-param name="wert" select="@id"/>                
@@ -170,6 +199,12 @@
             <xsl:call-template name="feld"> 
                 <xsl:with-param name="wert" select="concat('GND-ID (',.,'.)')"/>
             </xsl:call-template>
+            <xsl:call-template name="feld"> 
+                <xsl:with-param name="wert" select="concat('GND-Name (',.,'.)')"/>
+            </xsl:call-template>
+            <xsl:call-template name="feld"> 
+                <xsl:with-param name="wert" select="concat('GND-JSON (',.,'.)')"/>
+            </xsl:call-template> 
             <xsl:call-template name="feld"> 
                 <xsl:with-param name="wert" select="concat('Kategorie (',.,'.)')"/>
             </xsl:call-template>
