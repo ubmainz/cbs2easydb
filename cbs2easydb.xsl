@@ -63,7 +63,7 @@
             <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'][not(contains(.,'(Distr.)'))],', ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Schlagwörter -->
-            <xsl:with-param name="wert" select="string-join(tag[starts-with(@id,'144Z')]/sbf[@id='a'],', ')"/>
+            <xsl:with-param name="wert" select="replace(string-join(tag[starts-with(@id,'144Z')]/sbf[@id='a'],', '),'12.3 ','','s')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Inventarnummer -->
             <xsl:with-param name="wert" select="tag[starts-with(@id,'209C')]/sbf[@id='a'][1]"/>
