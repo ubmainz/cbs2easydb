@@ -25,7 +25,7 @@
             <xsl:with-param name="wert" select="string-join((string-join((tag[@id='021A']/sbf[@id='a'],tag[@id='021A']/sbf[@id='d']),' : '),tag[@id='021A']/sbf[@id='h']),' / ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Reihentitel -->
-            <xsl:with-param name="wert" select="tag[@id='036C']/sbf[@id='a']"/>
+            <xsl:with-param name="wert" select="string-join((tag[starts-with(@id,'036C')]/sbf[@id='a'],tag[starts-with(@id,'036G')]/sbf[@id='a']),'/')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Sprache -->
             <xsl:with-param name="wert" select="string-join(tag[@id='010@']/sbf[@id='a'],', ')"/>
