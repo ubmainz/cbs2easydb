@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/1006819-3">
+    <gndo:abbreviatedNameForTheCorporateBody>MRAC</gndo:abbreviatedNameForTheCorporateBody>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://www.deutsche-digitale-bibliothek.de/organization/gnd/1006819-3">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q621630">
+            <j.2:name>Deutsche Digitale Bibliothek</j.2:name>
+            <j.2:logo>https://www.deutsche-digitale-bibliothek.de/favicon.ico</j.2:logo>
+            <dc:publisher>Deutsche Digitale Bibliothek</dc:publisher>
+            <j.0:abbreviation>DDB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q779703">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:spatialAreaOfActivity>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4005406-8">
+        <rdfs:label>Belgien</rdfs:label>
+      </rdf:Description>
+    </gndo:spatialAreaOfActivity>
+    <gndo:placeOfBusiness>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4008460-7">
+        <rdfs:label>Brüssel</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBusiness>
+    <gndo:broaderTermInstantial>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4188477-2">
+        <rdfs:label>Ethnologisches Museum</rdfs:label>
+      </rdf:Description>
+    </gndo:broaderTermInstantial>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/000000012161742X">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:oldAuthorityNumber>(DE-588c)4286466-5</gndo:oldAuthorityNumber>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1006819-3/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
+            <rdfs:label>Allgemeines, Interdisziplinäre Allgemeinwörter</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>http://www.dnb.de/SiteGlobals/StyleBundles/Bilder/favicon.png?__blob=normal&amp;v=1</j.2:logo>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-12-20T00:31:24.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Royal Museum for Central Africa</gndo:variantName>
+    <gndo:variantName>Königliches Museum für Zentralafrika</gndo:variantName>
+    <j.1:deprecatedUri>https://d-nb.info/gnd/1086117530</j.1:deprecatedUri>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4286466-5">
+        <j.1:isDescribedIn rdf:resource="http://www.wikidata.org/entity/Q36578"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Museum voor Midden-Afrika</gndo:variantName>
+    <gndo:oldAuthorityNumber>(DE-588)1086117530</gndo:oldAuthorityNumber>
+    <gndo:oldAuthorityNumber>(DE-588)4286466-5</gndo:oldAuthorityNumber>
+    <gndo:variantName>MRAC</gndo:variantName>
+    <j.1:deprecatedUri>https://d-nb.info/gnd/1090416725</j.1:deprecatedUri>
+    <gndo:variantName>Tervuren Museum</gndo:variantName>
+    <gndo:oldAuthorityNumber>(DE-588b)1006819-3</gndo:oldAuthorityNumber>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#CorporateBody"/>
+    <gndo:preferredName>Musée Royal de l'Afrique Centrale</gndo:preferredName>
+    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/1006819-3/about"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://de.wikipedia.org/wiki/K%C3%B6nigliches_Museum_f%C3%BCr_Zentral-Afrika">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48183">
+            <j.2:name>Wikipedia (Deutsch)</j.2:name>
+            <j.2:logo>https://de.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>dewiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <rdfs:label>https://de.wikipedia.org/wiki/K%C3%B6nigliches_Museum_f%C3%BCr_Zentral-Afrika</rdfs:label>
+      </rdf:Description>
+    </schema:sameAs>
+    <j.1:deprecatedUri>https://d-nb.info/gnd/4286466-5</j.1:deprecatedUri>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1090416725">
+        <j.1:isDescribedIn rdf:resource="http://www.wikidata.org/entity/Q36578"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:oldAuthorityNumber>(DE-588)1090416725</gndo:oldAuthorityNumber>
+    <gndo:abbreviatedNameForTheCorporateBody>KMZA</gndo:abbreviatedNameForTheCorporateBody>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1086117530">
+        <j.1:isDescribedIn rdf:resource="http://www.wikidata.org/entity/Q36578"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:homepage>
+      <rdf:Description rdf:about="https://www.africamuseum.be/de">
+        <rdfs:label>https://www.africamuseum.be/de</rdfs:label>
+      </rdf:Description>
+    </gndo:homepage>
+    <gndo:variantName>Koninklijk Museum voor Midden Afrika</gndo:variantName>
+    <gndo:precedingCorporateBody>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1043052-0">
+        <rdfs:label>Musée Royal du Congo Belge</rdfs:label>
+      </rdf:Description>
+    </gndo:precedingCorporateBody>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Royal_Museum_for_Central_Africa">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.2:name>Wikipedia (English)</j.2:name>
+            <j.2:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:placeOfBusiness>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4287373-3">
+        <rdfs:label>Tervuren</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBusiness>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n80126084">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.2:name>NACO Authority File</j.2:name>
+            <j.2:logo>http://www.loc.gov/favicon.ico</j.2:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <j.1:deprecatedUri>https://d-nb.info/gnd/1085949435</j.1:deprecatedUri>
+    <gndo:abbreviatedNameForTheCorporateBody>KMMA</gndo:abbreviatedNameForTheCorporateBody>
+    <gndo:variantName>Afrika-Museum</gndo:variantName>
+    <gndo:gndIdentifier>1006819-3</gndo:gndIdentifier>
+    <j.2:page rdf:resource="https://de.wikipedia.org/wiki/K%C3%B6nigliches_Museum_f%C3%BCr_Zentral-Afrika"/>
+    <gndo:variantName>Musée royal de l'Afrique centrale</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/660145857888923020670">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-BE">
+        <rdfs:label>Belgien</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb118705475">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19938912">
+            <j.2:name>Bibliothèque nationale de France</j.2:name>
+            <j.2:logo>https://www.bnf.fr/themes/custom/bnfsi/favicon.ico</j.2:logo>
+            <dc:publisher>Bibliothèque nationale de France</dc:publisher>
+            <j.0:abbreviation>BNF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Africa Museum</gndo:variantName>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#17.1">
+        <rdfs:label>Volkskunde, Völkerkunde (Allgemeines)</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+    <gndo:variantName>Museum voor Midden Afrika</gndo:variantName>
+    <gndo:variantName>Museum of Central Africa</gndo:variantName>
+    <gndo:oldAuthorityNumber>(DE-588)1085949435</gndo:oldAuthorityNumber>
+    <gndo:variantName>Koninklijk Museum voor Midden-Afrika</gndo:variantName>
+    <gndo:variantName>Museum for Central Africa</gndo:variantName>
+    <gndo:variantName>Royal Museum of Central Africa</gndo:variantName>
+    <gndo:variantName>Africa</gndo:variantName>
+    <gndo:abbreviatedNameForTheCorporateBody>RMCA</gndo:abbreviatedNameForTheCorporateBody>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1085949435">
+        <j.1:isDescribedIn rdf:resource="http://www.wikidata.org/entity/Q36578"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#6.8">
+        <rdfs:label>Archiv, Museum</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+  </gndo:AuthorityResource>
+</rdf:RDF>

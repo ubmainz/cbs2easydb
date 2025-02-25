@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:Person rdf:about="https://d-nb.info/gnd/134979044">
+    <gndo:playedInstrument>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4137284-0">
+        <rdfs:label>Schlagzeug</rdfs:label>
+      </rdf:Description>
+    </gndo:playedInstrument>
+    <j.2:page>
+      <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Lokua_Kanza">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48183">
+            <j.2:name>Wikipedia (Deutsch)</j.2:name>
+            <j.2:logo>https://de.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>dewiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <rdfs:label>https://de.wikipedia.org/wiki/Lokua_Kanza</rdfs:label>
+      </rdf:Description>
+    </j.2:page>
+    <gndo:playedInstrument>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4030982-4">
+        <rdfs:label>Klavier</rdfs:label>
+      </rdf:Description>
+    </gndo:playedInstrument>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1638859">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/143613359">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>http://www.dnb.de/SiteGlobals/StyleBundles/Bilder/favicon.png?__blob=normal&amp;v=1</j.2:logo>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs rdf:resource="https://de.wikipedia.org/wiki/Lokua_Kanza"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/nr98031161">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.2:name>NACO Authority File</j.2:name>
+            <j.2:logo>http://www.loc.gov/favicon.ico</j.2:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gndIdentifier>134979044</gndo:gndIdentifier>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
+        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/134979044/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn rdf:resource="http://www.wikidata.org/entity/Q36578"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-08-07T00:30:24.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:dateOfBirth>1958-04-21</gndo:dateOfBirth>
+    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/134979044/about"/>
+    <gndo:oldAuthorityNumber>(DE-588a)143613359</gndo:oldAuthorityNumber>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/51882130">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-ZRCD">
+        <rdfs:label>Kongo (Demokratische Republik)(Zaire)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:oldAuthorityNumber>(DE-588a)134979044</gndo:oldAuthorityNumber>
+    <gndo:variantName>Kanza, Pascal Lokua</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Kanza</gndo:surname>
+      <gndo:forename>Pascal Lokua</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4431281-7">
+        <rdfs:label>Bukavu</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://dbpedia.org/resource/Lokua_Kanza">
+        <j.1:isDescribedIn rdf:resource="https://dbpedia.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:preferredName>Kanza, Lokua</gndo:preferredName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Lokua_Kanza">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.2:name>Wikipedia (English)</j.2:name>
+            <j.2:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <j.2:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Lokua%20Kanza%202010.JPG">
+        <j.2:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Lokua%20Kanza%202010.JPG?width=270</j.2:thumbnail>
+        <j.2:page>https://commons.wikimedia.org/wiki/File:Lokua%20Kanza%202010.JPG?uselang=de</j.2:page>
+      </rdf:Description>
+    </j.2:depiction>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:homepage>
+      <rdf:Description rdf:about="http://www.lokua-kanza.com/">
+        <rdfs:label>http://www.lokua-kanza.com/</rdfs:label>
+      </rdf:Description>
+    </gndo:homepage>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
+        <rdfs:label>Männlich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb139629904">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19938912">
+            <j.2:name>Bibliothèque nationale de France</j.2:name>
+            <j.2:logo>https://www.bnf.fr/themes/custom/bnfsi/favicon.ico</j.2:logo>
+            <dc:publisher>Bibliothèque nationale de France</dc:publisher>
+            <j.0:abbreviation>BNF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4157372-9">
+        <rdfs:label>Gitarrist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4032009-1">
+        <rdfs:label>Komponist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Lokua Kanza</gndo:surname>
+      <gndo:forename>Pascal</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Lokua Kanza, Pascal</gndo:variantName>
+    <gndo:oldAuthorityNumber>(DE-101c)310669049</gndo:oldAuthorityNumber>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000055182359">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
+        <rdfs:label>Demokratische Republik Kongo</rdfs:label>
+      </rdf:Description>
+    </gndo:relatedPlaceOrGeographicName>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Kanza</gndo:surname>
+      <gndo:forename>Lokua</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
+        <rdfs:label>Musiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <j.1:deprecatedUri>https://d-nb.info/gnd/143613359</j.1:deprecatedUri>
+    <gndo:oldAuthorityNumber>(DE-588)143613359</gndo:oldAuthorityNumber>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4124099-6">
+        <rdfs:label>Sänger</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+  </gndo:Person>
+</rdf:RDF>

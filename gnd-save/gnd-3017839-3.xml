@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:agrelon="https://d-nb.info/standards/elementset/agrelon#" xmlns:agrovoc="https://aims.fao.org/aos/agrovoc/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:cidoc="http://www.cidoc-crm.org/cidoc-crm/" xmlns:dbp="http://dbpedia.org/property/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcatde="http://dcat-ap.de/def/dcatde/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dnb_intern="http://dnb.de/" xmlns:dnbt="https://d-nb.info/standards/elementset/dnb#" xmlns:ebu="http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#" xmlns:editeur="https://ns.editeur.org/thema/" xmlns:embne="https://datos.bne.es/resource/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gbv="http://purl.org/ontology/gbv/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:lcsh="https://id.loc.gov/authorities/subjects/" xmlns:lib="http://purl.org/library/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:mesh="http://id.nlm.nih.gov/mesh/vocab#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:naf="https://id.loc.gov/authorities/names/" xmlns:nsogg="https://purl.org/bncf/tid/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ram="https://data.bnf.fr/ark:/12148/" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:thesoz="http://lod.gesis.org/thesoz/" xmlns:umbel="http://umbel.org/umbel#" xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<rdf:Description rdf:about="https://d-nb.info/gnd/3017839-3">
+	<rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#CorporateBody"/>
+	<wdrs:describedby>
+		<rdf:Description rdf:about="https://d-nb.info/gnd/3017839-3/about">
+			<dcterms:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+			<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-05-26T17:55:07.000</dcterms:modified>
+			<gndo:descriptionLevel rdf:resource="https://d-nb.info/standards/vocab/gnd/description-level#1"/>
+		</rdf:Description>
+	</wdrs:describedby>
+	<gndo:gndIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3017839-3</gndo:gndIdentifier>
+	<owl:sameAs rdf:resource="http://viaf.org/viaf/132054317"/>
+	<gndo:oldAuthorityNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(DE-588b)3073429-0</gndo:oldAuthorityNumber>
+	<gndo:oldAuthorityNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(DE-588b)3017839-3</gndo:oldAuthorityNumber>
+	<gndo:founder rdf:resource="https://d-nb.info/gnd/1034896679"/>
+	<gndo:founder rdf:resource="https://d-nb.info/gnd/1034343947"/>
+	<gndo:variantNameForTheCorporateBody rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Choc Stars du Zaïre</gndo:variantNameForTheCorporateBody>
+	<gndo:variantNameForTheCorporateBody rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Orchestre Choc Stars</gndo:variantNameForTheCorporateBody>
+	<gndo:preferredNameForTheCorporateBody rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Choc Stars (Musikgruppe)</gndo:preferredNameForTheCorporateBody>
+	<gndo:temporaryNameOfTheCorporateBody rdf:resource="https://d-nb.info/gnd/1034115790"/>
+	<gndo:broaderTermInstantial rdf:resource="https://d-nb.info/gnd/4170827-1"/>
+	<gndo:gndSubjectCategory rdf:resource="https://d-nb.info/standards/vocab/gnd/gnd-sc#14.1"/>
+	<gndo:geographicAreaCode rdf:resource="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD"/>
+	<wdrs:describedby>
+		<rdf:Description rdf:about="https://d-nb.info/gnd/3017839-3/about">
+			<dcterms:creator rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-1"/>
+			<dcatde:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-1"/>
+		</rdf:Description>
+	</wdrs:describedby>
+	<gndo:dateOfEstablishment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1983</gndo:dateOfEstablishment>
+	<gndo:spatialAreaOfActivity rdf:resource="https://d-nb.info/gnd/4067357-1"/>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:Person rdf:about="https://d-nb.info/gnd/1053816766">
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1053816766/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Religion</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-20T09:05:48.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Aurlus_Mab%C3%A9l%C3%A9">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.2:name>Wikipedia (English)</j.2:name>
+            <j.2:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/no98042366">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.2:name>NACO Authority File</j.2:name>
+            <j.2:logo>http://www.loc.gov/favicon.ico</j.2:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Miatsonama</gndo:surname>
+      <gndo:forename>Aurélien</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <j.2:page>
+      <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Aurlus_Mab%C3%A9l%C3%A9">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48183">
+            <j.2:name>Wikipedia (Deutsch)</j.2:name>
+            <j.2:logo>https://de.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>dewiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <rdfs:label>https://de.wikipedia.org/wiki/Aurlus_Mab%C3%A9l%C3%A9</rdfs:label>
+      </rdf:Description>
+    </j.2:page>
+    <gndo:variantName>Miatsonama, Aurélien</gndo:variantName>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
+        <rdfs:label>Musiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:dateOfBirth>1953</gndo:dateOfBirth>
+    <gndo:dateOfDeath>2020-03-19</gndo:dateOfDeath>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mabele</gndo:surname>
+      <gndo:forename>Aurlus</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CG">
+        <rdfs:label>Kongo (Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4032097-2">
+        <rdfs:label>Republik Kongo</rdfs:label>
+      </rdf:Description>
+    </gndo:relatedPlaceOrGeographicName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2871915">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/000000004208862X">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Mabele, Aurlus</gndo:variantName>
+    <gndo:placeOfDeath>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4044660-8">
+        <rdfs:label>Paris</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfDeath>
+    <schema:sameAs rdf:resource="https://de.wikipedia.org/wiki/Aurlus_Mab%C3%A9l%C3%A9"/>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/1053816766/about"/>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4080519-0">
+        <rdfs:label>Brazzaville</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/71005715">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
+        <rdfs:label>Männlich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mabélé</gndo:surname>
+      <gndo:forename>Aurlus</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:gndIdentifier>1053816766</gndo:gndIdentifier>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:preferredName>Mabélé, Aurlus</gndo:preferredName>
+  </gndo:Person>
+</rdf:RDF>

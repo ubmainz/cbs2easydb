@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/agrelon#" xmlns:j.2="https://d-nb.info/standards/elementset/dnb#" xmlns:j.3="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/1175542393">
+    <gndo:variantName>Konietzko, Boris</gndo:variantName>
+    <j.3:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/K-KC6207%20cut.jpg">
+        <j.3:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/K-KC6207%20cut.jpg?width=270</j.3:thumbnail>
+        <j.3:page>https://commons.wikimedia.org/wiki/File:K-KC6207%20cut.jpg?uselang=de</j.3:page>
+      </rdf:Description>
+    </j.3:depiction>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/000000038507887X">
+        <j.2:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:familialRelationship>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/115646529X">
+        <rdfs:label>Konietzko, Julius</rdfs:label>
+      </rdf:Description>
+    </gndo:familialRelationship>
+    <j.1:hasParent>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1163245186">
+        <rdfs:label>Kegel, Lore</rdfs:label>
+      </rdf:Description>
+    </j.1:hasParent>
+    <gndo:placeOfActivity>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4023118-5">
+        <rdfs:label>Hamburg</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfActivity>
+    <gndo:familialRelationship rdf:resource="https://d-nb.info/gnd/1163245186"/>
+    <gndo:placeOfBirth rdf:resource="https://d-nb.info/gnd/4023118-5"/>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4320478-8">
+        <rdfs:label>Kunsthändler</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:dateOfDeath>2020-10-03</gndo:dateOfDeath>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Boris_Kegel-Konietzko">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48183">
+            <j.3:name>Wikipedia (Deutsch)</j.3:name>
+            <j.3:logo>https://de.wikipedia.org/static/favicon/wikipedia.ico</j.3:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>dewiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+        <rdfs:label>https://de.wikipedia.org/wiki/Boris_Kegel-Konietzko</rdfs:label>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Kegel-Konietzko</gndo:surname>
+      <gndo:forename>Boris</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:biographicalOrHistoricalInformation xml:lang="de">Dt. Kunsthändler mit dem Schwerpunkt Afrikanische Kunst; ab 1952/54 mehrere Forschungsreisen im Kongo; Leitung des Zoologischen Gartens in Brazzaville (1956-1958); Inhaber einer Kunsthandlung für Exotische Kunst u. Ethnographica</gndo:biographicalOrHistoricalInformation>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE">
+        <rdfs:label>Deutschland</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1175542393/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Religion</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.3:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.3:name>
+            <j.3:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.3:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-07-21T20:37:21.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </schema:sameAs>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q893696">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.3:name>Wikidata</j.3:name>
+            <j.3:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.3:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4017917-5">
+        <rdfs:label>Forschungsreisender</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:preferredName>Kegel-Konietzko, Boris</gndo:preferredName>
+    <j.1:hasParent rdf:resource="https://d-nb.info/gnd/115646529X"/>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4131826-2">
+        <rdfs:label>Biologe</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/1175542393/about"/>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
+        <rdfs:label>Männlich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <j.3:page rdf:resource="https://de.wikipedia.org/wiki/Boris_Kegel-Konietzko"/>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <gndo:gndIdentifier>1175542393</gndo:gndIdentifier>
+    <gndo:dateOfBirth>1925-02-08</gndo:dateOfBirth>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Konietzko</gndo:surname>
+      <gndo:forename>Boris</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:publication>Lieder Zentral- und Westafrikas. - 1960</gndo:publication>
+    <gndo:placeOfActivity>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4008460-7">
+        <rdfs:label>Brüssel</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfActivity>
+    <gndo:placeOfActivity>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4080519-0">
+        <rdfs:label>Brazzaville</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfActivity>
+    <gndo:placeOfDeath rdf:resource="https://d-nb.info/gnd/4023118-5"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/7810487">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.3:name>Virtual International Authority File (VIAF)</j.3:name>
+            <j.3:logo>http://viaf.org/viaf/images/viaf.ico</j.3:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+  </gndo:AuthorityResource>
+</rdf:RDF>

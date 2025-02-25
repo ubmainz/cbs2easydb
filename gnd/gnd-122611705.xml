@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/122611705">
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Colin_Turnbull">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.2:name>Wikipedia (English)</j.2:name>
+            <j.2:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <j.2:page>
+      <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Colin_Turnbull">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48183">
+            <j.2:name>Wikipedia (Deutsch)</j.2:name>
+            <j.2:logo>https://de.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>dewiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <rdfs:label>https://de.wikipedia.org/wiki/Colin_Turnbull</rdfs:label>
+      </rdf:Description>
+    </j.2:page>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/122611705/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
+            <rdfs:label>Allgemeines, Interdisziplinäre Allgemeinwörter</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-01-26T13:07:52.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Turnbull, Colin Macmillan</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Turnbull</gndo:surname>
+      <gndo:forename>Colin Macmillan</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Turnbull</gndo:surname>
+      <gndo:forename>Colin M.</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#notKnown">
+        <rdfs:label>Unbekannt</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Turnbull</gndo:surname>
+      <gndo:forename>Colin</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Tʻŏnbul, Kʻollin</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n50013362">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.2:name>NACO Authority File</j.2:name>
+            <j.2:logo>http://www.loc.gov/favicon.ico</j.2:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-GB">
+        <rdfs:label>Großbritannien</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/122611705/about"/>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4003982-1">
+        <rdfs:label>Autor</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <j.2:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Colin%20Turnbull.%20%28Lobsang%20Ridgol%29%20holding%20a%20friend%27s%20baby%2C%20Gainesville%2C%20Florida%2C%201993.jpg">
+        <j.2:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Colin%20Turnbull.%20%28Lobsang%20Ridgol%29%20holding%20a%20friend%27s%20baby%2C%20Gainesville%2C%20Florida%2C%201993.jpg?width=270</j.2:thumbnail>
+        <j.2:page>https://commons.wikimedia.org/wiki/File:Colin%20Turnbull.%20%28Lobsang%20Ridgol%29%20holding%20a%20friend%27s%20baby%2C%20Gainesville%2C%20Florida%2C%201993.jpg?uselang=de</j.2:page>
+      </rdf:Description>
+    </j.2:depiction>
+    <gndo:variantName>Turnbull, Colin</gndo:variantName>
+    <gndo:biographicalOrHistoricalInformation xml:lang="de">Engl. Anthropologe</gndo:biographicalOrHistoricalInformation>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <gndo:oldAuthorityNumber>(DE-588a)122611705</gndo:oldAuthorityNumber>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Tʻŏnbul</gndo:surname>
+      <gndo:forename>Kʻollin</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2982661">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gndIdentifier>122611705</gndo:gndIdentifier>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#28p">
+        <rdfs:label>Personen zu Mathematik</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+    <gndo:dateOfBirth>1924</gndo:dateOfBirth>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US">
+        <rdfs:label>USA</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:oldAuthorityNumber>(DE-588c)4619523-3</gndo:oldAuthorityNumber>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/22149608">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4142642-3">
+        <rdfs:label>Anthropologe</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000108777584">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:preferredName>Turnbull, Colin M.</gndo:preferredName>
+    <gndo:dateOfDeath>1994</gndo:dateOfDeath>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb119272684">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19938912">
+            <j.2:name>Bibliothèque nationale de France</j.2:name>
+            <j.2:logo>https://www.bnf.fr/themes/custom/bnfsi/favicon.ico</j.2:logo>
+            <dc:publisher>Bibliothèque nationale de France</dc:publisher>
+            <j.0:abbreviation>BNF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs rdf:resource="https://de.wikipedia.org/wiki/Colin_Turnbull"/>
+  </gndo:AuthorityResource>
+</rdf:RDF>

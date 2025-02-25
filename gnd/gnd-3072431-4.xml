@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:CorporateBody rdf:about="https://d-nb.info/gnd/3072431-4">
+    <gndo:oldAuthorityNumber>(DE-588b)3072431-4</gndo:oldAuthorityNumber>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/3072431-4/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
+            <rdfs:label>Allgemeines, Interdisziplinäre Allgemeinwörter</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-03-31T08:50:50.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </wdrs:describedby>
+    <gndo:gndIdentifier>3072431-4</gndo:gndIdentifier>
+    <gndo:preferredName>Orchestre Sele-Sele du Zaire</gndo:preferredName>
+    <gndo:variantName>Orchestre Sélé-Sélé</gndo:variantName>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#14.1">
+        <rdfs:label>Musik (Allgemeines), Musikgeschichte</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/154650772">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/3072431-4/about"/>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#MusicalCorporateBody"/>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CG">
+        <rdfs:label>Kongo (Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+  </gndo:CorporateBody>
+</rdf:RDF>

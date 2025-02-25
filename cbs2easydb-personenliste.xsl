@@ -13,17 +13,19 @@
             <xsl:call-template name="feld"> <!-- PPN -->
                 <xsl:with-param name="wert" select="$ppn"/>
             </xsl:call-template>
-            <xsl:variable name="gndid" select="concat('http://d-nb.info/gnd/',sbf[@id='0'])"/>
+            <xsl:variable name="gndid" select="sbf[@id='0']"/>
+            <xsl:variable name="gndfile" select="concat('gnd/gnd-',$gndid,'.xml')"/>
+            <xsl:message><xsl:text>GND: </xsl:text><xsl:value-of select="$gndid"/></xsl:message>
             <xsl:variable name="gnddata">
-                <xsl:if test="string-length($gndid) ge 22">
+                <xsl:if test="(string-length($gndid) ge 1) and doc-available($gndfile)">
                     <xsl:copy-of
-                        select="document(concat($gndid,'/about/lds.rdf'))/rdf:RDF/rdf:Description/*"
-                    />
-                </xsl:if>
+                        select="document($gndfile)/rdf:RDF/*/*"/> 
+                    </xsl:if>
             </xsl:variable>
+            <xsl:message><xsl:value-of select="$gnddata/rdf:type/@rdf:resource"></xsl:value-of></xsl:message>
             <xsl:variable name="gndname">
                 <xsl:choose>
-                    <xsl:when test="string-length($gndid) lt 22"/>
+                    <xsl:when test="string-length($gndid) lt 1"/>
                     <xsl:when test="$gnddata/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson'">
                         <xsl:value-of select="$gnddata/*:preferredNameForThePerson"/>
                     </xsl:when>

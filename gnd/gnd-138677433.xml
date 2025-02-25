@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:DifferentiatedPerson rdf:about="https://d-nb.info/gnd/138677433">
+    <gndo:variantName>Kalle</gndo:variantName>
+    <gndo:placeOfBirthAsLiteral>Léopoldville (Kinshasa)</gndo:placeOfBirthAsLiteral>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Kabasele</gndo:surname>
+      <gndo:forename>Jean Yampanya</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Kabasele Ya Mpanya</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Yampanya</gndo:surname>
+      <gndo:forename>Pepe Kalle Kabasele</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Pépé Kallé</gndo:personalName>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Kabasele</gndo:surname>
+      <gndo:forename>Ya Mpanya</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Kabasele</gndo:surname>
+      <gndo:forename>Yampanya Jean</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/138677433/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Religion</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-05T10:18:48.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </wdrs:describedby>
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
+        <rdfs:label>Demokratische Republik Kongo</rdfs:label>
+      </rdf:Description>
+    </gndo:relatedPlaceOrGeographicName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Kabasele Ya Mpanya</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Kabasele, Ya Mpanya</gndo:variantName>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
+        <rdfs:label>Musiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:gndIdentifier>138677433</gndo:gndIdentifier>
+    <gndo:variantName>Yampanya, Pepe Kalle Kabasele</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Kalle</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/182361694">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Kallé</gndo:variantName>
+    <gndo:biographicalOrHistoricalInformation xml:lang="de">kongolesischer Musiker. Mitglied der Gruppen Lipua Lipua und Empire Bakuba. Lebte zeitweise bei Joseph Kabasele ("Le Grand Kallé"), ist aber nicht mit ihm verwandt (Quelle: Stewart, Gary: Rumba on the River, 2000, S. 178). Lt. Wikipedia nahm er später den Namen seines Mentors an und nannte sich Pépé Kallé</gndo:biographicalOrHistoricalInformation>
+    <gndo:dateOfDeath>1998-11-28</gndo:dateOfDeath>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:variantName>Kabasele, Jean Yampanya</gndo:variantName>
+    <gndo:placeOfDeath>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4044660-8">
+        <rdfs:label>Paris</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfDeath>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/138677433/about"/>
+    <gndo:variantName>Kabasele, Yampanya Jean</gndo:variantName>
+    <gndo:dateOfBirth>1951-12-30</gndo:dateOfBirth>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mulanga</gndo:surname>
+      <gndo:forename>Jean Kabasele Yamanya wa ba</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
+        <rdfs:label>Männlich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:preferredName>Pépé Kallé</gndo:preferredName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Kabasele Yampanya</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Kallé</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
+        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:variantName>Kabasele Yampanya</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2325467">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Mulanga, Jean Kabasele Yamanya wa ba</gndo:variantName>
+    <j.2:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/A%20posture%20of%20Pepe%20Kalle%20in%201978.jpg">
+        <j.2:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/A%20posture%20of%20Pepe%20Kalle%20in%201978.jpg?width=270</j.2:thumbnail>
+        <j.2:page>https://commons.wikimedia.org/wiki/File:A%20posture%20of%20Pepe%20Kalle%20in%201978.jpg?uselang=de</j.2:page>
+      </rdf:Description>
+    </j.2:depiction>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Pepe Kalle</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Kabasele</gndo:surname>
+      <gndo:forename>Yampanya</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Pepe Kalle</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/000000013969495X">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:oldAuthorityNumber>(DE-588a)138677433</gndo:oldAuthorityNumber>
+    <gndo:variantName>Kabasele, Yampanya</gndo:variantName>
+  </gndo:DifferentiatedPerson>
+</rdf:RDF>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:Person rdf:about="https://d-nb.info/gnd/134979338">
+    <gndo:oldAuthorityNumber>(DE-101c)310669332</gndo:oldAuthorityNumber>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/128049783">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
+        <rdfs:label>Demokratische Republik Kongo</rdfs:label>
+      </rdf:Description>
+    </gndo:relatedPlaceOrGeographicName>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
+        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/134979338/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Religion</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-07-30T09:46:35.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </wdrs:describedby>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Daulne</gndo:surname>
+      <gndo:forename>Marie</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000088099666">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gndIdentifier>134979338</gndo:gndIdentifier>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Marie_Daulne">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.2:name>Wikipedia (English)</j.2:name>
+            <j.2:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:affiliation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/3027221-X">
+        <rdfs:label>Zap Mama</rdfs:label>
+      </rdf:Description>
+    </gndo:affiliation>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1165195">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#female">
+        <rdfs:label>Weiblich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/no2008059918">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.2:name>NACO Authority File</j.2:name>
+            <j.2:logo>http://www.loc.gov/favicon.ico</j.2:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <j.2:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Daulne%20Oslo%20Jazzfestival%202018%20%28202508%29.jpg">
+        <j.2:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Marie%20Daulne%20Oslo%20Jazzfestival%202018%20%28202508%29.jpg?width=270</j.2:thumbnail>
+        <j.2:page>https://commons.wikimedia.org/wiki/File:Marie%20Daulne%20Oslo%20Jazzfestival%202018%20%28202508%29.jpg?uselang=de</j.2:page>
+      </rdf:Description>
+    </j.2:depiction>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb140026167">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19938912">
+            <j.2:name>Bibliothèque nationale de France</j.2:name>
+            <j.2:logo>https://www.bnf.fr/themes/custom/bnfsi/favicon.ico</j.2:logo>
+            <dc:publisher>Bibliothèque nationale de France</dc:publisher>
+            <j.0:abbreviation>BNF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4170818-0">
+        <rdfs:label>Musikerin</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:preferredName>Daulne, Marie</gndo:preferredName>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/10164198-9">
+        <rdfs:label>Isiro</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <gndo:oldAuthorityNumber>(DE-588a)134979338</gndo:oldAuthorityNumber>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-BE">
+        <rdfs:label>Belgien</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/134979338/about"/>
+  </gndo:Person>
+</rdf:RDF>

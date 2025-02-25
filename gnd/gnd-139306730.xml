@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/139306730">
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/7386168">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gndIdentifier>139306730</gndo:gndIdentifier>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Simha_Arom">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.2:name>Wikipedia (English)</j.2:name>
+            <j.2:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <j.2:page>
+      <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Simha_Arom">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48183">
+            <j.2:name>Wikipedia (Deutsch)</j.2:name>
+            <j.2:logo>https://de.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>dewiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <rdfs:label>https://de.wikipedia.org/wiki/Simha_Arom</rdfs:label>
+      </rdf:Description>
+    </j.2:page>
+    <gndo:variantName>Arom, Simkha</gndo:variantName>
+    <gndo:dateOfBirth>1930-08-16</gndo:dateOfBirth>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Arom</gndo:surname>
+      <gndo:forename>Simha</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/139306730/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
+            <rdfs:label>Allgemeines, Interdisziplinäre Allgemeinwörter</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <j.2:logo>http://www.dnb.de/SiteGlobals/StyleBundles/Bilder/favicon.png?__blob=normal&amp;v=1</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-08T13:28:31.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4170836-2">
+        <rdfs:label>Musikwissenschaftler</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://www.deutsche-digitale-bibliothek.de/person/gnd/139306730">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q621630">
+            <j.2:name>Deutsche Digitale Bibliothek</j.2:name>
+            <j.2:logo>https://www.deutsche-digitale-bibliothek.de/favicon.ico</j.2:logo>
+            <dc:publisher>Deutsche Digitale Bibliothek</dc:publisher>
+            <j.0:abbreviation>DDB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:preferredName>Arom, Simha</gndo:preferredName>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#14.4p">
+        <rdfs:label>Personen zu Musik</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q981412">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1089998252">
+        <j.1:isDescribedIn rdf:resource="http://www.wikidata.org/entity/Q36578"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000108664416">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE">
+        <rdfs:label>Deutschland</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <j.2:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Simha%20Arom.jpg">
+        <j.2:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Simha%20Arom.jpg?width=270</j.2:thumbnail>
+        <j.2:page>https://commons.wikimedia.org/wiki/File:Simha%20Arom.jpg?uselang=de</j.2:page>
+      </rdf:Description>
+    </j.2:depiction>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XB-IL">
+        <rdfs:label>Israel</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/7628911-4">
+        <rdfs:label>Musikethnologe</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Arom</gndo:surname>
+      <gndo:forename>Simkha</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/139306730/about"/>
+    <gndo:oldAuthorityNumber>(DE-588a)138859698</gndo:oldAuthorityNumber>
+    <gndo:variantName>Arom, Fred</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Arom</gndo:surname>
+      <gndo:forename>Fred</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <j.1:deprecatedUri>https://d-nb.info/gnd/1089998252</j.1:deprecatedUri>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb118891959">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19938912">
+            <j.2:name>Bibliothèque nationale de France</j.2:name>
+            <j.2:logo>https://www.bnf.fr/themes/custom/bnfsi/favicon.ico</j.2:logo>
+            <dc:publisher>Bibliothèque nationale de France</dc:publisher>
+            <j.0:abbreviation>BNF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n82090786">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.2:name>NACO Authority File</j.2:name>
+            <j.2:logo>http://www.loc.gov/favicon.ico</j.2:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-FR">
+        <rdfs:label>Frankreich</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:oldAuthorityNumber>(DE-588)1089998252</gndo:oldAuthorityNumber>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4013255-9">
+        <rdfs:label>Düsseldorf</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Simche</gndo:surname>
+      <gndo:forename>Fred Arom</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:oldAuthorityNumber>(DE-588c)7674973-3</gndo:oldAuthorityNumber>
+    <schema:sameAs rdf:resource="https://de.wikipedia.org/wiki/Simha_Arom"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://data.judaicalink.org/data/gnd/139306730">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="https://data.judaicalink.org">
+            <j.2:name>JudaicaLink</j.2:name>
+            <j.2:logo>https://data.judaicalink.org/static/img/favicon.ico</j.2:logo>
+            <dc:publisher>Stuttgart Media University</dc:publisher>
+            <j.0:abbreviation>JudaicaLink</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:oldAuthorityNumber>(DE-588a)139306730</gndo:oldAuthorityNumber>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
+        <rdfs:label>Männlich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://dbpedia.org/resource/Simha_Arom">
+        <j.1:isDescribedIn rdf:resource="https://dbpedia.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://www.archivportal-d.de/person/gnd/139306730">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="https://www.archivportal-d.de">
+            <j.2:name>Archivportal-D</j.2:name>
+            <j.2:logo>https://www.archivportal-d.de/favicon.ico</j.2:logo>
+            <dc:publisher>Deutsche Digitale Bibliothek</dc:publisher>
+            <j.0:abbreviation>ARCHIV-D</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Simche, Fred Arom</gndo:variantName>
+  </gndo:AuthorityResource>
+</rdf:RDF>

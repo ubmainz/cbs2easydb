@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:DifferentiatedPerson rdf:about="https://d-nb.info/gnd/13475171X">
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Pacheco</gndo:surname>
+      <gndo:forename>Johnny</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <j.2:page>
+      <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Johnny_Pacheco">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48183">
+            <j.2:name>Wikipedia (Deutsch)</j.2:name>
+            <j.2:logo>https://de.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>dewiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <rdfs:label>https://de.wikipedia.org/wiki/Johnny_Pacheco</rdfs:label>
+      </rdf:Description>
+    </j.2:page>
+    <gndo:playedInstrument>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4224188-1">
+        <rdfs:label>Congatrommel</rdfs:label>
+      </rdf:Description>
+    </gndo:playedInstrument>
+    <j.2:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Compositor%20Jhonny%20Pacheco.jpg">
+        <j.2:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Compositor%20Jhonny%20Pacheco.jpg?width=270</j.2:thumbnail>
+        <j.2:page>https://commons.wikimedia.org/wiki/File:Compositor%20Jhonny%20Pacheco.jpg?uselang=de</j.2:page>
+      </rdf:Description>
+    </j.2:depiction>
+    <gndo:preferredName>Pacheco, Johnny</gndo:preferredName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/000000012027623X">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
+        <rdfs:label>Musiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:playedInstrument>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4137284-0">
+        <rdfs:label>Schlagzeug</rdfs:label>
+      </rdf:Description>
+    </gndo:playedInstrument>
+    <gndo:oldAuthorityNumber>(DE-101c)310441714</gndo:oldAuthorityNumber>
+    <gndo:dateOfBirth>1985-03-25</gndo:dateOfBirth>
+    <gndo:playedInstrument>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4154647-7">
+        <rdfs:label>Flöte</rdfs:label>
+      </rdf:Description>
+    </gndo:playedInstrument>
+    <gndo:gndIdentifier>13475171X</gndo:gndIdentifier>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4122722-0">
+        <rdfs:label>Santiago de los Caballeros</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
+        <rdfs:label>Männlich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:oldAuthorityNumber>(DE-588)1215214391</gndo:oldAuthorityNumber>
+    <j.1:deprecatedUri>https://d-nb.info/gnd/1215214391</j.1:deprecatedUri>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Johnny_Pacheco">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.2:name>Wikipedia (English)</j.2:name>
+            <j.2:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/13475171X/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Religion</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <j.2:logo>http://www.dnb.de/SiteGlobals/StyleBundles/Bilder/favicon.png?__blob=normal&amp;v=1</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-02-17T00:31:39.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </wdrs:describedby>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-DO">
+        <rdfs:label>Dominikanische Republik</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4012694-8">
+        <rdfs:label>Dominikanische Republik</rdfs:label>
+      </rdf:Description>
+    </gndo:relatedPlaceOrGeographicName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1364197">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs rdf:resource="https://de.wikipedia.org/wiki/Johnny_Pacheco"/>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/13475171X/about"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/nr90002987">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.2:name>NACO Authority File</j.2:name>
+            <j.2:logo>http://www.loc.gov/favicon.ico</j.2:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:placeOfDeath>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4042004-8">
+        <rdfs:label>New Jersey</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfDeath>
+    <gndo:oldAuthorityNumber>(DE-588a)13475171X</gndo:oldAuthorityNumber>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/66655310">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1215214391">
+        <j.1:isDescribedIn rdf:resource="http://www.wikidata.org/entity/Q36578"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:dateOfDeath>2021-02-15</gndo:dateOfDeath>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US">
+        <rdfs:label>USA</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4572889-6">
+        <rdfs:label>Musikproduzent</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:biographicalOrHistoricalInformation xml:lang="de">dominikanisch-US-amerikanischer Musiker, Produzent und Gründer des Plattenlabels Fania Records, New York</gndo:biographicalOrHistoricalInformation>
+  </gndo:DifferentiatedPerson>
+</rdf:RDF>

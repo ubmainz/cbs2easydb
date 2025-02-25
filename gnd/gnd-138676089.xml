@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/138676089">
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/36818-0">
+        <rdfs:label>Belgisch-Kongo</rdfs:label>
+      </rdf:Description>
+    </gndo:relatedPlaceOrGeographicName>
+    <gndo:variantName>Ilunga, Chenji Kamanda wa Kamanda Gaston Omer</gndo:variantName>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
+        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:variantName>Baba</gndo:variantName>
+    <gndo:oldAuthorityNumber>(DE-588a)138676089</gndo:oldAuthorityNumber>
+    <gndo:dateOfBirth>1936-07-05</gndo:dateOfBirth>
+    <gndo:variantName>Baba, Gaston</gndo:variantName>
+    <gndo:placeOfDeath>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4041172-2">
+        <rdfs:label>Nairobi</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfDeath>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Baba</gndo:surname>
+      <gndo:forename>Gaston</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Baba Gaston</gndo:personalName>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Ilunga</gndo:surname>
+      <gndo:forename>Omer</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
+        <rdfs:label>Musiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:variantName>Ilunga, Omer</gndo:variantName>
+    <gndo:preferredName>Baba Gaston</gndo:preferredName>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-BE">
+        <rdfs:label>Belgien</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Ilunga</gndo:surname>
+      <gndo:forename>Chenji Kamanda wa Kamanda Gaston Omer</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Gaston</gndo:surname>
+      <gndo:forename>Baba</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Gaston, Baba</gndo:variantName>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
+        <rdfs:label>Demokratische Republik Kongo</rdfs:label>
+      </rdf:Description>
+    </gndo:relatedPlaceOrGeographicName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Ilunga</gndo:surname>
+      <gndo:forename>Baba Ilunga wa</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:dateOfDeath>1997-03-25</gndo:dateOfDeath>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/138676089/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Religion</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-11-13T12:26:59.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </wdrs:describedby>
+    <gndo:variantName>Ilunga, Baba Ilunga wa</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/90940337">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Baba</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:usingInstructions xml:lang="de">Künstlername "Baba Gaston"</gndo:usingInstructions>
+    <gndo:placeOfBirthAsLiteral>Likasi, Provinz Shaba</gndo:placeOfBirthAsLiteral>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#notKnown">
+        <rdfs:label>Unbekannt</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/138676089/about"/>
+    <gndo:gndIdentifier>138676089</gndo:gndIdentifier>
+    <gndo:biographicalOrHistoricalInformation xml:lang="de">Kongolesischer Musiker. Gründete ca 1956 die Band "Baba National Orchestre". Anfang der 1970er Jahre siedelte er nach Kenia um</gndo:biographicalOrHistoricalInformation>
+  </gndo:AuthorityResource>
+</rdf:RDF>

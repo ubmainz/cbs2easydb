@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:agrelon="https://d-nb.info/standards/elementset/agrelon#" xmlns:agrovoc="https://aims.fao.org/aos/agrovoc/" xmlns:bflc="http://id.loc.gov/ontologies/bflc/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:cidoc="http://www.cidoc-crm.org/cidoc-crm/" xmlns:dbp="http://dbpedia.org/property/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcatde="http://dcat-ap.de/def/dcatde/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dnb_intern="http://dnb.de/" xmlns:dnbt="https://d-nb.info/standards/elementset/dnb#" xmlns:ebu="http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#" xmlns:editeur="https://ns.editeur.org/thema/" xmlns:embne="https://datos.bne.es/resource/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:gbv="http://purl.org/ontology/gbv/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:lcsh="https://id.loc.gov/authorities/subjects/" xmlns:lib="http://purl.org/library/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:mesh="http://id.nlm.nih.gov/mesh/vocab#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:naf="https://id.loc.gov/authorities/names/" xmlns:nsogg="https://purl.org/bncf/tid/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:ram="https://data.bnf.fr/ark:/12148/" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:thesoz="http://lod.gesis.org/thesoz/" xmlns:umbel="http://umbel.org/umbel#" xmlns:v="http://www.w3.org/2006/vcard/ns#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<rdf:Description rdf:about="https://d-nb.info/gnd/134782542">
+	<rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+	<wdrs:describedby>
+		<rdf:Description rdf:about="https://d-nb.info/gnd/134782542/about">
+			<dcterms:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+			<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-01T20:15:00.000</dcterms:modified>
+			<gndo:descriptionLevel rdf:resource="https://d-nb.info/standards/vocab/gnd/description-level#1"/>
+		</rdf:Description>
+	</wdrs:describedby>
+	<gndo:gndIdentifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">134782542</gndo:gndIdentifier>
+	<foaf:page rdf:resource="https://de.wikipedia.org/wiki/Tabu_Ley_Rochereau"/>
+	<owl:sameAs rdf:resource="http://viaf.org/viaf/79167618"/>
+	<owl:sameAs rdf:resource="https://isni.org/isni/000000005865952X"/>
+	<owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2743754"/>
+	<owl:sameAs rdf:resource="http://id.loc.gov/rwo/agents/n92089075"/>
+	<gndo:oldAuthorityNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(DE-588a)134782542</gndo:oldAuthorityNumber>
+	<gndo:oldAuthorityNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(DE-588a)129065609</gndo:oldAuthorityNumber>
+	<gndo:oldAuthorityNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(DE-101c)310472547</gndo:oldAuthorityNumber>
+	<gndo:oldAuthorityNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#string">(DE-588c)7659722-2</gndo:oldAuthorityNumber>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley LeRochereau, Tabu</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567493">
+			<gndo:forename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabu</gndo:forename>
+			<gndo:surname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley LeRochereau</gndo:surname>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seigneur Rochereau</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567494">
+			<gndo:personalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seigneur Rochereau</gndo:personalName>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seigneur Rocherau</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567495">
+			<gndo:personalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seigneur Rocherau</gndo:personalName>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Rocherau, Tabu</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567496">
+			<gndo:forename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabu</gndo:forename>
+			<gndo:surname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Rocherau</gndo:surname>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Rochereau, Tabu</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567497">
+			<gndo:forename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabu</gndo:forename>
+			<gndo:surname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley Rochereau</gndo:surname>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau, Ley</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567498">
+			<gndo:forename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley</gndo:forename>
+			<gndo:surname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau</gndo:surname>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567499">
+			<gndo:personalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau</gndo:personalName>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pascal, Tabu</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567500">
+			<gndo:forename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabu</gndo:forename>
+			<gndo:surname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pascal</gndo:surname>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau, Tabu Ley</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567501">
+			<gndo:forename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabu Ley</gndo:forename>
+			<gndo:surname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau</gndo:surname>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau, Tabu L.</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567502">
+			<gndo:forename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabu L.</gndo:forename>
+			<gndo:surname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau</gndo:surname>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau, Tabuley</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567503">
+			<gndo:forename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabuley</gndo:forename>
+			<gndo:surname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau</gndo:surname>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabu, Ley</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567504">
+			<gndo:forename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley</gndo:forename>
+			<gndo:surname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabu</gndo:surname>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabu Ley</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567505">
+			<gndo:personalName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabu Ley</gndo:personalName>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:variantNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau, ...</gndo:variantNameForThePerson>
+	<gndo:variantNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567506">
+			<gndo:forename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">...</gndo:forename>
+			<gndo:surname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rochereau</gndo:surname>
+		</rdf:Description>
+	</gndo:variantNameEntityForThePerson>
+	<gndo:preferredNameForThePerson rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley, Tabu</gndo:preferredNameForThePerson>
+	<gndo:preferredNameEntityForThePerson>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567507">
+			<gndo:forename rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tabu</gndo:forename>
+			<gndo:surname rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ley</gndo:surname>
+		</rdf:Description>
+	</gndo:preferredNameEntityForThePerson>
+	<gndo:gndSubjectCategory rdf:resource="https://d-nb.info/standards/vocab/gnd/gnd-sc#14.4p"/>
+	<gndo:geographicAreaCode rdf:resource="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD"/>
+	<wdrs:describedby>
+		<rdf:Description rdf:about="https://d-nb.info/gnd/134782542/about">
+			<dcterms:creator rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-101"/>
+			<dcatde:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-101"/>
+		</rdf:Description>
+	</wdrs:describedby>
+	<gndo:biographicalOrHistoricalInformation xml:lang="de">Kongoles. Sänger</gndo:biographicalOrHistoricalInformation>
+	<gndo:gender rdf:resource="https://d-nb.info/standards/vocab/gnd/gender#notKnown"/>
+	<gndo:professionOrOccupation>
+		<rdf:Description rdf:nodeID="node1ijv0ret8x52567508">
+			<rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq"/>
+			<rdf:_1 rdf:resource="https://d-nb.info/gnd/4032009-1"/>
+			<rdf:_2 rdf:resource="https://d-nb.info/gnd/4040841-3"/>
+		</rdf:Description>
+	</gndo:professionOrOccupation>
+	<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1940</gndo:dateOfBirth>
+	<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">2013</gndo:dateOfDeath>
+</rdf:Description>
+
+</rdf:RDF>

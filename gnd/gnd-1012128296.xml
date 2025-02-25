@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/agrelon#" xmlns:j.2="https://d-nb.info/standards/elementset/dnb#" xmlns:j.3="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/1012128296">
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1028366-3">
+        <rdfs:label>Kisangani</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4170818-0">
+        <rdfs:label>Musikerin</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:preferredName>Abeti</gndo:preferredName>
+    <gndo:oldAuthorityNumber>(DE-588a)1012128296</gndo:oldAuthorityNumber>
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
+        <rdfs:label>Demokratische Republik Kongo</rdfs:label>
+      </rdf:Description>
+    </gndo:relatedPlaceOrGeographicName>
+    <gndo:placeOfDeathAsLiteral>Villejuif, Frankreich</gndo:placeOfDeathAsLiteral>
+    <j.1:hasSibling>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1123538484">
+        <rdfs:label>Masikini, Abumba</rdfs:label>
+      </rdf:Description>
+    </j.1:hasSibling>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#female">
+        <rdfs:label>Weiblich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:gndIdentifier>1012128296</gndo:gndIdentifier>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/64208353">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.3:name>Virtual International Authority File (VIAF)</j.3:name>
+            <j.3:logo>http://viaf.org/viaf/images/viaf.ico</j.3:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Masikini, Abeti</gndo:variantName>
+    <gndo:dateOfDeath>1994-09-28</gndo:dateOfDeath>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Abeti_Masikini">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.3:name>Wikipedia (English)</j.3:name>
+            <j.3:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.3:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1012128296/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Religion</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.3:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.3:name>
+            <j.3:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.3:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-16T17:01:17.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </wdrs:describedby>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <gndo:dateOfBirth>1951-10-09</gndo:dateOfBirth>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
+        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:variantName>Finant, Elisabeth</gndo:variantName>
+    <gndo:familialRelationship rdf:resource="https://d-nb.info/gnd/1123538484"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Masikini</gndo:surname>
+      <gndo:forename>Abeti</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Abeti</gndo:personalName>
+    </gndo:preferredNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n00075326">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.3:name>NACO Authority File</j.3:name>
+            <j.3:logo>http://www.loc.gov/favicon.ico</j.3:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/1012128296/about"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000001248148">
+        <j.2:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Finant</gndo:surname>
+      <gndo:forename>Elisabeth</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+  </gndo:AuthorityResource>
+</rdf:RDF>
