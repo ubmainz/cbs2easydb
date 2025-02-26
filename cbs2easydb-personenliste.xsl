@@ -2,6 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
     xmlns:gndo="http://d-nb.info/standards/elementset/gnd#"
     exclude-result-prefixes="xs"
     version="2.0">
@@ -15,32 +16,43 @@
             </xsl:call-template>
             <xsl:variable name="gndid" select="sbf[@id='0']"/>
             <xsl:variable name="gndfile" select="concat('gnd/gnd-',$gndid,'.xml')"/>
-            <xsl:message><xsl:text>GND: </xsl:text><xsl:value-of select="$gndid"/></xsl:message>
             <xsl:variable name="gnddata">
                 <xsl:if test="(string-length($gndid) ge 1) and doc-available($gndfile)">
                     <xsl:copy-of
-                        select="document($gndfile)/rdf:RDF/*/*"/> 
+                        select="document($gndfile)/rdf:RDF/*"/> 
                     </xsl:if>
             </xsl:variable>
-            <xsl:message><xsl:value-of select="$gnddata/rdf:type/@rdf:resource"></xsl:value-of></xsl:message>
             <xsl:variable name="gndname">
                 <xsl:choose>
                     <xsl:when test="string-length($gndid) lt 1"/>
-                    <xsl:when test="$gnddata/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson'">
-                        <xsl:value-of select="$gnddata/*:preferredNameForThePerson"/>
+                    <xsl:when test="($gnddata/*/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson') or
+                        (name($gnddata/*)='gndo:DifferentiatedPerson')">
+                        <xsl:value-of select="$gnddata/*/(*:preferredNameForThePerson|*:preferredName)"/>
                     </xsl:when>
-                    <xsl:when test="$gnddata/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#CorporateBody'">
-                        <xsl:value-of select="$gnddata/*:preferredNameForTheCorporateBody"/>
+                    <xsl:when test="($gnddata/*/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#CorporateBody') or
+                        (name($gnddata/*)='gndo:CorporateBody')">
+                        <xsl:value-of select="$gnddata/*/(*:preferredNameForTheCorporateBody|*:preferredName)"/>
                     </xsl:when>
-                    <xsl:when test="$gnddata/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#MusicalCorporateBody'">
-                        <xsl:value-of select="$gnddata/*:preferredNameForTheCorporateBody"/>
+                    <xsl:when test="($gnddata/*/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#MusicalCorporateBody') or
+                        (name($gnddata/*)='gndo:MusicalCorporateBody')">
+                        <xsl:value-of select="$gnddata/*/(*:preferredNameForTheCorporateBody|*:preferredName)"/>
                     </xsl:when>
                     <xsl:otherwise><xsl:message>Warnung: Unbekannter GND-Typ</xsl:message></xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
+            <xsl:variable name="gndvolltext">
+                <xsl:for-each select="$gnddata//(*:oldAuthorityNumber|*:label|*:variantName)[not(contains(.,'http'))]">
+                    <xsl:sort/>
+                    <xsl:value-of select="normalize-space(.)"/><xsl:text> </xsl:text>
+                </xsl:for-each>
+            </xsl:variable>
+            <xsl:if test="($gndname='') and (string-length($gndid) ge 1)"><xsl:message>Daten fehlen: <xsl:value-of select="$gndid"/></xsl:message></xsl:if>
             <xsl:variable name="gndjson">
                 <xsl:if test="not($gndname='')">
-                    <xsl:text>{&quot;frontendLanguage&quot;:&quot;de&quot;,&quot;_fulltext&quot;:{&quot;text&quot;:&quot;TBD&quot;},&quot;conceptURI&quot;:&quot;</xsl:text>
+                    <xsl:text>{&quot;frontendLanguage&quot;:&quot;de&quot;,&quot;_fulltext&quot;:{&quot;text&quot;:&quot;</xsl:text>
+                    <xsl:value-of select="$gndvolltext"/>
+                    <xsl:text>&quot;},</xsl:text>
+                    <xsl:text>&quot;conceptURI&quot;:&quot;https://d-nb.info/</xsl:text>
                     <xsl:value-of select="$gndid"/>
                     <xsl:text>&quot;,&quot;_standard&quot;:{&quot;text&quot;:&quot;</xsl:text>
                     <xsl:value-of select="$gndname"/>
@@ -49,7 +61,7 @@
                     <xsl:text>&quot;}</xsl:text>
                 </xsl:if>
             </xsl:variable>
-            <!-- <xsl:message><xsl:value-of select="$gndid"/><xsl:text> - </xsl:text><xsl:value-of select="$gndjson"/></xsl:message> -->
+            <xsl:message><xsl:value-of select="$gndid"/><xsl:text> - </xsl:text><xsl:value-of select="$gndjson"/></xsl:message>
             <xsl:call-template name="feld"> <!-- GND-ID -->
                 <xsl:with-param name="wert" select="$gndid"/>                
             </xsl:call-template>
@@ -107,7 +119,7 @@
     
     <xsl:template name="feld">
         <xsl:param name="wert"/>
-        <xsl:value-of select="translate(normalize-unicode($wert,'NFC'),'{@','')"/><xsl:text>&#x9;</xsl:text>
+        <xsl:value-of select="normalize-unicode($wert,'NFC')"/><xsl:text>&#x9;</xsl:text>
     </xsl:template>
     
 </xsl:stylesheet>
