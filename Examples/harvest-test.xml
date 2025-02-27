@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <record>
+      <dataExportXML ppn="122848284">
+         <record>
+            <tag id="001A">
+               <sbf id="0">0077:02-08-04</sbf>
+            </tag>
+            <tag id="001B">
+               <sbf id="0">0077:10-12-21</sbf>
+               <sbf id="t">14:48:56.000</sbf>
+            </tag>
+            <tag id="001C">
+               <sbf id="0">0077:02-11-15</sbf>
+               <sbf id="t">14:03:28.000</sbf>
+            </tag>
+            <tag id="001D">
+               <sbf id="0">0077:06-06-13</sbf>
+            </tag>
+            <tag id="001U">
+               <sbf id="0">utf8</sbf>
+            </tag>
+            <tag id="001X">
+               <sbf id="0">0</sbf>
+            </tag>
+            <tag id="002@">
+               <sbf id="0">Gau</sbf>
+            </tag>
+            <tag id="003@">
+               <sbf id="0">122848284</sbf>
+            </tag>
+            <tag id="003O">
+               <sbf id="a">OCoLC</sbf>
+               <sbf id="0">177299855</sbf>
+            </tag>
+            <tag id="004E/01">
+               <sbf id="0">GEN 126</sbf>
+            </tag>
+            <tag id="007A">
+               <sbf id="a">HEB</sbf>
+               <sbf id="0">122848284</sbf>
+            </tag>
+            <tag id="010@">
+               <sbf id="a">und</sbf>
+            </tag>
+            <tag id="011@">
+               <sbf id="a">1989</sbf>
+               <sbf id="n">P 1989</sbf>
+            </tag>
+            <tag id="013H">
+               <sbf id="0">m</sbf>
+            </tag>
+            <tag id="021A">
+               <sbf id="a">C'est comme ça la vie</sbf>
+               <sbf id="n">Tonträger</sbf>
+               <sbf id="h">Seigneur Rochereau Tabu Ley et le consortium Musical: AFRISA International</sbf>
+            </tag>
+            <tag id="028E">
+               <sbf id="9">200742302</sbf>
+               <sbf id="7">Tp1</sbf>
+               <sbf id="V">piz</sbf>
+               <sbf id="A">gnd</sbf>
+               <sbf id="0">134782542</sbf>
+               <sbf id="a">Ley</sbf>
+               <sbf id="d">Tabu</sbf>
+               <sbf id="L">1940-2013</sbf>
+            </tag>
+            <tag id="029E">
+               <sbf id="9">048850217</sbf>
+               <sbf id="7">Tb1</sbf>
+               <sbf id="V">kiz</sbf>
+               <sbf id="A">gnd</sbf>
+               <sbf id="0">3028408-9</sbf>
+               <sbf id="a">Afrisa International Orchestra</sbf>
+            </tag>
+            <tag id="033A">
+               <sbf id="p">[S.l.]</sbf>
+               <sbf id="n">Genidia</sbf>
+            </tag>
+            <tag id="033A">
+               <sbf id="p">Paris</sbf>
+               <sbf id="n">Sonodisc (Distr.)</sbf>
+            </tag>
+            <tag id="034D">
+               <sbf id="a">1 Schallpl.</sbf>
+            </tag>
+            <tag id="034M">
+               <sbf id="a">33 UpM, stereo</sbf>
+            </tag>
+            <tag id="037A">
+               <sbf id="a">Matrix-Nr.: MPO AM 89-3 GEN 126 A;AM MPO 89-3 GEN 126 B</sbf>
+            </tag>
+            <tag id="046M">
+               <sbf id="a">Enth.: C'est comme ça la vie. Bawelisa. C'est comme ça la vie (mi play-back). Dernier espoir "Itou". Lisolo ya ngungi. Dernier espoir "Itou" (mi play-back)</sbf>
+            </tag>
+            <tag id="046S">
+               <sbf id="a">Interpr.: Tabu Ley. Afrisa International</sbf>
+            </tag>
+            <tag id="101B">
+               <sbf id="0">02-11-15</sbf>
+               <sbf id="t">14:01:33.000</sbf>
+            </tag>
+            <tag id="101C">
+               <sbf id="0">02-08-04</sbf>
+            </tag>
+            <tag id="101U">
+               <sbf id="0">utf8</sbf>
+            </tag>
+            <tag id="144Z/35">
+               <sbf id="a">Musik</sbf>
+            </tag>
+            <tag id="144Z/36">
+               <sbf id="a">Kongo</sbf>
+            </tag>
+            <tag id="144Z/37">
+               <sbf id="a">Populäre Musik</sbf>
+            </tag>
+            <tag id="201B/01">
+               <sbf id="0">15-10-18</sbf>
+               <sbf id="t">15:56:07.000</sbf>
+            </tag>
+            <tag id="201C/01">
+               <sbf id="0">02-08-04</sbf>
+            </tag>
+            <tag id="201U/01">
+               <sbf id="0">utf8</sbf>
+            </tag>
+            <tag id="203@/01">
+               <sbf id="0">217758525</sbf>
+            </tag>
+            <tag id="208@/01">
+               <sbf id="a">08-01-08</sbf>
+               <sbf id="b">z</sbf>
+            </tag>
+            <tag id="209A/01">
+               <sbf id="a">R 781</sbf>
+               <sbf id="f">066</sbf>
+               <sbf id="d">s</sbf>
+               <sbf id="x">00</sbf>
+            </tag>
+            <tag id="209C/01">
+               <sbf id="a">1993/1286</sbf>
+            </tag>
+            <tag id="209G/01">
+               <sbf id="a">AMA - African Music Archives</sbf>
+               <sbf id="x">01</sbf>
+            </tag>
+            <tag id="247C/01">
+               <sbf id="9">102600155</sbf>
+               <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+               <sbf id="b">77/066</sbf>
+               <sbf id="c">651066-8</sbf>
+               <sbf id="h">DE-77-066</sbf>
+               <sbf id="d">HES</sbf>
+               <sbf id="e">ln</sbf>
+            </tag>
+         </record>
+      </dataExportXML>
+   </record>
+   <record>
+      <dataExportXML ppn="126167621">
+         <record>
+            <tag id="001A">
+               <sbf id="0">0077:28-01-05</sbf>
+            </tag>
+            <tag id="001B">
+               <sbf id="0">0077:18-08-20</sbf>
+               <sbf id="t">09:44:51.000</sbf>
+            </tag>
+            <tag id="001C">
+               <sbf id="0">0077:15-06-09</sbf>
+               <sbf id="t">14:06:52.000</sbf>
+            </tag>
+            <tag id="001D">
+               <sbf id="0">0077:15-06-09</sbf>
+            </tag>
+            <tag id="001U">
+               <sbf id="0">utf8</sbf>
+            </tag>
+            <tag id="001X">
+               <sbf id="0">0</sbf>
+            </tag>
+            <tag id="002@">
+               <sbf id="0">Gau</sbf>
+            </tag>
+            <tag id="003@">
+               <sbf id="0">126167621</sbf>
+            </tag>
+            <tag id="003O">
+               <sbf id="a">OCoLC</sbf>
+               <sbf id="0">179025015</sbf>
+            </tag>
+            <tag id="004E/01">
+               <sbf id="0">2C 006-15.168 M</sbf>
+            </tag>
+            <tag id="007A">
+               <sbf id="a">HEB</sbf>
+               <sbf id="0">126167621</sbf>
+            </tag>
+            <tag id="010@">
+               <sbf id="a">lin</sbf>
+            </tag>
+            <tag id="011@">
+               <sbf id="a">1970</sbf>
+               <sbf id="n">[ca. 1970]</sbf>
+            </tag>
+            <tag id="013H">
+               <sbf id="0">m</sbf>
+            </tag>
+            <tag id="021A">
+               <sbf id="a">Lola</sbf>
+               <sbf id="n">Tonträger</sbf>
+               <sbf id="h">Franco et l'Orchestre OK Jazz</sbf>
+            </tag>
+            <tag id="027A">
+               <sbf id="a">Na kuyei tapis</sbf>
+            </tag>
+            <tag id="028E">
+               <sbf id="9">321306937</sbf>
+               <sbf id="7">Tp3</sbf>
+               <sbf id="V">pip</sbf>
+               <sbf id="A">gnd</sbf>
+               <sbf id="0">1034498649</sbf>
+               <sbf id="P">Franco</sbf>
+               <sbf id="l">Musiker</sbf>
+               <sbf id="L">1938-1989</sbf>
+            </tag>
+            <tag id="029A">
+               <sbf id="9">044069308</sbf>
+               <sbf id="7">Tb1</sbf>
+               <sbf id="V">kiz</sbf>
+               <sbf id="A">gnd</sbf>
+               <sbf id="0">3015656-7</sbf>
+               <sbf id="a">Tout-Puissant OK Jazz</sbf>
+            </tag>
+            <tag id="033A">
+               <sbf id="p">Paris</sbf>
+               <sbf id="n">Pathé Marconi.</sbf>
+            </tag>
+            <tag id="034D">
+               <sbf id="a">1 Schallpl.</sbf>
+            </tag>
+            <tag id="034I">
+               <sbf id="a">17,5 cm</sbf>
+            </tag>
+            <tag id="034M">
+               <sbf id="a">45 UpM</sbf>
+            </tag>
+            <tag id="046M">
+               <sbf id="a">Enth. außerdem: Na kuyei tapis</sbf>
+            </tag>
+            <tag id="046S">
+               <sbf id="a">Interpr.: Franco. Orchestre OK Jazz</sbf>
+            </tag>
+            <tag id="101B">
+               <sbf id="0">15-06-09</sbf>
+               <sbf id="t">14:06:52.000</sbf>
+            </tag>
+            <tag id="101C">
+               <sbf id="0">28-01-05</sbf>
+            </tag>
+            <tag id="101U">
+               <sbf id="0">utf8</sbf>
+            </tag>
+            <tag id="144Z/35">
+               <sbf id="a">12.3 Musik</sbf>
+            </tag>
+            <tag id="144Z/36">
+               <sbf id="a">12.3 Kongo</sbf>
+            </tag>
+            <tag id="144Z/37">
+               <sbf id="a">12.3 Lingala</sbf>
+            </tag>
+            <tag id="144Z/38">
+               <sbf id="a">12.3 Bolero</sbf>
+            </tag>
+            <tag id="144Z/39">
+               <sbf id="a">12.3 Rumba</sbf>
+            </tag>
+            <tag id="201B/01">
+               <sbf id="0">15-10-18</sbf>
+               <sbf id="t">16:06:06.000</sbf>
+            </tag>
+            <tag id="201C/01">
+               <sbf id="0">28-01-05</sbf>
+            </tag>
+            <tag id="201U/01">
+               <sbf id="0">utf8</sbf>
+            </tag>
+            <tag id="203@/01">
+               <sbf id="0">224512226</sbf>
+            </tag>
+            <tag id="208@/01">
+               <sbf id="a">15-06-09</sbf>
+               <sbf id="b">z</sbf>
+            </tag>
+            <tag id="209A/01">
+               <sbf id="a">RS 435</sbf>
+               <sbf id="f">066</sbf>
+               <sbf id="d">s</sbf>
+               <sbf id="x">00</sbf>
+            </tag>
+            <tag id="209G/01">
+               <sbf id="a">AMA - African Music Archives</sbf>
+               <sbf id="x">01</sbf>
+            </tag>
+            <tag id="237A/01">
+               <sbf id="a">dw</sbf>
+            </tag>
+            <tag id="247C/01">
+               <sbf id="9">102600155</sbf>
+               <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+               <sbf id="b">77/066</sbf>
+               <sbf id="c">651066-8</sbf>
+               <sbf id="h">DE-77-066</sbf>
+               <sbf id="d">HES</sbf>
+               <sbf id="e">ln</sbf>
+            </tag>
+         </record>
+      </dataExportXML>
+   </record>
+   <record>
+      <dataExportXML ppn="12616651X">
+         <record>
+            <tag id="001A">
+               <sbf id="0">0077:28-01-05</sbf>
+            </tag>
+            <tag id="001B">
+               <sbf id="0">0077:18-08-20</sbf>
+               <sbf id="t">09:14:04.000</sbf>
+            </tag>
+            <tag id="001C">
+               <sbf id="0">0077:03-06-09</sbf>
+               <sbf id="t">14:38:51.000</sbf>
+            </tag>
+            <tag id="001D">
+               <sbf id="0">0077:03-06-09</sbf>
+            </tag>
+            <tag id="001U">
+               <sbf id="0">utf8</sbf>
+            </tag>
+            <tag id="001X">
+               <sbf id="0">0</sbf>
+            </tag>
+            <tag id="002@">
+               <sbf id="0">Gau</sbf>
+            </tag>
+            <tag id="003@">
+               <sbf id="0">12616651X</sbf>
+            </tag>
+            <tag id="003O">
+               <sbf id="a">OCoLC</sbf>
+               <sbf id="0">179024473</sbf>
+            </tag>
+            <tag id="004E/01">
+               <sbf id="0">2C 006-15.087 M</sbf>
+            </tag>
+            <tag id="007A">
+               <sbf id="a">HEB</sbf>
+               <sbf id="0">12616651X</sbf>
+            </tag>
+            <tag id="010@">
+               <sbf id="a">und</sbf>
+            </tag>
+            <tag id="011@">
+               <sbf id="a">1970</sbf>
+               <sbf id="n">[ca. 1970]</sbf>
+            </tag>
+            <tag id="013H">
+               <sbf id="0">m</sbf>
+            </tag>
+            <tag id="021A">
+               <sbf id="a">Mariam Nirudie</sbf>
+               <sbf id="n">Tonträger</sbf>
+               <sbf id="h">Orchestre Hi-Fives</sbf>
+            </tag>
+            <tag id="027A">
+               <sbf id="a">Unipe Nauli</sbf>
+            </tag>
+            <tag id="029A">
+               <sbf id="9">124393969</sbf>
+               <sbf id="7">Tb1</sbf>
+               <sbf id="V">kim</sbf>
+               <sbf id="A">gnd</sbf>
+               <sbf id="0">3059878-3</sbf>
+               <sbf id="a">Orchestre Hi-Fives</sbf>
+            </tag>
+            <tag id="033A">
+               <sbf id="p">Paris</sbf>
+               <sbf id="n">Pathé Marconi</sbf>
+            </tag>
+            <tag id="034D">
+               <sbf id="a">1 Schallpl.</sbf>
+            </tag>
+            <tag id="034I">
+               <sbf id="a">17,5 cm</sbf>
+            </tag>
+            <tag id="034M">
+               <sbf id="a">45 UpM</sbf>
+            </tag>
+            <tag id="036G">
+               <sbf id="a">Succès Africains et Sud-Americains</sbf>
+            </tag>
+            <tag id="046M">
+               <sbf id="a">Enth. außerdem: Unipe Nauli</sbf>
+            </tag>
+            <tag id="046S">
+               <sbf id="a">Interpr.: Orchestre Hi-Fives</sbf>
+            </tag>
+            <tag id="101B">
+               <sbf id="0">03-06-09</sbf>
+               <sbf id="t">14:38:51.000</sbf>
+            </tag>
+            <tag id="101C">
+               <sbf id="0">28-01-05</sbf>
+            </tag>
+            <tag id="101U">
+               <sbf id="0">utf8</sbf>
+            </tag>
+            <tag id="144Z/35">
+               <sbf id="a">12.3 Musik</sbf>
+            </tag>
+            <tag id="144Z/36">
+               <sbf id="a">12.3 Kongo</sbf>
+            </tag>
+            <tag id="144Z/37">
+               <sbf id="a">12.3 Rumba</sbf>
+            </tag>
+            <tag id="201B/01">
+               <sbf id="0">15-10-18</sbf>
+               <sbf id="t">16:05:35.000</sbf>
+            </tag>
+            <tag id="201C/01">
+               <sbf id="0">28-01-05</sbf>
+            </tag>
+            <tag id="201U/01">
+               <sbf id="0">utf8</sbf>
+            </tag>
+            <tag id="203@/01">
+               <sbf id="0">224510363</sbf>
+            </tag>
+            <tag id="208@/01">
+               <sbf id="a">03-06-09</sbf>
+               <sbf id="b">z</sbf>
+            </tag>
+            <tag id="209A/01">
+               <sbf id="a">RS 358</sbf>
+               <sbf id="f">066</sbf>
+               <sbf id="d">s</sbf>
+               <sbf id="x">00</sbf>
+            </tag>
+            <tag id="209G/01">
+               <sbf id="a">AMA - African Music Archives</sbf>
+               <sbf id="x">01</sbf>
+            </tag>
+            <tag id="237A/01">
+               <sbf id="a">dw</sbf>
+            </tag>
+            <tag id="247C/01">
+               <sbf id="9">102600155</sbf>
+               <sbf id="a">Universität Mainz, Bereichsbibliothek Rechts- und Wirtschaftswissenschaften / Ethnologie und Afrikastudien</sbf>
+               <sbf id="b">77/066</sbf>
+               <sbf id="c">651066-8</sbf>
+               <sbf id="h">DE-77-066</sbf>
+               <sbf id="d">HES</sbf>
+               <sbf id="e">ln</sbf>
+            </tag>
+         </record>
+      </dataExportXML>
+   </record>
+</root>
