@@ -24,10 +24,10 @@
         </xsl:call-template>
         -->
         <xsl:call-template name="feld"> <!-- Objekttitel -->
-            <xsl:with-param name="wert" select="string-join((string-join((tag[@id='021A']/sbf[@id='a'],tag[@id='021A']/sbf[@id='d']),' : '),tag[@id='021A']/sbf[@id='h']),' / ')"/>
+            <xsl:with-param name="wert" select="translate(string-join((string-join((tag[@id='021A']/sbf[@id='a'],tag[@id='021A']/sbf[@id='d']),' : '),tag[@id='021A']/sbf[@id='h']),' / '),'{@','')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Reihentitel -->
-            <xsl:with-param name="wert" select="string-join((tag[starts-with(@id,'036C')]/sbf[@id='a'],tag[starts-with(@id,'036G')]/sbf[@id='a']),'/')"/>
+            <xsl:with-param name="wert" select="translate(string-join((tag[starts-with(@id,'036C')]/sbf[@id='a'],tag[starts-with(@id,'036G')]/sbf[@id='a']),'/'),'{@','')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Sprache -->
             <xsl:with-param name="wert" select="string-join(tag[@id='010@']/sbf[@id='a'],', ')"/>
@@ -59,7 +59,7 @@
             <xsl:with-param name="wert" select="tag[@id='011@']/sbf[@id='a']"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Ort -->
-            <xsl:with-param name="wert" select="translate(string-join(tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))],', '),'[]','')"/>
+            <xsl:with-param name="wert" select="translate(string-join(tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))],', '),'[]{','')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Label -->
             <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'][not(contains(.,'(Distr.)'))],', ')"/>
@@ -279,7 +279,7 @@
     
     <xsl:template name="feld">
         <xsl:param name="wert"/>
-        <xsl:value-of select="translate(normalize-unicode($wert,'NFC'),'{@','')"/><xsl:text>&#x9;</xsl:text>
+        <xsl:value-of select="normalize-unicode($wert,'NFC')"/><xsl:text>&#x9;</xsl:text>
     </xsl:template>
     
 </xsl:stylesheet>
