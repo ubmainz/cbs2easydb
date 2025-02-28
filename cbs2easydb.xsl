@@ -144,20 +144,19 @@
             <xsl:variable name="rolle">
                 <xsl:variable name="cbsrolle" select="normalize-space(if (sbf[@id='4']) then (sbf[@id='4'][1]) else (sbf[@id='B'][1]))"/>
                 <xsl:choose>
-                    <xsl:when test="index-of(('arr'),$cbsrolle) gt 0">Arrangement (von)</xsl:when>
+                    <xsl:when test="index-of(('arr','Arr.'),$cbsrolle) gt 0">Arrangement (von)</xsl:when>
                     <xsl:when test="index-of(('cmp','Komp.'),$cbsrolle) gt 0">Komposition (von)</xsl:when>
                     <xsl:when test="index-of(('cnd'),$cbsrolle) gt 0">dirigiert (von)</xsl:when>
                     <xsl:when test="index-of(('com'),$cbsrolle) gt 0">Zusammenstellung (durch)</xsl:when>
-                    <xsl:when test="index-of(('dir'),$cbsrolle) gt 0">Musikalische Leitung (durch)</xsl:when>
+                    <xsl:when test="index-of(('dir','msd'),$cbsrolle) gt 0">Musikalische Leitung (durch)</xsl:when>
                     <xsl:when test="index-of(('edt','hrsg.','Hrsg.','isb'),$cbsrolle) gt 0">Musikalisches Werk Herausgabe (durch)</xsl:when>
                     <xsl:when test="index-of(('g'),$cbsrolle) gt 0">Instrumentalmusik (von)</xsl:when>
                     <xsl:when test="(index-of(('hnr'),$cbsrolle) gt 0) or (@id='028F')">Geehrte Person</xsl:when>
-                    <xsl:when test="(index-of(('itr','prf'),$cbsrolle) gt 0) or (@id='028E') or starts-with(@id,'029E')">Interpretation (durch)</xsl:when>
+                    <xsl:when test="(index-of(('itr','prf','sng','voc'),$cbsrolle) gt 0) or (@id='028E') or starts-with(@id,'029E')">Interpretation (durch)</xsl:when>
                     <xsl:when test="index-of(('lyr'),$cbsrolle) gt 0">Liedtext (von)</xsl:when>
-                    <xsl:when test="index-of(('pro','Prod.'),$cbsrolle) gt 0">Produktion (von)</xsl:when>
+                    <xsl:when test="index-of(('pro','aup','Prod.'),$cbsrolle) gt 0">Produktion (von)</xsl:when>
                     <xsl:when test="index-of(('rcd'),$cbsrolle) gt 0">Aufnahme (durch)</xsl:when>
-                    <xsl:when test="index-of(('sng','voc'),$cbsrolle) gt 0">Gesang (von)</xsl:when>
-                    <xsl:when test="index-of(('aut','ctb','wst',''),$cbsrolle) gt 0">Beteiligte Person/Körperschaft</xsl:when>
+                    <xsl:when test="index-of(('aut','ctb','wst','wpr','ive',''),$cbsrolle) gt 0">Beteiligte Person/Körperschaft</xsl:when>
                     <xsl:otherwise><xsl:message>Unbekannte Rolle: <xsl:value-of select="$cbsrolle"/></xsl:message></xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
