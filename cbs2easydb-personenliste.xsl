@@ -8,7 +8,7 @@
     version="2.0">
     <xsl:output  method="text" encoding="UTF-8"/>
    
-    <xsl:template match="//record">
+    <xsl:template match="record[../name()='dataExportXML']">
         <xsl:variable name="ppn" select="tag[@id='003@']/sbf[@id='0']"/>
         <xsl:for-each select="tag[starts-with(@id,'028')]|tag[starts-with(@id,'029')]">
             <xsl:call-template name="feld"> <!-- PPN -->
@@ -121,5 +121,7 @@
         <xsl:param name="wert"/>
         <xsl:value-of select="normalize-unicode($wert,'NFC')"/><xsl:text>&#x9;</xsl:text>
     </xsl:template>
-    
+
+    <xsl:template match="*/text()"/>
+   
 </xsl:stylesheet>

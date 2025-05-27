@@ -8,7 +8,7 @@
     <xsl:output  method="text" encoding="UTF-8"/>
     <xsl:param name="persons" select="13"/>
    
-    <xsl:template match="//record">
+    <xsl:template match="record[../name()='dataExportXML']">
         <xsl:variable name="ppn" select="tag[@id='003@']/sbf[@id='0']"/>
         <xsl:call-template name="feld"> <!-- PPN -->
             <xsl:with-param name="wert" select="$ppn"/>
@@ -30,7 +30,7 @@
             <xsl:with-param name="wert" select="translate(string-join((tag[starts-with(@id,'036C')]/sbf[@id='a'],tag[starts-with(@id,'036G')]/sbf[@id='a']),'/'),'{@','')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Sprache -->
-            <xsl:with-param name="wert" select="string-join(tag[@id='010@']/sbf[@id='a'],', ')"/>
+            <xsl:with-param name="wert" select="string-join(tag[@id='010@']/sbf[@id='a'],', ')"/> <!-- CR -->
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Objektbeschreibung -->
             <xsl:with-param name="wert">
@@ -43,14 +43,26 @@
         <xsl:call-template name="feld"> <!-- Umfang -->
             <xsl:with-param name="wert" select="string-join((tag[@id='034D']/sbf[@id='a'],tag[@id='034M']/sbf[@id='a'],tag[@id='034I']/sbf[@id='a'],tag[@id='034K']/sbf[@id='a']),' ; ')"/>
         </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Signatur (weitere Nummer) -->
+            <xsl:with-param name="wert" select="'Signatur'"/>
+        </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Signatur -->
             <xsl:with-param name="wert" select="$signatur"/>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Verlags-Bestellnummer (weitere Nummer) -->
+            <xsl:with-param name="wert" select="'Verlags-Bestellnummer'"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Verlags-Bestellnummer -->
             <xsl:with-param name="wert" select="string-join(tag[@id='004E/01']/sbf[@id='0'],', ')"/>
         </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- UPC (weitere Nummer) -->
+            <xsl:with-param name="wert" select="'Produkt-Nummer'"/>
+        </xsl:call-template>
         <xsl:call-template name="feld"> <!-- UPC -->
             <xsl:with-param name="wert" select="string-join(tag[@id='004C']/sbf[@id='0'],', ')"/>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Matrix-Nummer (weitere Nummer) -->
+            <xsl:with-param name="wert" select="'Matrix-Nummer'"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Matrixnr. -->
             <xsl:with-param name="wert" select="string-join(tag[@id='037A']/sbf[@id='a'][contains(.,'Matrix')],', ')"/>
@@ -208,13 +220,25 @@
             <xsl:with-param name="wert">Umfang</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Weitere Nummer (Typ)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Nummer (Signatur)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Weitere Nummer (Typ)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Nummer (Verlagsnr.)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Weitere Nummer (Typ)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Nummer (UPC)</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Weitere Nummer (Typ)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Nummer (Matrix)</xsl:with-param>
@@ -280,5 +304,7 @@
         <xsl:param name="wert"/>
         <xsl:value-of select="normalize-unicode($wert,'NFC')"/><xsl:text>&#x9;</xsl:text>
     </xsl:template>
+        
+    <xsl:template match="*/text()"/>
     
 </xsl:stylesheet>
