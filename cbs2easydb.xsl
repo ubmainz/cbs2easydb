@@ -30,7 +30,7 @@
             <xsl:with-param name="wert" select="translate(string-join((tag[starts-with(@id,'036C')]/sbf[@id='a'],tag[starts-with(@id,'036G')]/sbf[@id='a']),'/'),'{@','')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Sprache -->
-            <xsl:with-param name="wert" select="string-join(tag[@id='010@']/sbf[@id='a'],', ')"/> <!-- CR -->
+            <xsl:with-param name="wert" select="concat('&quot;',string-join(tag[@id='010@']/sbf[@id='a'],'&#13;'),'&quot;')"/> <!-- CR -->
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Objektbeschreibung -->
             <xsl:with-param name="wert">
@@ -44,25 +44,25 @@
             <xsl:with-param name="wert" select="string-join((tag[@id='034D']/sbf[@id='a'],tag[@id='034M']/sbf[@id='a'],tag[@id='034I']/sbf[@id='a'],tag[@id='034K']/sbf[@id='a']),' ; ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Signatur (weitere Nummer) -->
-            <xsl:with-param name="wert" select="'Signatur'"/>
+            <xsl:with-param name="wert" select="if ($signatur) then ('Signatur') else ('')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Signatur -->
             <xsl:with-param name="wert" select="$signatur"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Verlags-Bestellnummer (weitere Nummer) -->
-            <xsl:with-param name="wert" select="'Verlags-Bestellnummer'"/>
+            <xsl:with-param name="wert" select="if (tag[@id='004E/01']/sbf[@id='0']) then ('Verlags-Bestellnummer') else ('')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Verlags-Bestellnummer -->
             <xsl:with-param name="wert" select="string-join(tag[@id='004E/01']/sbf[@id='0'],', ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- UPC (weitere Nummer) -->
-            <xsl:with-param name="wert" select="'Produkt-Nummer'"/>
+            <xsl:with-param name="wert" select="if (tag[@id='004C']/sbf[@id='0']) then ('Produkt-Nummer') else ('')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- UPC -->
             <xsl:with-param name="wert" select="string-join(tag[@id='004C']/sbf[@id='0'],', ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Matrix-Nummer (weitere Nummer) -->
-            <xsl:with-param name="wert" select="'Matrix-Nummer'"/>
+            <xsl:with-param name="wert" select="if (tag[@id='037A']/sbf[@id='a'][contains(.,'Matrix')]) then ('Matrix-Nummer') else ('')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Matrixnr. -->
             <xsl:with-param name="wert" select="string-join(tag[@id='037A']/sbf[@id='a'][contains(.,'Matrix')],', ')"/>
@@ -70,14 +70,14 @@
         <xsl:call-template name="feld"> <!-- Jahr -->
             <xsl:with-param name="wert" select="tag[@id='011@']/sbf[@id='a']"/>
         </xsl:call-template>
-        <xsl:call-template name="feld"> <!-- Ort -->
-            <xsl:with-param name="wert" select="translate(string-join(tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))],', '),'[]{','')"/>
+        <xsl:call-template name="feld"> <!-- Ort --> <!-- CR -->
+            <xsl:with-param name="wert" select="translate(string-join(tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))],', '),'[]{&quot;','')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Label -->
             <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'][not(contains(.,'(Distr.)'))],', ')"/>
         </xsl:call-template>
-        <xsl:call-template name="feld"> <!-- Schlagwörter -->
-            <xsl:with-param name="wert" select="replace(string-join(tag[starts-with(@id,'144Z')]/sbf[@id='a'],', '),'12.3 ','','s')"/>
+        <xsl:call-template name="feld"> <!-- Schlagwörter --> <!-- CR -->
+            <xsl:with-param name="wert" select="concat('&quot;',replace(string-join(tag[starts-with(@id,'144Z')]/sbf[@id='a'],'&#13;'),'12.3 ','','s'),'&quot;')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Inventarnummer -->
             <xsl:with-param name="wert" select="tag[starts-with(@id,'209C')]/sbf[@id='a'][1]"/>
@@ -168,7 +168,7 @@
                     <xsl:when test="index-of(('lyr'),$cbsrolle) gt 0">Liedtext (von)</xsl:when>
                     <xsl:when test="index-of(('pro','aup','Prod.'),$cbsrolle) gt 0">Produktion (von)</xsl:when>
                     <xsl:when test="index-of(('rcd'),$cbsrolle) gt 0">Aufnahme (durch)</xsl:when>
-                    <xsl:when test="index-of(('aut','ctb','wst','wpr','ive',''),$cbsrolle) gt 0">Beteiligte Person/Körperschaft</xsl:when>
+                    <xsl:when test="index-of(('aut','ctb','wst','wpr','ive','oth',''),$cbsrolle) gt 0">Beteiligte Person/Körperschaft</xsl:when>
                     <xsl:otherwise><xsl:message>Unbekannte Rolle: <xsl:value-of select="$cbsrolle"/></xsl:message></xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
@@ -211,7 +211,7 @@
             <xsl:with-param name="wert">Reihentiteltitel</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Sprachen</xsl:with-param>
+            <xsl:with-param name="wert">&quot;Sprachen&quot;</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Objektbeschreibung</xsl:with-param>
@@ -220,25 +220,25 @@
             <xsl:with-param name="wert">Umfang</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Weitere Nummer (Typ)</xsl:with-param>
+            <xsl:with-param name="wert">Weitere Nummer (Typ Signatur)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Nummer (Signatur)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Weitere Nummer (Typ)</xsl:with-param>
+            <xsl:with-param name="wert">Weitere Nummer (Typ Verlagsnr.)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Nummer (Verlagsnr.)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Weitere Nummer (Typ)</xsl:with-param>
+            <xsl:with-param name="wert">Weitere Nummer (Typ UPC)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Nummer (UPC)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Weitere Nummer (Typ)</xsl:with-param>
+            <xsl:with-param name="wert">Weitere Nummer (Typ Matrix)</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Weitere Nummer (Matrix)</xsl:with-param>
@@ -253,7 +253,7 @@
             <xsl:with-param name="wert">Label</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Schlagwörter</xsl:with-param>
+            <xsl:with-param name="wert">&quot;Schlagwörter&quot;</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Teilsammlung (AMA)</xsl:with-param>
