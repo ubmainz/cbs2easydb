@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:DifferentiatedPerson rdf:about="https://d-nb.info/gnd/1241089698">
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4030866-2">
+        <rdfs:label>Kisangani</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <gndo:dateOfBirth>1962</gndo:dateOfBirth>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1241089698/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-09-13T17:00:37.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </wdrs:describedby>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
+        <rdfs:label>Männlich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4157372-9">
+        <rdfs:label>Gitarrist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Itoko</gndo:surname>
+      <gndo:forename>Lokwa</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:gndIdentifier>1241089698</gndo:gndIdentifier>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4124099-6">
+        <rdfs:label>Sänger</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/1241089698/about"/>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
+        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:variantName>Itoko, Lokwa</gndo:variantName>
+    <gndo:affiliation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1241089744">
+        <rdfs:label>Lokas</rdfs:label>
+      </rdf:Description>
+    </gndo:affiliation>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/808163211482407580003">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:preferredName>Lokas</gndo:preferredName>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Lokas</gndo:personalName>
+    </gndo:preferredNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000459727079">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+  </gndo:DifferentiatedPerson>
+</rdf:RDF>

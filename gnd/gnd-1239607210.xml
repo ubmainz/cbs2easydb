@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/1239607210">
+    <gndo:variantName>Vangu, Dinu Philippe</gndo:variantName>
+    <gndo:preferredName>Dino Vangu</gndo:preferredName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1239607210/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-08-23T15:10:32.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4398215-3">
+        <rdfs:label>Liederdichter</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Dino Vangu</gndo:personalName>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:variantName>Vangu Dinu Philippe</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/5163023753589362283">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:dateOfBirth>1947-05-04</gndo:dateOfBirth>
+    <gndo:variantName>Vangu, Dino</gndo:variantName>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4157372-9">
+        <rdfs:label>Gitarrist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4367688-1">
+        <rdfs:label>Matadi</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4032009-1">
+        <rdfs:label>Komponist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Vangu</gndo:surname>
+      <gndo:forename>Dinu Philippe</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:gndIdentifier>1239607210</gndo:gndIdentifier>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#notKnown">
+        <rdfs:label>Unbekannt</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
+        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Vangu</gndo:surname>
+      <gndo:forename>Dino</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/1239607210/about"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Vangu Dinu Philippe</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+  </gndo:AuthorityResource>
+</rdf:RDF>

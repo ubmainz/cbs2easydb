@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:CorporateBody rdf:about="https://d-nb.info/gnd/1246200236">
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb155718776">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19938912">
+            <j.2:name>Bibliothèque nationale de France</j.2:name>
+            <j.2:logo>https://www.bnf.fr/themes/custom/bnfsi/favicon.ico</j.2:logo>
+            <dc:publisher>Bibliothèque nationale de France</dc:publisher>
+            <j.0:abbreviation>BNF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:preferredName>Chœur La Grâce</gndo:preferredName>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:broaderTermGeneral>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4010045-5">
+        <rdfs:label>Chor</rdfs:label>
+      </rdf:Description>
+    </gndo:broaderTermGeneral>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/154031226">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:dateOfEstablishment>1985</gndo:dateOfEstablishment>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1246200236/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-11-21T23:47:55.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+      </rdf:Description>
+    </wdrs:describedby>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000103174549">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/1246200236/about"/>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
+        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
+        <rdfs:label>Demokratische Republik Kongo</rdfs:label>
+      </rdf:Description>
+    </gndo:relatedPlaceOrGeographicName>
+    <gndo:gndIdentifier>1246200236</gndo:gndIdentifier>
+  </gndo:CorporateBody>
+</rdf:RDF>
