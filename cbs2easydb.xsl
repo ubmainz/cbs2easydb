@@ -91,6 +91,9 @@
         <xsl:call-template name="feld"> <!-- Interpret -->
             <xsl:with-param name="wert" select="tag[@id='046S']/sbf[@id='a']"/>
         </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Ereignis -->
+            <xsl:with-param name="wert" select="'Veröffentlichung (musikalisches Werk)'"/>                
+        </xsl:call-template>
         <xsl:for-each select="tag[starts-with(@id,'028')]|tag[starts-with(@id,'029')]">
             <xsl:if test="position() gt $persons"><xsl:message><xsl:text>Warnung: </xsl:text><xsl:value-of select="position()"/></xsl:message></xsl:if>
             <xsl:variable name="gndid" select="sbf[@id='0']"/>
@@ -150,9 +153,6 @@
             <xsl:call-template name="feld"> <!-- GND-JSON -->
                 <xsl:with-param name="wert" select="$gndjson"/>                
             </xsl:call-template>
-            <xsl:call-template name="feld"> <!-- Ereignis -->
-                <xsl:with-param name="wert" select="'Veröffentlichung (musikalisches Werk)'"/>                
-            </xsl:call-template>
             <xsl:variable name="rolle">
                 <xsl:variable name="cbsrolle" select="normalize-space(if (sbf[@id='4']) then (sbf[@id='4'][1]) else (sbf[@id='B'][1]))"/>
                 <xsl:choose>
@@ -172,7 +172,7 @@
                     <xsl:otherwise><xsl:message>Unbekannte Rolle: <xsl:value-of select="$cbsrolle"/></xsl:message></xsl:otherwise>
                 </xsl:choose>
             </xsl:variable>
-            <xsl:call-template name="feld"> <!-- Ereignis -->
+            <xsl:call-template name="feld"> <!-- Rolle -->
                 <xsl:with-param name="wert" select="$rolle"/>                
             </xsl:call-template>
 <!--            <xsl:call-template name="feld"> - Kategorie -
@@ -267,6 +267,9 @@
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Interpret</xsl:with-param>
         </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Ereignis</xsl:with-param>
+        </xsl:call-template>
         <xsl:for-each select="1 to $persons">
             <xsl:call-template name="feld"> 
                 <xsl:with-param name="wert" select="concat('GND-ID (',.,'.)')"/>
@@ -276,9 +279,6 @@
             </xsl:call-template>
             <xsl:call-template name="feld"> 
                 <xsl:with-param name="wert" select="concat('GND-JSON (',.,'.)')"/>
-            </xsl:call-template>
-            <xsl:call-template name="feld"> 
-                <xsl:with-param name="wert" select="concat('Ereignis (',.,'.)')"/>
             </xsl:call-template>
             <xsl:call-template name="feld"> 
                 <xsl:with-param name="wert" select="concat('Rolle (',.,'.)')"/>
