@@ -7,6 +7,7 @@
     version="2.0">
     <xsl:output  method="text" encoding="UTF-8"/>
     <xsl:param name="persons" select="13"/>
+    <xsl:param name="sep">,</xsl:param>
    
     <xsl:template match="record[../name()='dataExportXML']">
         <xsl:variable name="ppn" select="tag[@id='003@']/sbf[@id='0']"/>
@@ -30,7 +31,7 @@
             <xsl:with-param name="wert" select="translate(string-join((tag[starts-with(@id,'036C')]/sbf[@id='a'],tag[starts-with(@id,'036G')]/sbf[@id='a']),'/'),'{@','')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Sprache -->
-            <xsl:with-param name="wert" select="concat('&quot;',string-join(tag[@id='010@']/sbf[@id='a'],'&#13;'),'&quot;')"/> <!-- CR -->
+            <xsl:with-param name="wert" select="concat('&quot;',string-join(tag[@id='010@']/sbf[@id='a'],$sep),'&quot;')"/> <!-- CR -->
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Objektbeschreibung -->
             <xsl:with-param name="wert">
@@ -71,13 +72,13 @@
             <xsl:with-param name="wert" select="tag[@id='011@']/sbf[@id='a']"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Ort --> <!-- CR -->
-            <xsl:with-param name="wert" select="translate(string-join(tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))],', '),'[]{&quot;','')"/>
+            <xsl:with-param name="wert" select="translate(string-join(tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))],$sep),'[]{&quot;','')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Label -->
             <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'][not(contains(.,'(Distr.)'))],', ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Schlagwörter --> <!-- CR -->
-            <xsl:with-param name="wert" select="concat('&quot;',replace(string-join(tag[starts-with(@id,'144Z')]/sbf[@id='a'],'&#13;'),'12.3 ','','s'),'&quot;')"/>
+            <xsl:with-param name="wert" select="concat('&quot;',replace(string-join(tag[starts-with(@id,'144Z')]/sbf[@id='a'],$sep),'12.3 ','','s'),'&quot;')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Inventarnummer -->
             <xsl:with-param name="wert" select="tag[starts-with(@id,'209C')]/sbf[@id='a'][1]"/>
