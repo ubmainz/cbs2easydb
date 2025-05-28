@@ -72,7 +72,7 @@
             <xsl:with-param name="wert" select="tag[@id='011@']/sbf[@id='a']"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Ort --> <!-- CR -->
-            <xsl:with-param name="wert" select="translate(string-join(tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))],$sep),'[]{&quot;','')"/>
+            <xsl:with-param name="wert" select="concat('&quot;',translate(string-join(tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))],$sep),'[]{&quot;',''),'&quot;')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Label -->
             <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'][not(contains(.,'(Distr.)'))],', ')"/>
@@ -95,101 +95,105 @@
         <xsl:call-template name="feld"> <!-- Ereignis -->
             <xsl:with-param name="wert" select="'Veröffentlichung (musikalisches Werk)'"/>                
         </xsl:call-template>
-        <xsl:for-each select="tag[starts-with(@id,'028')]|tag[starts-with(@id,'029')]">
-            <xsl:if test="position() gt $persons"><xsl:message><xsl:text>Warnung: </xsl:text><xsl:value-of select="position()"/></xsl:message></xsl:if>
-            <xsl:variable name="gndid" select="sbf[@id='0']"/>
-            <xsl:variable name="gndfile" select="concat('gnd/gnd-',$gndid,'.xml')"/>
-            <xsl:variable name="gnddata">
-                <xsl:if test="(string-length($gndid) ge 1) and doc-available($gndfile)">
-                    <xsl:copy-of
-                        select="document($gndfile)/rdf:RDF/*"/> 
-                </xsl:if>
-            </xsl:variable>
-            <xsl:variable name="gndname">
-                <xsl:choose>
-                    <xsl:when test="string-length($gndid) lt 1"/>
-                    <xsl:when test="($gnddata/*/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson') or
-                        (name($gnddata/*)='gndo:DifferentiatedPerson')">
-                        <xsl:value-of select="$gnddata/*/(*:preferredNameForThePerson|*:preferredName)"/>
-                    </xsl:when>
-                    <xsl:when test="($gnddata/*/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#CorporateBody') or
-                        (name($gnddata/*)='gndo:CorporateBody')">
-                        <xsl:value-of select="$gnddata/*/(*:preferredNameForTheCorporateBody|*:preferredName)"/>
-                    </xsl:when>
-                    <xsl:when test="($gnddata/*/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#MusicalCorporateBody') or
-                        (name($gnddata/*)='gndo:MusicalCorporateBody')">
-                        <xsl:value-of select="$gnddata/*/(*:preferredNameForTheCorporateBody|*:preferredName)"/>
-                    </xsl:when>
-                    <xsl:otherwise><xsl:message>Warnung: Unbekannter GND-Typ</xsl:message></xsl:otherwise>
-                </xsl:choose>
-            </xsl:variable>
-            <xsl:variable name="gndvolltext">
-                <xsl:for-each select="$gnddata//(*:oldAuthorityNumber|*:label|*:variantName)[not(contains(.,'http'))]">
-                    <xsl:sort/>
-                    <xsl:value-of select="normalize-space(.)"/><xsl:text> </xsl:text>
-                </xsl:for-each>
-            </xsl:variable>
-            <xsl:if test="($gndname='') and (string-length($gndid) ge 1)"><xsl:message>Daten fehlen: <xsl:value-of select="$gndid"/></xsl:message></xsl:if>
-            <xsl:variable name="gndjson">
-                <xsl:if test="not($gndname='')">
-                    <xsl:text>{&quot;frontendLanguage&quot;:&quot;de&quot;,&quot;_fulltext&quot;:{&quot;text&quot;:&quot;</xsl:text>
-                    <xsl:value-of select="$gndvolltext"/>
-                    <xsl:text>&quot;},</xsl:text>
-                    <xsl:text>&quot;conceptURI&quot;:&quot;http://d-nb.info/gnd/</xsl:text>
-                    <xsl:value-of select="$gndid"/>
-                    <xsl:text>&quot;,&quot;_standard&quot;:{&quot;text&quot;:&quot;</xsl:text>
-                    <xsl:value-of select="$gndname"/>
-                    <xsl:text>&quot;},&quot;conceptName&quot;:&quot;</xsl:text>
-                    <xsl:value-of select="$gndname"/>
-                    <xsl:text>&quot;}</xsl:text>
-                </xsl:if>
+        <xsl:variable name="gndliste">
+            <xsl:for-each select="tag[starts-with(@id,'028')]|tag[starts-with(@id,'029')]">
+                <row>
+                    <xsl:if test="position() gt $persons"><xsl:message><xsl:text>Warnung: </xsl:text><xsl:value-of select="position()"/></xsl:message></xsl:if>
+                    <xsl:variable name="gndid" select="sbf[@id='0']"/>
+                    <xsl:variable name="gndfile" select="concat('gnd/gnd-',$gndid,'.xml')"/>
+                    <xsl:variable name="gnddata">
+                        <xsl:if test="(string-length($gndid) ge 1) and doc-available($gndfile)">
+                            <xsl:copy-of
+                                select="document($gndfile)/rdf:RDF/*"/> 
+                        </xsl:if>
+                    </xsl:variable>
+                    <gndurl><xsl:value-of select="if ($gndid!='') then (concat('http://d-nb.info/gnd/',$gndid)) else ('')"/></gndurl>
+                    <xsl:variable name="gndname">
+                        <xsl:choose>
+                            <xsl:when test="string-length($gndid) lt 1"/>
+                            <xsl:when test="($gnddata/*/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson') or
+                                (name($gnddata/*)='gndo:DifferentiatedPerson')">
+                                <xsl:value-of select="$gnddata/*/(*:preferredNameForThePerson|*:preferredName)"/>
+                            </xsl:when>
+                            <xsl:when test="($gnddata/*/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#CorporateBody') or
+                                (name($gnddata/*)='gndo:CorporateBody')">
+                                <xsl:value-of select="$gnddata/*/(*:preferredNameForTheCorporateBody|*:preferredName)"/>
+                            </xsl:when>
+                            <xsl:when test="($gnddata/*/*:type/@*:resource='https://d-nb.info/standards/elementset/gnd#MusicalCorporateBody') or
+                                (name($gnddata/*)='gndo:MusicalCorporateBody')">
+                                <xsl:value-of select="$gnddata/*/(*:preferredNameForTheCorporateBody|*:preferredName)"/>
+                            </xsl:when>
+                            <xsl:otherwise><xsl:message>Warnung: Unbekannter GND-Typ</xsl:message></xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:variable>
+                    <gndname><xsl:value-of select="$gndname"/></gndname>
+                    <!-- <xsl:variable name="gndvolltext">
+                        <xsl:for-each select="$gnddata//(*:oldAuthorityNumber|*:label|*:variantName)[not(contains(.,'http'))]">
+                            <xsl:sort/>
+                            <xsl:value-of select="normalize-space(.)"/><xsl:text> </xsl:text>
+                        </xsl:for-each>
+                    </xsl:variable> -->
+                    <xsl:if test="($gndname='') and (string-length($gndid) ge 1)"><xsl:message>Daten fehlen: <xsl:value-of select="$gndid"/></xsl:message></xsl:if>
+                    <!-- <xsl:variable name="gndjson">
+                        <xsl:if test="not($gndname='')">
+                            <xsl:text>{&quot;frontendLanguage&quot;:&quot;de&quot;,&quot;_fulltext&quot;:{&quot;text&quot;:&quot;</xsl:text>
+                            <xsl:value-of select="$gndvolltext"/>
+                            <xsl:text>&quot;},</xsl:text>
+                            <xsl:text>&quot;conceptURI&quot;:&quot;http://d-nb.info/gnd/</xsl:text>
+                            <xsl:value-of select="$gndid"/>
+                            <xsl:text>&quot;,&quot;_standard&quot;:{&quot;text&quot;:&quot;</xsl:text>
+                            <xsl:value-of select="$gndname"/>
+                            <xsl:text>&quot;},&quot;conceptName&quot;:&quot;</xsl:text>
+                            <xsl:value-of select="$gndname"/>
+                            <xsl:text>&quot;}</xsl:text>
+                        </xsl:if>
+                    </xsl:variable> -->
+                    <xsl:variable name="rolle">
+                        <xsl:variable name="cbsrolle" select="normalize-space(if (sbf[@id='4']) then (sbf[@id='4'][1]) else (sbf[@id='B'][1]))"/>
+                        <xsl:choose>
+                            <xsl:when test="index-of(('arr','Arr.'),$cbsrolle) gt 0">Arrangement (von)</xsl:when>
+                            <xsl:when test="index-of(('cmp','Komp.'),$cbsrolle) gt 0">Komposition (von)</xsl:when>
+                            <xsl:when test="index-of(('cnd'),$cbsrolle) gt 0">dirigiert (von)</xsl:when>
+                            <xsl:when test="index-of(('com'),$cbsrolle) gt 0">Zusammenstellung (durch)</xsl:when>
+                            <xsl:when test="index-of(('dir','msd'),$cbsrolle) gt 0">Musikalische Leitung (durch)</xsl:when>
+                            <xsl:when test="index-of(('edt','hrsg.','Hrsg.','isb'),$cbsrolle) gt 0">Musikalisches Werk Herausgabe (durch)</xsl:when>
+                            <xsl:when test="index-of(('g'),$cbsrolle) gt 0">Instrumentalmusik (von)</xsl:when>
+                            <xsl:when test="(index-of(('hnr'),$cbsrolle) gt 0) or (@id='028F')">Geehrte Person</xsl:when>
+                            <xsl:when test="(index-of(('itr','prf','sng','voc'),$cbsrolle) gt 0) or (@id='028E') or starts-with(@id,'029E')">Interpretation (durch)</xsl:when>
+                            <xsl:when test="index-of(('lyr'),$cbsrolle) gt 0">Liedtext (von)</xsl:when>
+                            <xsl:when test="index-of(('pro','aup','Prod.'),$cbsrolle) gt 0">Produktion (von)</xsl:when>
+                            <xsl:when test="index-of(('rcd'),$cbsrolle) gt 0">Aufnahme (durch)</xsl:when>
+                            <xsl:when test="index-of(('aut','ctb','wst','wpr','ive','oth',''),$cbsrolle) gt 0">Beteiligte Person/Körperschaft</xsl:when>
+                            <xsl:otherwise><xsl:message>Unbekannte Rolle: <xsl:value-of select="$cbsrolle"/></xsl:message></xsl:otherwise>
+                        </xsl:choose>
+                    </xsl:variable>
+                    <rolle><xsl:value-of select="$rolle"/></rolle>
+                    <xsl:variable name="name" select="concat(if (sbf[@id='a']) then string-join((sbf[@id='c'],string-join((sbf[@id='a'],sbf[@id='d']),', ')),' ') else (sbf[@id='P']),
+                        if (sbf[@id='l']) then concat(' &lt;',sbf[@id='l'],'&gt;') else ())"/>
+                    <name><xsl:value-of select="$name"/></name>
+                    <bemerkung><xsl:value-of select="sbf[@id='L']"/></bemerkung>
+                </row>
+            </xsl:for-each>
             </xsl:variable>
             <!-- <xsl:message><xsl:value-of select="$gndid"/><xsl:text> - </xsl:text><xsl:value-of select="$gndjson"/></xsl:message> -->
-            <xsl:call-template name="feld"> <!-- GND-ID -->
-                <xsl:with-param name="wert" select="concat('http://d-nb.info/gnd/',$gndid)"/>                
+            <xsl:call-template name="feld"> <!-- GND-URL -->
+                <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/gndurl,$sep),'&quot;')"/>                
             </xsl:call-template>
             <xsl:call-template name="feld"> <!-- GND-Name -->
-                <xsl:with-param name="wert" select="$gndname"/>                
+                <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/gndname,$sep),'&quot;')"/>                
             </xsl:call-template>
-            <xsl:call-template name="feld"> <!-- GND-JSON -->
+            <!-- <xsl:call-template name="feld"> 
                 <xsl:with-param name="wert" select="$gndjson"/>                
-            </xsl:call-template>
-            <xsl:variable name="rolle">
-                <xsl:variable name="cbsrolle" select="normalize-space(if (sbf[@id='4']) then (sbf[@id='4'][1]) else (sbf[@id='B'][1]))"/>
-                <xsl:choose>
-                    <xsl:when test="index-of(('arr','Arr.'),$cbsrolle) gt 0">Arrangement (von)</xsl:when>
-                    <xsl:when test="index-of(('cmp','Komp.'),$cbsrolle) gt 0">Komposition (von)</xsl:when>
-                    <xsl:when test="index-of(('cnd'),$cbsrolle) gt 0">dirigiert (von)</xsl:when>
-                    <xsl:when test="index-of(('com'),$cbsrolle) gt 0">Zusammenstellung (durch)</xsl:when>
-                    <xsl:when test="index-of(('dir','msd'),$cbsrolle) gt 0">Musikalische Leitung (durch)</xsl:when>
-                    <xsl:when test="index-of(('edt','hrsg.','Hrsg.','isb'),$cbsrolle) gt 0">Musikalisches Werk Herausgabe (durch)</xsl:when>
-                    <xsl:when test="index-of(('g'),$cbsrolle) gt 0">Instrumentalmusik (von)</xsl:when>
-                    <xsl:when test="(index-of(('hnr'),$cbsrolle) gt 0) or (@id='028F')">Geehrte Person</xsl:when>
-                    <xsl:when test="(index-of(('itr','prf','sng','voc'),$cbsrolle) gt 0) or (@id='028E') or starts-with(@id,'029E')">Interpretation (durch)</xsl:when>
-                    <xsl:when test="index-of(('lyr'),$cbsrolle) gt 0">Liedtext (von)</xsl:when>
-                    <xsl:when test="index-of(('pro','aup','Prod.'),$cbsrolle) gt 0">Produktion (von)</xsl:when>
-                    <xsl:when test="index-of(('rcd'),$cbsrolle) gt 0">Aufnahme (durch)</xsl:when>
-                    <xsl:when test="index-of(('aut','ctb','wst','wpr','ive','oth',''),$cbsrolle) gt 0">Beteiligte Person/Körperschaft</xsl:when>
-                    <xsl:otherwise><xsl:message>Unbekannte Rolle: <xsl:value-of select="$cbsrolle"/></xsl:message></xsl:otherwise>
-                </xsl:choose>
-            </xsl:variable>
-            <xsl:call-template name="feld"> <!-- Rolle -->
-                <xsl:with-param name="wert" select="$rolle"/>                
-            </xsl:call-template>
-<!--            <xsl:call-template name="feld"> - Kategorie -
-                <xsl:with-param name="wert" select="@id"/>                
-            </xsl:call-template>
-            <xsl:call-template name="feld"> - Rolle -
-                <xsl:with-param name="wert" select="if (sbf[@id='4']) then (sbf[@id='4'][1]) else (sbf[@id='B'][1])"/>                
             </xsl:call-template> -->
+            <xsl:call-template name="feld"> <!-- Rolle -->
+                <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/rolle,$sep),'&quot;')"/>                
+            </xsl:call-template>
             <xsl:call-template name="feld"> <!-- Name -->
-                <xsl:with-param name="wert" select="concat(if (sbf[@id='a']) then string-join((sbf[@id='c'],string-join((sbf[@id='a'],sbf[@id='d']),', ')),' ') else (sbf[@id='P']),
-                    if (sbf[@id='l']) then concat(' &lt;',sbf[@id='l'],'&gt;') else ())"/>                
+                <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/name,$sep),'&quot;')"/>                
             </xsl:call-template>
             <xsl:call-template name="feld"> <!-- Bemerkung -->
-                <xsl:with-param name="wert" select="sbf[@id='L']"/>                
+                <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/bemerkung,$sep),'&quot;')"/>                
             </xsl:call-template>           
-        </xsl:for-each>
         <xsl:text>&#13;</xsl:text>
     </xsl:template>
     
@@ -248,7 +252,7 @@
             <xsl:with-param name="wert">Datum</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Ort</xsl:with-param>
+            <xsl:with-param name="wert">&quot;Ort&quot;</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Label</xsl:with-param>
@@ -271,34 +275,26 @@
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Ereignis</xsl:with-param>
         </xsl:call-template>
-        <xsl:for-each select="1 to $persons">
-            <xsl:call-template name="feld"> 
-                <xsl:with-param name="wert" select="concat('GND-ID (',.,'.)')"/>
-            </xsl:call-template>
-            <xsl:call-template name="feld"> 
-                <xsl:with-param name="wert" select="concat('GND-Name (',.,'.)')"/>
-            </xsl:call-template>
-            <xsl:call-template name="feld"> 
-                <xsl:with-param name="wert" select="concat('GND-JSON (',.,'.)')"/>
-            </xsl:call-template>
-            <xsl:call-template name="feld"> 
-                <xsl:with-param name="wert" select="concat('Rolle (',.,'.)')"/>
-            </xsl:call-template> 
-<!--            <xsl:call-template name="feld"> 
-                <xsl:with-param name="wert" select="concat('Kategorie (',.,'.)')"/>
-            </xsl:call-template>
-            <xsl:call-template name="feld"> 
-                <xsl:with-param name="wert" select="concat('Rolle (',.,'.)')"/>
-            </xsl:call-template> -->
-            <xsl:call-template name="feld"> 
-                <xsl:with-param name="wert" select="concat('Name (',.,'.)')"/>
-            </xsl:call-template>
-            <xsl:call-template name="feld"> 
-                <xsl:with-param name="wert" select="concat('Bemerkung (',.,'.)')"/>
-            </xsl:call-template>
-        </xsl:for-each>
-        <xsl:text>&#13;</xsl:text>
-        <xsl:apply-templates/>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">&quot;GND-URL&quot;</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">&quot;GND-Name&quot;</xsl:with-param>
+        </xsl:call-template>
+        <!-- <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert"></xsl:with-param> select="concat('GND-JSON (',.,'.)')"
+        </xsl:call-template> -->
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">&quot;Rolle&quot;</xsl:with-param>
+        </xsl:call-template> 
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">&quot;Name&quot;</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">&quot;Bemerkung&quot;</xsl:with-param>
+        </xsl:call-template>
+    <xsl:text>&#13;</xsl:text>
+    <xsl:apply-templates/>
     </xsl:template>
     
     <xsl:template name="feld">
