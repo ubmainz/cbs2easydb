@@ -30,8 +30,19 @@
         <xsl:call-template name="feld"> <!-- Reihentitel -->
             <xsl:with-param name="wert" select="translate(string-join((tag[starts-with(@id,'036C')]/sbf[@id='a'],tag[starts-with(@id,'036G')]/sbf[@id='a']),'/'),'{@','')"/>
         </xsl:call-template>
+        <xsl:variable name="language" as="xs:string*">
+            <xsl:variable name="ISO" select="('eng','fre','ger','kik','kon','lin','lub','spa','swa')"/>
+            <xsl:variable name="IANA" select="('en','fr','de','ki','kg','ln','lu','es','sw')"/>
+            <xsl:for-each select="tag[@id='010@']/sbf[@id='a']">
+                <xsl:variable name="i" select="index-of($ISO,.)"/>
+                <xsl:choose>
+                    <xsl:when test="$i &gt; 0"><xsl:sequence select="$IANA[$i]"/></xsl:when>
+                    <xsl:otherwise><xsl:sequence select="."/></xsl:otherwise>
+                </xsl:choose>
+            </xsl:for-each>
+        </xsl:variable>
         <xsl:call-template name="feld"> <!-- Sprache -->
-            <xsl:with-param name="wert" select="concat('&quot;',string-join(tag[@id='010@']/sbf[@id='a'],$sep),'&quot;')"/> <!-- CR -->
+            <xsl:with-param name="wert" select="concat('&quot;',string-join($language,$sep),'&quot;')"/> <!-- CR -->
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Objektbeschreibung -->
             <xsl:with-param name="wert">
