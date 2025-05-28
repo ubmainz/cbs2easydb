@@ -6,7 +6,7 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output  method="text" encoding="UTF-8"/>
-    <xsl:param name="sep">&quot;</xsl:param>
+    <xsl:param name="sep" select="'&#13;'"/>
     
     <xsl:variable name="quote" select="'&quot;&quot;'"/>
     <xsl:variable name="apos" select="'&apos;&apos;'"/>
