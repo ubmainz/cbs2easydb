@@ -203,9 +203,6 @@
         <xsl:call-template name="feld"> <!-- Name -->
             <xsl:with-param name="wert" select="concat('&quot;',translate(string-join($gndliste/row/name,$sep),$quote,$apos),'&quot;')"/>                
         </xsl:call-template>
-        <xsl:call-template name="feld"> <!-- Bemerkung -->
-            <xsl:with-param name="wert" select="concat('&quot;',translate(string-join($gndliste/row/bemerkung,$sep),$quote,$apos),'&quot;')"/>                
-        </xsl:call-template>
         <xsl:value-of select="normalize-unicode(concat('&quot;',translate(string-join($gndliste/row/bemerkung,$sep),$quote,$apos),'&quot;'),'NFC')"/>
         <xsl:text>&#13;</xsl:text>
     </xsl:template>
