@@ -6,8 +6,10 @@
     exclude-result-prefixes="xs"
     version="2.0">
     <xsl:output  method="text" encoding="UTF-8"/>
-    <xsl:param name="persons" select="13"/>
-    <xsl:param name="sep">,</xsl:param>
+    <xsl:param name="sep">&quot;</xsl:param>
+    
+    <xsl:variable name="quote" select="'&quot;&quot;'"/>
+    <xsl:variable name="apos" select="'&apos;&apos;'"/>
    
     <xsl:template match="record[../name()='dataExportXML']">
         <xsl:variable name="ppn" select="tag[@id='003@']/sbf[@id='0']"/>
@@ -83,13 +85,13 @@
             <xsl:with-param name="wert" select="tag[@id='011@']/sbf[@id='a']"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Ort --> <!-- CR -->
-            <xsl:with-param name="wert" select="concat('&quot;',translate(string-join(tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))],$sep),'[]{&quot;',''),'&quot;')"/>
+            <xsl:with-param name="wert" select="concat('&quot;',translate(string-join(tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))],$sep),'[]{',''),'&quot;')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Label -->
             <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'][not(contains(.,'(Distr.)'))],', ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Schlagwörter --> <!-- CR -->
-            <xsl:with-param name="wert" select="concat('&quot;',replace(string-join(tag[starts-with(@id,'144Z')]/sbf[@id='a'],$sep),'12.3 ','','s'),'&quot;')"/>
+            <xsl:with-param name="wert" select="concat('&quot;',translate(replace(string-join(tag[starts-with(@id,'144Z')]/sbf[@id='a'],$sep),'12.3 ','','s'),$quote,$apos),'&quot;')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Inventarnummer -->
             <xsl:with-param name="wert" select="tag[starts-with(@id,'209C')]/sbf[@id='a'][1]"/>
@@ -109,7 +111,6 @@
         <xsl:variable name="gndliste">
             <xsl:for-each select="tag[starts-with(@id,'028')]|tag[starts-with(@id,'029')]">
                 <row>
-                    <xsl:if test="position() gt $persons"><xsl:message><xsl:text>Warnung: </xsl:text><xsl:value-of select="position()"/></xsl:message></xsl:if>
                     <xsl:variable name="gndid" select="sbf[@id='0']"/>
                     <xsl:variable name="gndfile" select="concat('gnd/gnd-',$gndid,'.xml')"/>
                     <xsl:variable name="gnddata">
@@ -185,26 +186,27 @@
                     <bemerkung><xsl:value-of select="sbf[@id='L']"/></bemerkung>
                 </row>
             </xsl:for-each>
-            </xsl:variable>
-            <!-- <xsl:message><xsl:value-of select="$gndid"/><xsl:text> - </xsl:text><xsl:value-of select="$gndjson"/></xsl:message> -->
-            <xsl:call-template name="feld"> <!-- GND-URL -->
-                <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/gndurl,$sep),'&quot;')"/>                
-            </xsl:call-template>
-            <xsl:call-template name="feld"> <!-- GND-Name -->
-                <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/gndname,$sep),'&quot;')"/>                
-            </xsl:call-template>
-            <!-- <xsl:call-template name="feld"> 
-                <xsl:with-param name="wert" select="$gndjson"/>                
-            </xsl:call-template> -->
-            <xsl:call-template name="feld"> <!-- Rolle -->
-                <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/rolle,$sep),'&quot;')"/>                
-            </xsl:call-template>
-            <xsl:call-template name="feld"> <!-- Name -->
-                <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/name,$sep),'&quot;')"/>                
-            </xsl:call-template>
-            <xsl:call-template name="feld"> <!-- Bemerkung -->
-                <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/bemerkung,$sep),'&quot;')"/>                
-            </xsl:call-template>           
+        </xsl:variable>
+        <!-- <xsl:message><xsl:value-of select="$gndid"/><xsl:text> - </xsl:text><xsl:value-of select="$gndjson"/></xsl:message> -->
+        <xsl:call-template name="feld"> <!-- GND-URL -->
+            <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/gndurl,$sep),'&quot;')"/>                
+        </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- GND-Name -->
+            <xsl:with-param name="wert" select="concat('&quot;',translate(string-join($gndliste/row/gndname,$sep),$quote,$apos),'&quot;')"/>                
+        </xsl:call-template>
+        <!-- <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert" select="$gndjson"/>                
+        </xsl:call-template> -->
+        <xsl:call-template name="feld"> <!-- Rolle -->
+            <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/rolle,$sep),'&quot;')"/>                
+        </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Name -->
+            <xsl:with-param name="wert" select="concat('&quot;',translate(string-join($gndliste/row/name,$sep),$quote,$apos),'&quot;')"/>                
+        </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Bemerkung -->
+            <xsl:with-param name="wert" select="concat('&quot;',translate(string-join($gndliste/row/bemerkung,$sep),$quote,$apos),'&quot;')"/>                
+        </xsl:call-template>
+        <xsl:value-of select="normalize-unicode(concat('&quot;',translate(string-join($gndliste/row/bemerkung,$sep),$quote,$apos),'&quot;'),'NFC')"/>
         <xsl:text>&#13;</xsl:text>
     </xsl:template>
     
@@ -215,11 +217,6 @@
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Signatur_PPN</xsl:with-param>
         </xsl:call-template>
-        <!--
-        <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">Pk dB Range</xsl:with-param>
-        </xsl:call-template>
-        -->
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Objekttitel</xsl:with-param>
         </xsl:call-template>
@@ -301,9 +298,7 @@
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">&quot;Name&quot;</xsl:with-param>
         </xsl:call-template>
-        <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">&quot;Bemerkung&quot;</xsl:with-param>
-        </xsl:call-template>
+        <xsl:text>&quot;Bemerkung&quot;</xsl:text>
     <xsl:text>&#13;</xsl:text>
     <xsl:apply-templates/>
     </xsl:template>
