@@ -138,7 +138,9 @@
                             <xsl:otherwise><xsl:message>Warnung: Unbekannter GND-Typ</xsl:message></xsl:otherwise>
                         </xsl:choose>
                     </xsl:variable>
-                    <gndname><xsl:value-of select="$gndname"/></gndname>
+                    <xsl:variable name="name" select="translate(concat(if (sbf[@id='a']) then string-join((sbf[@id='c'],string-join((sbf[@id='a'],sbf[@id='d']),', ')),' ') else (sbf[@id='P']),
+                        if (sbf[@id='l']) then concat(' &lt;',sbf[@id='l'],'&gt;') else ()),'@','')"/>
+                    <gndname><xsl:value-of select="if ($gndname!='') then ($gndname) else ($name)"/></gndname>
                     <!-- <xsl:variable name="gndvolltext">
                         <xsl:for-each select="$gnddata//(*:oldAuthorityNumber|*:label|*:variantName)[not(contains(.,'http'))]">
                             <xsl:sort/>
@@ -180,8 +182,6 @@
                         </xsl:choose>
                     </xsl:variable>
                     <rolle><xsl:value-of select="$rolle"/></rolle>
-                    <xsl:variable name="name" select="concat(if (sbf[@id='a']) then string-join((sbf[@id='c'],string-join((sbf[@id='a'],sbf[@id='d']),', ')),' ') else (sbf[@id='P']),
-                        if (sbf[@id='l']) then concat(' &lt;',sbf[@id='l'],'&gt;') else ())"/>
                     <name><xsl:value-of select="$name"/></name>
                     <bemerkung><xsl:value-of select="sbf[@id='L']"/></bemerkung>
                 </row>
@@ -284,7 +284,7 @@
             <xsl:with-param name="wert">&quot;GND-URL&quot;</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">&quot;GND-Name&quot;</xsl:with-param>
+            <xsl:with-param name="wert">&quot;Import-Name&quot;</xsl:with-param>
         </xsl:call-template>
         <!-- <xsl:call-template name="feld"> 
             <xsl:with-param name="wert"></xsl:with-param> select="concat('GND-JSON (',.,'.)')"
