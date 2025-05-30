@@ -180,6 +180,13 @@
                     <bemerkung><xsl:value-of select="sbf[@id='L']"/></bemerkung>
                 </row>
             </xsl:for-each>
+            <xsl:for-each select="tag[@id='033A']/sbf[@id='n'][not(contains(.,'(Distr.)'))]">
+                <row>
+                    <gndname><xsl:value-of select="."/></gndname>
+                    <rolle>Musiklabel</rolle>
+                    <name><xsl:value-of select="."/></name>
+                </row>
+            </xsl:for-each>
         </xsl:variable>
         <!-- <xsl:message><xsl:value-of select="$gndid"/><xsl:text> - </xsl:text><xsl:value-of select="$gndjson"/></xsl:message> -->
         <xsl:call-template name="feld"> <!-- GND-URL -->
