@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/139306730">
     <schema:sameAs>
       <rdf:Description rdf:about="http://viaf.org/viaf/7386168">
@@ -25,6 +25,16 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
+    <gndo:realNameOfThePerson>
+      <gndo:RealNameOfThePerson>
+        <gndo:surname>Arom</gndo:surname>
+        <gndo:forename>Fred</gndo:forename>
+      </gndo:RealNameOfThePerson>
+    </gndo:realNameOfThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Arom</gndo:surname>
+      <gndo:forename>Simkha</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <j.2:page>
       <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Simha_Arom">
         <j.1:isDescribedIn>
@@ -40,15 +50,15 @@
     </j.2:page>
     <gndo:variantName>Arom, Simkha</gndo:variantName>
     <gndo:dateOfBirth>1930-08-16</gndo:dateOfBirth>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Arom</gndo:surname>
-      <gndo:forename>Simha</gndo:forename>
-    </gndo:preferredNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Simche</gndo:surname>
+      <gndo:forename>Fred Arom</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="https://d-nb.info/gnd/139306730/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
-            <rdfs:label>Allgemeines, Interdisziplinäre Allgemeinwörter</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 1</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -66,6 +76,12 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-1">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-1</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-1"/>
       </rdf:Description>
     </schema:sameAs>
     <gndo:professionOrOccupation>
@@ -85,6 +101,10 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Arom</gndo:surname>
+      <gndo:forename>Simha</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
     <gndo:preferredName>Arom, Simha</gndo:preferredName>
     <gndo:gndSubjectCategory>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#14.4p">
@@ -136,17 +156,9 @@
         <rdfs:label>Musikethnologe</rdfs:label>
       </rdf:Description>
     </gndo:professionOrOccupation>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Arom</gndo:surname>
-      <gndo:forename>Simkha</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <wdrs:describedby rdf:resource="https://d-nb.info/gnd/139306730/about"/>
     <gndo:oldAuthorityNumber>(DE-588a)138859698</gndo:oldAuthorityNumber>
     <gndo:variantName>Arom, Fred</gndo:variantName>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Arom</gndo:surname>
-      <gndo:forename>Fred</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <j.1:deprecatedUri>https://d-nb.info/gnd/1089998252</j.1:deprecatedUri>
     <schema:sameAs>
       <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb118891959">
@@ -183,10 +195,6 @@
         <rdfs:label>Düsseldorf</rdfs:label>
       </rdf:Description>
     </gndo:placeOfBirth>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Simche</gndo:surname>
-      <gndo:forename>Fred Arom</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <gndo:oldAuthorityNumber>(DE-588c)7674973-3</gndo:oldAuthorityNumber>
     <schema:sameAs rdf:resource="https://de.wikipedia.org/wiki/Simha_Arom"/>
     <schema:sameAs>
@@ -207,6 +215,10 @@
         <rdfs:label>Männlich</rdfs:label>
       </rdf:Description>
     </gndo:gender>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Arom</gndo:surname>
+      <gndo:forename>Fred</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="https://dbpedia.org/resource/Simha_Arom">
         <j.1:isDescribedIn rdf:resource="https://dbpedia.org"/>

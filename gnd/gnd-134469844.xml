@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/134469844">
     <gndo:gender>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#notKnown">
@@ -9,7 +9,7 @@
       <rdf:Description rdf:about="https://d-nb.info/gnd/134469844/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -26,6 +26,12 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-101">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-101</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-101"/>
       </rdf:Description>
     </wdrs:describedby>
     <gndo:professionOrOccupation>
@@ -38,6 +44,10 @@
         <rdfs:label>Trompete</rdfs:label>
       </rdf:Description>
     </gndo:playedInstrument>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Marcus</gndo:personalName>
+      <gndo:nameAddition>Grand</gndo:nameAddition>
+    </gndo:variantNameEntityForThePerson>
     <gndo:oldAuthorityNumber>(DE-588a)134469844</gndo:oldAuthorityNumber>
     <gndo:professionOrOccupation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4032009-1">
@@ -45,6 +55,10 @@
       </rdf:Description>
     </gndo:professionOrOccupation>
     <schema:sameAs rdf:resource="https://d-nb.info/gnd/134469844/about"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mvouka</gndo:surname>
+      <gndo:forename>Marcus</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
     <gndo:geographicAreaCode>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#ZZ">
@@ -53,10 +67,6 @@
     </gndo:geographicAreaCode>
     <gndo:gndIdentifier>134469844</gndo:gndIdentifier>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Marcus</gndo:personalName>
-      <gndo:nameAddition>Grand</gndo:nameAddition>
-    </gndo:variantNameEntityForThePerson>
     <gndo:preferredName>Mvouka, Marc</gndo:preferredName>
     <schema:sameAs>
       <rdf:Description rdf:about="http://viaf.org/viaf/79635601">
@@ -70,20 +80,16 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Mvouka</gndo:surname>
-      <gndo:forename>Marc</gndo:forename>
-    </gndo:preferredNameEntityForThePerson>
     <gndo:playedInstrument>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4156941-6">
         <rdfs:label>Singstimme</rdfs:label>
       </rdf:Description>
     </gndo:playedInstrument>
     <gndo:variantName>Marcus, Grand</gndo:variantName>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
       <gndo:surname>Mvouka</gndo:surname>
-      <gndo:forename>Marcus</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
+      <gndo:forename>Marc</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
     <gndo:variantName>Mvouka, Marcus</gndo:variantName>
     <gndo:oldAuthorityNumber>(DE-101c)310159849</gndo:oldAuthorityNumber>
   </gndo:AuthorityResource>

@@ -1,34 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/agrelon#" xmlns:j.2="https://d-nb.info/standards/elementset/dnb#" xmlns:j.3="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-  <gndo:Person rdf:about="https://d-nb.info/gnd/1034498649">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/agrelon#" xmlns:j.2="https://d-nb.info/standards/elementset/dnb#" xmlns:j.3="http://xmlns.com/foaf/0.1/" xmlns:j.4="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/1034498649">
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Luambo</gndo:surname>
-      <gndo:forename>Franco</gndo:forename>
+      <gndo:surname>Makiadi</gndo:surname>
+      <gndo:forename>Franco Luambo</gndo:forename>
     </gndo:variantNameEntityForThePerson>
-    <gndo:dateOfBirth>1938-07-06</gndo:dateOfBirth>
-    <gndo:variantName>Grand Maître Franco</gndo:variantName>
-    <j.1:hasSibling>
-      <rdf:Description rdf:about="https://d-nb.info/gnd/1071836579">
-        <rdfs:label>Bavon Marie-Marie</rdfs:label>
-      </rdf:Description>
-    </j.1:hasSibling>
     <gndo:gender>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
         <rdfs:label>Männlich</rdfs:label>
       </rdf:Description>
     </gndo:gender>
-    <gndo:familialRelationship rdf:resource="https://d-nb.info/gnd/1071836579"/>
-    <gndo:variantName>Makiadi, Franco Luambo</gndo:variantName>
-    <gndo:preferredName>Franco, Musiker</gndo:preferredName>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Luambo Makiadi</gndo:surname>
-      <gndo:forename>Franco</gndo:forename>
+      <gndo:personalName>Grand Maître</gndo:personalName>
     </gndo:variantNameEntityForThePerson>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1034498444">
+        <rdfs:label>Sona Bata</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Franco</gndo:personalName>
+      <gndo:nameAddition>Musiker</gndo:nameAddition>
+    </gndo:preferredNameEntityForThePerson>
     <gndo:variantName>Makiadi, François Luambo</gndo:variantName>
     <wdrs:describedby>
       <rdf:Description rdf:about="https://d-nb.info/gnd/1034498649/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.2:isDescribedIn>
@@ -39,18 +37,49 @@
             <j.0:abbreviation>DNB</j.0:abbreviation>
           </rdf:Description>
         </j.2:isDescribedIn>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-12-05T12:18:23.000</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-06-19T15:04:30.000</dcterms:modified>
         <dcterms:license>
           <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.4:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
       </rdf:Description>
     </wdrs:describedby>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Makiadi</gndo:surname>
-      <gndo:forename>Franco Luambo</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Luambo Makiadi, Franco</gndo:variantName>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-ZRCD">
+        <rdfs:label>Kongo (Demokratische Republik)(Zaire)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
+        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4157372-9">
+        <rdfs:label>Gitarrist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:dateOfDeath>1989-10-12</gndo:dateOfDeath>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
+        <rdfs:label>Musiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:variantName>Lokanga La Djo Péné, Franc̜ois Luambo Makiadi</gndo:variantName>
+    <gndo:variantName>Makiadi, Luambo</gndo:variantName>
+    <gndo:realNameOfThePerson>
+      <gndo:RealNameOfThePerson>
+        <gndo:personalName>L'Okanga La Ndju Pene Luambo Makiadi</gndo:personalName>
+      </gndo:RealNameOfThePerson>
+    </gndo:realNameOfThePerson>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:surname>Makiadi</gndo:surname>
       <gndo:forename>Luambo</gndo:forename>
@@ -58,60 +87,7 @@
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:personalName>Grand Maître Franco</gndo:personalName>
     </gndo:variantNameEntityForThePerson>
-    <gndo:variantName>Grand Maître</gndo:variantName>
-    <gndo:variantName>Lokanga La Djo Péné, Franc̜ois Luambo Makiadi</gndo:variantName>
-    <gndo:relatedPlaceOrGeographicName>
-      <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
-        <rdfs:label>Demokratische Republik Kongo</rdfs:label>
-      </rdf:Description>
-    </gndo:relatedPlaceOrGeographicName>
-    <gndo:affiliation>
-      <rdf:Description rdf:about="https://d-nb.info/gnd/3015656-7">
-        <rdfs:label>Tout-Puissant OK Jazz</rdfs:label>
-      </rdf:Description>
-    </gndo:affiliation>
-    <gndo:variantName>Luambo, Franco</gndo:variantName>
-    <gndo:placeOfDeath>
-      <rdf:Description rdf:about="https://d-nb.info/gnd/4008460-7">
-        <rdfs:label>Brüssel</rdfs:label>
-      </rdf:Description>
-    </gndo:placeOfDeath>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Franco</gndo:personalName>
-      <gndo:nameAddition>Musiker</gndo:nameAddition>
-    </gndo:preferredNameEntityForThePerson>
-    <schema:sameAs rdf:resource="https://d-nb.info/gnd/1034498649/about"/>
-    <gndo:dateOfDeath>1989-10-12</gndo:dateOfDeath>
-    <gndo:variantName>Makiadi, Luambo</gndo:variantName>
-    <gndo:geographicAreaCode>
-      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-ZRCD">
-        <rdfs:label>Kongo (Demokratische Republik)(Zaire)</rdfs:label>
-      </rdf:Description>
-    </gndo:geographicAreaCode>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Makiadi</gndo:surname>
-      <gndo:forename>François Luambo</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:gndIdentifier>1034498649</gndo:gndIdentifier>
-    <gndo:geographicAreaCode>
-      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
-        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
-      </rdf:Description>
-    </gndo:geographicAreaCode>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Lokanga La Djo Péné</gndo:surname>
-      <gndo:forename>Franc̜ois Luambo Makiadi</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
-    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
-    <gndo:professionOrOccupation>
-      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
-        <rdfs:label>Musiker</rdfs:label>
-      </rdf:Description>
-    </gndo:professionOrOccupation>
-    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>L'Okanga La Ndju Pene Luambo Makiadi</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Grand Maître Franco</gndo:variantName>
     <schema:sameAs>
       <rdf:Description rdf:about="http://viaf.org/viaf/301886254">
         <j.2:isDescribedIn>
@@ -124,15 +100,66 @@
         </j.2:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
+    <gndo:gndIdentifier>1034498649</gndo:gndIdentifier>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Grand Maître</gndo:personalName>
+      <gndo:personalName>L'Okanga La Ndju Pene Luambo Makiadi</gndo:personalName>
     </gndo:variantNameEntityForThePerson>
-    <gndo:variantName>L'Okanga La Ndju Pene Luambo Makiadi</gndo:variantName>
-    <gndo:placeOfBirth>
-      <rdf:Description rdf:about="https://d-nb.info/gnd/1034498444">
-        <rdfs:label>Sona Bata</rdfs:label>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Lokanga La Djo Péné</gndo:surname>
+      <gndo:forename>Franc̜ois Luambo Makiadi</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Luambo, Franco</gndo:variantName>
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
+        <rdfs:label>Demokratische Republik Kongo</rdfs:label>
       </rdf:Description>
-    </gndo:placeOfBirth>
-    <gndo:variantName>Luambo Makiadi, Franco</gndo:variantName>
-  </gndo:Person>
+    </gndo:relatedPlaceOrGeographicName>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <gndo:variantName>Grand Maître</gndo:variantName>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4124099-6">
+        <rdfs:label>Sänger</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/1034498649/about"/>
+    <gndo:preferredName>Franco, Musiker</gndo:preferredName>
+    <gndo:variantName>L'Okanga La Ndju Pene Luambo Makiadi</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Makiadi</gndo:surname>
+      <gndo:forename>François Luambo</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Luambo Makiadi</gndo:surname>
+      <gndo:forename>Franco</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/7628944-8">
+        <rdfs:label>Bandleader</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:dateOfBirth>1938-07-06</gndo:dateOfBirth>
+    <gndo:familialRelationship>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1071836579">
+        <rdfs:label>Bavon Marie-Marie</rdfs:label>
+      </rdf:Description>
+    </gndo:familialRelationship>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Luambo</gndo:surname>
+      <gndo:forename>Franco</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:affiliation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/3015656-7">
+        <rdfs:label>Tout-Puissant OK Jazz</rdfs:label>
+      </rdf:Description>
+    </gndo:affiliation>
+    <gndo:placeOfDeath>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4008460-7">
+        <rdfs:label>Brüssel</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfDeath>
+    <gndo:variantName>Makiadi, Franco Luambo</gndo:variantName>
+    <j.1:hasSibling rdf:resource="https://d-nb.info/gnd/1071836579"/>
+    <gndo:biographicalOrHistoricalInformation xml:lang="de">Bekannter kongolesischer Musiker und Wegbereiter der modernen Popmusik seines Heimatlandes.</gndo:biographicalOrHistoricalInformation>
+  </gndo:AuthorityResource>
 </rdf:RDF>

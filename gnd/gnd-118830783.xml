@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/agrelon#" xmlns:j.2="https://d-nb.info/standards/elementset/dnb#" xmlns:j.3="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/agrelon#" xmlns:j.2="https://d-nb.info/standards/elementset/dnb#" xmlns:j.3="http://xmlns.com/foaf/0.1/" xmlns:j.4="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:Person rdf:about="https://d-nb.info/gnd/118830783">
     <gndo:professionOrOccupation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4434803-4">
         <rdfs:label>Menschenrechtlerin</rdfs:label>
       </rdf:Description>
     </gndo:professionOrOccupation>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Zenzile Makeba Qgwashu Nguvama Yiketheli Nxgowa Bantana Balomzi Xa Ufun Ubajabulisa Ubaphekeli Mbiza Yotshwala Sithi Xa Saku Qgiba Ukutja Sithathe Izitsha Sizi Khabe Singama Lawu Singama Qgwashu Singama Nqamla Nqgithi</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb12113767r">
         <j.2:isDescribedIn>
@@ -54,10 +57,6 @@
         </j.2:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Makeba</gndo:surname>
-      <gndo:forename>Miriam Z.</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Makeba, Myrian</gndo:variantName>
     <schema:sameAs>
       <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Miriam_Makeba">
@@ -72,9 +71,6 @@
         <rdfs:label>https://de.wikipedia.org/wiki/Miriam_Makeba</rdfs:label>
       </rdf:Description>
     </schema:sameAs>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Mama Africa</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:surname>Makeba</gndo:surname>
       <gndo:forename>M.</gndo:forename>
@@ -103,6 +99,14 @@
       </rdf:Description>
     </gndo:familialRelationship>
     <gndo:oldAuthorityNumber>(DE-588a)134453239</gndo:oldAuthorityNumber>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Makeba</gndo:surname>
+      <gndo:forename>Myriam</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Makeba</gndo:surname>
+      <gndo:forename>Zenzi</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Makeba, Miriam Z.</gndo:variantName>
     <gndo:dateOfBirth>1932-03-04</gndo:dateOfBirth>
     <gndo:variantName>Makeba, M.</gndo:variantName>
@@ -111,18 +115,15 @@
         <rdfs:label>Singstimme</rdfs:label>
       </rdf:Description>
     </gndo:playedInstrument>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Zenzile Makeba Qgwashu Nguvama Yiketheli Nxgowa Bantana Balomzi Xa Ufun Ubajabulisa Ubaphekeli Mbiza Yotshwala Sithi Xa Saku Qgiba Ukutja Sithathe Izitsha Sizi Khabe Singama Lawu Singama Qgwashu Singama Nqamla Nqgithi</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Makeba</gndo:surname>
+      <gndo:forename>Miriam</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
     <gndo:familialRelationship>
       <rdf:Description rdf:about="https://d-nb.info/gnd/135148219">
         <rdfs:label>Makeba, Bongi</rdfs:label>
       </rdf:Description>
     </gndo:familialRelationship>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Makeba</gndo:surname>
-      <gndo:forename>Miriam Zenzi</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <gndo:gender>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#female">
         <rdfs:label>Weiblich</rdfs:label>
@@ -140,11 +141,11 @@
     </gndo:professionOrOccupation>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:surname>Makeba</gndo:surname>
-      <gndo:forename>Myriam</gndo:forename>
+      <gndo:forename>Myrian</gndo:forename>
     </gndo:variantNameEntityForThePerson>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:surname>Makeba</gndo:surname>
-      <gndo:forename>Myrian</gndo:forename>
+      <gndo:forename>Miriam Zenzi</gndo:forename>
     </gndo:variantNameEntityForThePerson>
     <gndo:placeOfDeath>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4629538-0">
@@ -169,9 +170,6 @@
     <j.3:page rdf:resource="https://de.wikipedia.org/wiki/Miriam_Makeba"/>
     <gndo:oldAuthorityNumber>(DE-101c)310143233</gndo:oldAuthorityNumber>
     <j.1:hasChild rdf:resource="https://d-nb.info/gnd/135148219"/>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Mama Afrika</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Makeba, Zenzi</gndo:variantName>
     <gndo:professionOrOccupation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4170818-0">
@@ -179,6 +177,9 @@
       </rdf:Description>
     </gndo:professionOrOccupation>
     <gndo:variantName>Makeba, Myriam</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Mama Afrika</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Makeba, Miriam Zenzi</gndo:variantName>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
@@ -194,10 +195,6 @@
         </j.2:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Makeba</gndo:surname>
-      <gndo:forename>Miriam</gndo:forename>
-    </gndo:preferredNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n87875765">
         <j.2:isDescribedIn>
@@ -227,7 +224,7 @@
     </gndo:gndSubjectCategory>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:surname>Makeba</gndo:surname>
-      <gndo:forename>Zenzi</gndo:forename>
+      <gndo:forename>Zensi Miriam</gndo:forename>
     </gndo:variantNameEntityForThePerson>
     <gndo:homepage>
       <rdf:Description rdf:about="http://www.miriammakeba.co.za">
@@ -238,7 +235,7 @@
       <rdf:Description rdf:about="https://d-nb.info/gnd/118830783/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
-            <rdfs:label>Allgemeines, Interdisziplinäre Allgemeinwörter</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 1</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.2:isDescribedIn>
@@ -249,12 +246,18 @@
             <j.0:abbreviation>DNB</j.0:abbreviation>
           </rdf:Description>
         </j.2:isDescribedIn>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-03-04T12:21:08.000</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-14T21:14:50.000</dcterms:modified>
         <dcterms:license>
           <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-101">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-101</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.4:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-101"/>
       </rdf:Description>
     </wdrs:describedby>
     <gndo:variantName>Zenzile Makeba Qgwashu Nguvama Yiketheli Nxgowa Bantana Balomzi Xa Ufun Ubajabulisa Ubaphekeli Mbiza Yotshwala Sithi Xa Saku Qgiba Ukutja Sithathe Izitsha Sizi Khabe Singama Lawu Singama Qgwashu Singama Nqamla Nqgithi</gndo:variantName>
@@ -263,6 +266,10 @@
         <rdfs:label>USA</rdfs:label>
       </rdf:Description>
     </gndo:geographicAreaCode>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Makeba</gndo:surname>
+      <gndo:forename>Miriam Z.</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Zenzi</gndo:variantName>
     <gndo:dateOfDeath>2008-11-10</gndo:dateOfDeath>
     <gndo:oldAuthorityNumber>(DE-588c)4195619-9</gndo:oldAuthorityNumber>
@@ -273,8 +280,7 @@
     </schema:sameAs>
     <schema:sameAs rdf:resource="https://d-nb.info/gnd/118830783/about"/>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Makeba</gndo:surname>
-      <gndo:forename>Zensi Miriam</gndo:forename>
+      <gndo:personalName>Mama Africa</gndo:personalName>
     </gndo:variantNameEntityForThePerson>
     <j.3:depiction>
       <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Miriam%20Makeba%202011.jpg">

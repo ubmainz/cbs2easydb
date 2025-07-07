@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:Person rdf:about="https://d-nb.info/gnd/1053235844">
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mayoni</gndo:surname>
+      <gndo:forename>Mayaula</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="https://d-nb.info/gnd/1053235844/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -21,8 +25,17 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
       </rdf:Description>
     </schema:sameAs>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Don Padrino</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <gndo:placeOfBirth>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4030682-3">
         <rdfs:label>Kinshasa</rdfs:label>
@@ -30,10 +43,6 @@
     </gndo:placeOfBirth>
     <gndo:variantName>Mayaoula Mayoni</gndo:variantName>
     <gndo:variantName>Mayaula Mayoni D.P.</gndo:variantName>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Mayoni</gndo:surname>
-      <gndo:forename>Mayaula</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <gndo:professionOrOccupation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
         <rdfs:label>Musiker</rdfs:label>
@@ -44,32 +53,29 @@
         <rdfs:label>Brüssel</rdfs:label>
       </rdf:Description>
     </gndo:placeOfDeath>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Mayaula</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
+    <gndo:pseudonymNameOfThePerson>
+      <gndo:PseudonymNameOfThePerson>
+        <gndo:personalName>Don Padrino</gndo:personalName>
+      </gndo:PseudonymNameOfThePerson>
+    </gndo:pseudonymNameOfThePerson>
     <gndo:geographicAreaCode>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
         <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
       </rdf:Description>
     </gndo:geographicAreaCode>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Don Padrino</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
     <gndo:preferredName>Mayaula Mayoni</gndo:preferredName>
     <gndo:gender>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
         <rdfs:label>Männlich</rdfs:label>
       </rdf:Description>
     </gndo:gender>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Mayaula-Mayoni</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
     <gndo:dateOfDeath>2010-05-26</gndo:dateOfDeath>
     <gndo:variantName>Mayaula</gndo:variantName>
     <gndo:variantName>Don Padrino</gndo:variantName>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Mayaula Mayoni D.P.</gndo:personalName>
+      <gndo:surname>Mayaula Mayoni</gndo:surname>
+      <gndo:forename>Freddy</gndo:forename>
     </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Mayoni, Mayaula</gndo:variantName>
     <schema:sameAs>
@@ -84,15 +90,15 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <gndo:gndIdentifier>1053235844</gndo:gndIdentifier>
+    <gndo:dateOfBirth>1946-11-06</gndo:dateOfBirth>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Mayaula-Mayoni</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:personalName>Mayaoula Mayoni</gndo:personalName>
     </gndo:variantNameEntityForThePerson>
-    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Mayaula Mayoni</gndo:personalName>
-    </gndo:preferredNameEntityForThePerson>
-    <gndo:gndIdentifier>1053235844</gndo:gndIdentifier>
-    <gndo:dateOfBirth>1946-11-06</gndo:dateOfBirth>
     <wdrs:describedby rdf:resource="https://d-nb.info/gnd/1053235844/about"/>
     <schema:sameAs>
       <rdf:Description rdf:about="http://www.wikidata.org/entity/Q6796881">
@@ -111,10 +117,9 @@
         <rdfs:label>Demokratische Republik Kongo</rdfs:label>
       </rdf:Description>
     </gndo:relatedPlaceOrGeographicName>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Mayaula Mayoni</gndo:surname>
-      <gndo:forename>Freddy</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Mayaula Mayoni</gndo:personalName>
+    </gndo:preferredNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Mayaula_Mayoni">
         <j.1:isDescribedIn>
@@ -128,6 +133,12 @@
       </rdf:Description>
     </schema:sameAs>
     <gndo:variantName>Mayaula-Mayoni</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Mayaula Mayoni D.P.</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Mayaula Mayoni, Freddy</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Mayaula</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
   </gndo:Person>
 </rdf:RDF>

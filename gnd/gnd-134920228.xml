@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/134920228">
     <gndo:variantName>Mwenda, Jean Bosco</gndo:variantName>
     <gndo:oldAuthorityNumber>(DE-101c)310610222</gndo:oldAuthorityNumber>
@@ -11,6 +11,13 @@
     <gndo:variantName>Bosco</gndo:variantName>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:personalName>Mwenda wa Bayeke</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Bosco</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Bosco</gndo:surname>
+      <gndo:forename>Jean</gndo:forename>
     </gndo:variantNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="http://viaf.org/viaf/79856330">
@@ -28,10 +35,12 @@
       <gndo:surname>Mwenda</gndo:surname>
       <gndo:forename>Jean Bosco</gndo:forename>
     </gndo:variantNameEntityForThePerson>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Bosco</gndo:surname>
-      <gndo:forename>Jean</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
+    <j.2:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Bosco%20Mwenda%20wa%20Bayeke%20au%20Congo%20belge.jpg">
+        <j.2:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Bosco%20Mwenda%20wa%20Bayeke%20au%20Congo%20belge.jpg?width=270</j.2:thumbnail>
+        <j.2:page>https://commons.wikimedia.org/wiki/File:Jean%20Bosco%20Mwenda%20wa%20Bayeke%20au%20Congo%20belge.jpg?uselang=de</j.2:page>
+      </rdf:Description>
+    </j.2:depiction>
     <gndo:playedInstrument>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4124933-1">
         <rdfs:label>Gitarre</rdfs:label>
@@ -41,7 +50,7 @@
       <rdf:Description rdf:about="https://d-nb.info/gnd/134920228/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -52,23 +61,22 @@
             <j.0:abbreviation>DNB</j.0:abbreviation>
           </rdf:Description>
         </j.1:isDescribedIn>
-        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-05-13T11:09:38.000</dcterms:modified>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-07-29T19:26:43.000</dcterms:modified>
         <dcterms:license>
           <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-101">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-101</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-101"/>
       </rdf:Description>
     </schema:sameAs>
     <gndo:oldAuthorityNumber>(DE-588a)134920228</gndo:oldAuthorityNumber>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Mwenda</gndo:surname>
-      <gndo:forename>Jean-Bosco</gndo:forename>
-    </gndo:preferredNameEntityForThePerson>
     <gndo:variantName>Mwenda wa Bayeke</gndo:variantName>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Bosco</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Bosco, Jean</gndo:variantName>
     <gndo:geographicAreaCode>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-BE">
@@ -137,6 +145,15 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mwenda</gndo:surname>
+      <gndo:forename>Jean-Bosco</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:earlierNameOfThePerson>
+      <gndo:EarlierNameOfThePerson>
+        <gndo:personalName>Mwenda wa Bayeke</gndo:personalName>
+      </gndo:EarlierNameOfThePerson>
+    </gndo:earlierNameOfThePerson>
     <gndo:dateOfDeath>1992</gndo:dateOfDeath>
     <gndo:playedInstrument>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4156941-6">

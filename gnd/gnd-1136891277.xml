@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/1136891277">
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>JB Mpiana</gndo:personalName>
+    </gndo:preferredNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3156867">
         <j.1:isDescribedIn>
@@ -38,8 +41,17 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
       </rdf:Description>
     </wdrs:describedby>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>J.B. M'Pyana</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <gndo:relatedPlaceOrGeographicName>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
         <rdfs:label>Demokratische Republik Kongo</rdfs:label>
@@ -56,9 +68,13 @@
     <gndo:variantName>J.B M'Piana Mukulu</gndo:variantName>
     <gndo:variantName>Mpiana, Jean-Bedel</gndo:variantName>
     <gndo:preferredName>JB Mpiana</gndo:preferredName>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>JB Mpiana</gndo:personalName>
-    </gndo:preferredNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>J.B. Mukulu M'Pyana</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mpiana</gndo:surname>
+      <gndo:forename>Jean-Bedel</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>J.B. Mukulu M'Pyana</gndo:variantName>
     <j.2:depiction>
       <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Jb%20mpiana.jpg">
@@ -66,9 +82,6 @@
         <j.2:page>https://commons.wikimedia.org/wiki/File:Jb%20mpiana.jpg?uselang=de</j.2:page>
       </rdf:Description>
     </j.2:depiction>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>J.B. Mukulu M'Pyana</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb165173268">
         <j.1:isDescribedIn>
@@ -93,13 +106,12 @@
     </gndo:professionOrOccupation>
     <gndo:variantName>J.B. M'Pyana</gndo:variantName>
     <gndo:dateOfBirth>1967-06-02</gndo:dateOfBirth>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Mpiana wa Tshituka</gndo:surname>
-      <gndo:forename>Jean-Bedel</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>J.B. M'Pyana</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
+    <gndo:realNameOfThePerson>
+      <gndo:RealNameOfThePerson>
+        <gndo:surname>Mpiana wa Tshituka</gndo:surname>
+        <gndo:forename>Jean-Bedel</gndo:forename>
+      </gndo:RealNameOfThePerson>
+    </gndo:realNameOfThePerson>
     <gndo:geographicAreaCode>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
         <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
@@ -119,12 +131,12 @@
     </schema:sameAs>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Mpiana</gndo:surname>
+      <gndo:personalName>J.B M'Piana Mukulu</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mpiana wa Tshituka</gndo:surname>
       <gndo:forename>Jean-Bedel</gndo:forename>
     </gndo:variantNameEntityForThePerson>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>J.B M'Piana Mukulu</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
   </gndo:AuthorityResource>
 </rdf:RDF>

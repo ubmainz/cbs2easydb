@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:DifferentiatedPerson rdf:about="https://d-nb.info/gnd/1052900852">
     <gndo:gndIdentifier>1052900852</gndo:gndIdentifier>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Sukami</gndo:surname>
-      <gndo:forename>T.</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <gndo:affiliation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/3059219-7">
-        <rdfs:label>Zai͏̈ko Langa Langa (Musikgruppe)</rdfs:label>
+        <rdfs:label>Zaïko Langa Langa (Musikgruppe)</rdfs:label>
       </rdf:Description>
     </gndo:affiliation>
     <gndo:geographicAreaCode>
@@ -15,11 +11,15 @@
         <rdfs:label>Kongo (Republik)</rdfs:label>
       </rdf:Description>
     </gndo:geographicAreaCode>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Sukami</gndo:surname>
+      <gndo:forename>Teddy</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
     <wdrs:describedby>
       <rdf:Description rdf:about="https://d-nb.info/gnd/1052900852/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -36,6 +36,12 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
       </rdf:Description>
     </wdrs:describedby>
     <gndo:preferredName>Sukami, Teddy</gndo:preferredName>
@@ -52,6 +58,10 @@
     </gndo:professionOrOccupation>
     <gndo:dateOfDeath>1986</gndo:dateOfDeath>
     <gndo:variantName>Teddy, Sukami</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Teddy</gndo:surname>
+      <gndo:forename>Sukami</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n2020050350">
         <j.1:isDescribedIn>
@@ -65,10 +75,6 @@
       </rdf:Description>
     </schema:sameAs>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Teddy</gndo:surname>
-      <gndo:forename>Sukami</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <schema:sameAs rdf:resource="https://d-nb.info/gnd/1052900852/about"/>
     <schema:sameAs>
       <rdf:Description rdf:about="http://viaf.org/viaf/309609636">
@@ -83,10 +89,10 @@
       </rdf:Description>
     </schema:sameAs>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:surname>Sukami</gndo:surname>
-      <gndo:forename>Teddy</gndo:forename>
-    </gndo:preferredNameEntityForThePerson>
+      <gndo:forename>T.</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <gndo:gender>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
         <rdfs:label>Männlich</rdfs:label>

@@ -1,23 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:DifferentiatedPerson rdf:about="https://d-nb.info/gnd/103491118X">
     <gndo:dateOfDeath>2008</gndo:dateOfDeath>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Detta</gndo:surname>
-      <gndo:forename>Joly</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <gndo:preferredName>Detta, Jolie</gndo:preferredName>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Kamenga Koyabote</gndo:personalName>
+      <gndo:personalName>Joly.Detta</gndo:personalName>
     </gndo:variantNameEntityForThePerson>
     <gndo:geographicAreaCode>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
         <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
       </rdf:Description>
     </gndo:geographicAreaCode>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Detta</gndo:surname>
-      <gndo:forename>Jolie</gndo:forename>
-    </gndo:preferredNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="http://viaf.org/viaf/300504189">
         <j.1:isDescribedIn>
@@ -30,9 +22,10 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Joly.Detta</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Detta</gndo:surname>
+      <gndo:forename>Jolie</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
     <gndo:gender>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#female">
         <rdfs:label>Weiblich</rdfs:label>
@@ -48,7 +41,7 @@
       <rdf:Description rdf:about="https://d-nb.info/gnd/103491118X/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -65,11 +58,16 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
       </rdf:Description>
     </wdrs:describedby>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Detta</gndo:surname>
-      <gndo:forename>Joliet</gndo:forename>
+      <gndo:personalName>Kamenga Koyabote</gndo:personalName>
     </gndo:variantNameEntityForThePerson>
     <gndo:playedInstrument>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4156941-6">
@@ -81,6 +79,15 @@
     <gndo:variantName>Detta, Joliet</gndo:variantName>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
     <gndo:gndIdentifier>103491118X</gndo:gndIdentifier>
+    <gndo:realNameOfThePerson>
+      <gndo:RealNameOfThePerson>
+        <gndo:personalName>Kamenga Koyabote</gndo:personalName>
+      </gndo:RealNameOfThePerson>
+    </gndo:realNameOfThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Detta</gndo:surname>
+      <gndo:forename>Joly</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <gndo:professionOrOccupation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4170818-0">
         <rdfs:label>Musikerin</rdfs:label>
@@ -93,6 +100,10 @@
     </schema:sameAs>
     <gndo:variantName>Kamenga Koyabote</gndo:variantName>
     <gndo:variantName>Joly.Detta</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Detta</gndo:surname>
+      <gndo:forename>Joliet</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Detta, Joly</gndo:variantName>
   </gndo:DifferentiatedPerson>
 </rdf:RDF>

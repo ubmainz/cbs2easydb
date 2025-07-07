@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/1022218875">
     <gndo:variantName>Bozi-Boziana</gndo:variantName>
     <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
       <gndo:personalName>Bozi Boziana</gndo:personalName>
     </gndo:preferredNameEntityForThePerson>
     <gndo:gndIdentifier>1022218875</gndo:gndIdentifier>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Bozi-Boziana</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
     <gndo:professionOrOccupation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
         <rdfs:label>Musiker</rdfs:label>
@@ -30,7 +27,7 @@
       <rdf:Description rdf:about="https://d-nb.info/gnd/1022218875/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -47,8 +44,17 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
       </rdf:Description>
     </schema:sameAs>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Bozi-Boziana</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <wdrs:describedby rdf:resource="https://d-nb.info/gnd/1022218875/about"/>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
     <gndo:dateOfBirth>1952</gndo:dateOfBirth>
@@ -57,11 +63,21 @@
         <rdfs:label>Demokratische Republik Kongo</rdfs:label>
       </rdf:Description>
     </gndo:relatedPlaceOrGeographicName>
+    <gndo:realNameOfThePerson>
+      <gndo:RealNameOfThePerson>
+        <gndo:surname>Boskill</gndo:surname>
+        <gndo:forename>Mbenzu Ngamboni</gndo:forename>
+      </gndo:RealNameOfThePerson>
+    </gndo:realNameOfThePerson>
     <gndo:geographicAreaCode>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
         <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
       </rdf:Description>
     </gndo:geographicAreaCode>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Boskill</gndo:surname>
+      <gndo:forename>Mbenzu Ngamboni</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <gndo:preferredName>Bozi Boziana</gndo:preferredName>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
     <gndo:professionOrOccupation>
@@ -69,10 +85,6 @@
         <rdfs:label>Songwriter</rdfs:label>
       </rdf:Description>
     </gndo:professionOrOccupation>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Boskill</gndo:surname>
-      <gndo:forename>Mbenzu Ngamboni</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <gndo:gender>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
         <rdfs:label>Männlich</rdfs:label>

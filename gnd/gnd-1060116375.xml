@@ -1,25 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:DifferentiatedPerson rdf:about="https://d-nb.info/gnd/1060116375">
-    <gndo:variantName>Pasco, Blaise</gndo:variantName>
-    <gndo:professionOrOccupation>
-      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
-        <rdfs:label>Musiker</rdfs:label>
-      </rdf:Description>
-    </gndo:professionOrOccupation>
-    <gndo:preferredName>Wuta Mayi</gndo:preferredName>
-    <gndo:variantName>Wuta-May</gndo:variantName>
-    <schema:sameAs>
-      <rdf:Description rdf:about="http://viaf.org/viaf/311574755">
-        <j.1:isDescribedIn>
-          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
-            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
-            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
-            <dc:publisher>OCLC</dc:publisher>
-            <j.0:abbreviation>VIAF</j.0:abbreviation>
-          </rdf:Description>
-        </j.1:isDescribedIn>
-      </rdf:Description>
-    </schema:sameAs>
     <gndo:professionOrOccupation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4124099-6">
         <rdfs:label>Sänger</rdfs:label>
@@ -28,26 +8,25 @@
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:personalName>Mayi Wutatumba</gndo:personalName>
     </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Mayi Wutatumba</gndo:variantName>
+    <gndo:variantName>Wutamayi</gndo:variantName>
+    <gndo:preferredName>Wuta Mayi</gndo:preferredName>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:variantName>May, Wuta</gndo:variantName>
+    <gndo:variantName>Uta-Mayi</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Pasco</gndo:surname>
+      <gndo:forename>Blaise</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:surname>Yundula</gndo:surname>
       <gndo:forename>Wuta Mayandi</gndo:forename>
     </gndo:variantNameEntityForThePerson>
-    <gndo:gndIdentifier>1060116375</gndo:gndIdentifier>
-    <gndo:geographicAreaCode>
-      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
-        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
+    <gndo:affiliation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1078424233">
+        <rdfs:label>Quatres Étoiles - Four Stars (Musikgruppe)</rdfs:label>
       </rdf:Description>
-    </gndo:geographicAreaCode>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>May</gndo:surname>
-      <gndo:forename>Wuta</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:variantName>Uta-Mayi</gndo:variantName>
-    <gndo:dateOfBirth>1949-08-09</gndo:dateOfBirth>
-    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Wuta-May</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
+    </gndo:affiliation>
     <schema:sameAs>
       <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Wuta_Mayi">
         <j.1:isDescribedIn>
@@ -60,46 +39,12 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
-    <gndo:variantName>Wuta Mayandi Yundula</gndo:variantName>
-    <schema:sameAs>
-      <rdf:Description rdf:about="https://isni.org/isni/0000000132921646">
-        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
-      </rdf:Description>
-    </schema:sameAs>
-    <gndo:placeOfBirth>
-      <rdf:Description rdf:about="https://d-nb.info/gnd/1028447-3">
-        <rdfs:label>Léopoldville</rdfs:label>
-      </rdf:Description>
-    </gndo:placeOfBirth>
-    <gndo:variantName>May, Wuta</gndo:variantName>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Wutamayi</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
     <gndo:gender>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#notKnown">
         <rdfs:label>Unbekannt</rdfs:label>
       </rdf:Description>
     </gndo:gender>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Uta-Mayi</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Wuta Mayandi Yundula</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:affiliation>
-      <rdf:Description rdf:about="https://d-nb.info/gnd/1078424233">
-        <rdfs:label>Quatres Étoiles - Four Stars (Musikgruppe)</rdfs:label>
-      </rdf:Description>
-    </gndo:affiliation>
-    <gndo:biographicalOrHistoricalInformation xml:lang="de">Geboren als Gaspard P. Wuta Mayi musste er im Gefolge des "Authenticity Program" (von Präsident Mobutu Sese Seko, Mitte der 1970er Jahre) den Namen Wuta Mayandi Yundula führen</gndo:biographicalOrHistoricalInformation>
-    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Wuta Mayi</gndo:surname>
-      <gndo:forename>Gaspard Pascal</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:variantName>Yundula, Wuta Mayandi</gndo:variantName>
-    <gndo:variantName>Mayi Wutatumba</gndo:variantName>
-    <gndo:variantName>Wutamayi</gndo:variantName>
     <schema:sameAs>
       <rdf:Description rdf:about="http://www.wikidata.org/entity/Q8039364">
         <j.1:isDescribedIn>
@@ -113,23 +58,66 @@
       </rdf:Description>
     </schema:sameAs>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Pasco</gndo:surname>
-      <gndo:forename>Blaise</gndo:forename>
+      <gndo:surname>May</gndo:surname>
+      <gndo:forename>Wuta</gndo:forename>
     </gndo:variantNameEntityForThePerson>
-    <gndo:relatedPlaceOrGeographicName>
-      <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
-        <rdfs:label>Demokratische Republik Kongo</rdfs:label>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Uta-Mayi</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Wuta Mayandi Yundula</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:gndIdentifier>1060116375</gndo:gndIdentifier>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1028447-3">
+        <rdfs:label>Léopoldville</rdfs:label>
       </rdf:Description>
-    </gndo:relatedPlaceOrGeographicName>
+    </gndo:placeOfBirth>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000132921646">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:biographicalOrHistoricalInformation xml:lang="de">Geboren als Gaspard P. Wuta Mayi musste er im Gefolge des "Authenticity Program" (von Präsident Mobutu Sese Seko, Mitte der 1970er Jahre) den Namen Wuta Mayandi Yundula führen</gndo:biographicalOrHistoricalInformation>
+    <gndo:laterNameOfThePerson>
+      <gndo:LaterNameOfThePerson>
+        <gndo:personalName>Wuta Mayandi Yundula</gndo:personalName>
+      </gndo:LaterNameOfThePerson>
+    </gndo:laterNameOfThePerson>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
+        <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
+        <rdfs:label>Musiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
     <gndo:variantName>Wuta Mayi, Gaspard Pascal</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Wuta Mayi</gndo:surname>
+      <gndo:forename>Gaspard Pascal</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Wutamayi</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Wuta-May</gndo:variantName>
+    <gndo:dateOfBirth>1949-08-09</gndo:dateOfBirth>
+    <gndo:realNameOfThePerson>
+      <gndo:RealNameOfThePerson>
+        <gndo:surname>Wuta Mayi</gndo:surname>
+        <gndo:forename>Gaspard Pascal</gndo:forename>
+      </gndo:RealNameOfThePerson>
+    </gndo:realNameOfThePerson>
     <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
       <gndo:personalName>Wuta Mayi</gndo:personalName>
     </gndo:preferredNameEntityForThePerson>
-    <schema:sameAs>
+    <wdrs:describedby>
       <rdf:Description rdf:about="https://d-nb.info/gnd/1060116375/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -146,8 +134,37 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
+      </rdf:Description>
+    </wdrs:describedby>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/1060116375/about"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/311574755">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
-    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/1060116375/about"/>
+    <gndo:variantName>Wuta Mayandi Yundula</gndo:variantName>
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
+        <rdfs:label>Demokratische Republik Kongo</rdfs:label>
+      </rdf:Description>
+    </gndo:relatedPlaceOrGeographicName>
+    <gndo:variantName>Pasco, Blaise</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Wuta-May</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Yundula, Wuta Mayandi</gndo:variantName>
   </gndo:DifferentiatedPerson>
 </rdf:RDF>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/135284961">
     <gndo:playedInstrument>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4156941-6">
@@ -12,6 +12,10 @@
     </gndo:geographicAreaCode>
     <gndo:gndIdentifier>135284961</gndo:gndIdentifier>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Sosseh</gndo:surname>
+      <gndo:forename>Laba Badara</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <gndo:preferredName>Sosseh, Laba</gndo:preferredName>
     <schema:sameAs>
       <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1799363">
@@ -46,7 +50,7 @@
       <rdf:Description rdf:about="https://d-nb.info/gnd/135284961/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -63,13 +67,15 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-101">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-101</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-101"/>
       </rdf:Description>
     </schema:sameAs>
     <gndo:oldAuthorityNumber>(DE-588a)135284961</gndo:oldAuthorityNumber>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Sosseh</gndo:surname>
-      <gndo:forename>Laba</gndo:forename>
-    </gndo:preferredNameEntityForThePerson>
     <gndo:placeOfDeath>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4010921-5">
         <rdfs:label>Dakar</rdfs:label>
@@ -125,10 +131,6 @@
       </rdf:Description>
     </schema:sameAs>
     <gndo:oldAuthorityNumber>(DE-101c)310974968</gndo:oldAuthorityNumber>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Sosseh</gndo:surname>
-      <gndo:forename>Laba Badara</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb14228839n">
         <j.1:isDescribedIn>
@@ -141,6 +143,10 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Sosseh</gndo:surname>
+      <gndo:forename>Laba</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
     <gndo:placeOfBirth>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4086614-2">
         <rdfs:label>Banjul</rdfs:label>

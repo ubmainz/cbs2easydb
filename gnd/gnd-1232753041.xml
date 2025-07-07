@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/1232753041">
     <gndo:gndIdentifier>1232753041</gndo:gndIdentifier>
     <schema:sameAs>
@@ -13,13 +13,16 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
+    <gndo:variantName>Djangi, Jerry</gndo:variantName>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Djangi</gndo:surname>
+      <gndo:surname>Checain</gndo:surname>
       <gndo:forename>Lola</gndo:forename>
     </gndo:variantNameEntityForThePerson>
-    <gndo:variantName>Djangi, Jerry</gndo:variantName>
     <gndo:preferredName>Lola Checain</gndo:preferredName>
     <gndo:dateOfBirth>1942-08-18</gndo:dateOfBirth>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Lola Checain</gndo:personalName>
+    </gndo:preferredNameEntityForThePerson>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:surname>Djangi</gndo:surname>
       <gndo:forename>Camille Lola</gndo:forename>
@@ -28,7 +31,7 @@
       <rdf:Description rdf:about="https://d-nb.info/gnd/1232753041/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -45,6 +48,12 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
       </rdf:Description>
     </wdrs:describedby>
     <gndo:geographicAreaCode>
@@ -52,6 +61,14 @@
         <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
       </rdf:Description>
     </gndo:geographicAreaCode>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Djangi</gndo:surname>
+      <gndo:forename>Jerry</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Djangi</gndo:surname>
+      <gndo:forename>Lola</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Djangi, Camille Lola</gndo:variantName>
     <gndo:variantName>Checain, Lola</gndo:variantName>
     <gndo:professionOrOccupation>
@@ -76,18 +93,20 @@
       </rdf:Description>
     </gndo:professionOrOccupation>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:realNameOfThePerson>
+      <gndo:RealNameOfThePerson>
+        <gndo:surname>Djangi</gndo:surname>
+        <gndo:forename>Camille Lola</gndo:forename>
+      </gndo:RealNameOfThePerson>
+    </gndo:realNameOfThePerson>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Chécain</gndo:surname>
-      <gndo:forename>Lola</gndo:forename>
+      <gndo:personalName>Checain</gndo:personalName>
     </gndo:variantNameEntityForThePerson>
     <gndo:relatedPlaceOrGeographicName>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4067357-1">
         <rdfs:label>Demokratische Republik Kongo</rdfs:label>
       </rdf:Description>
     </gndo:relatedPlaceOrGeographicName>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Lola Checain</gndo:personalName>
-    </gndo:preferredNameEntityForThePerson>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
     <gndo:geographicAreaCode>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-ZRCD">
@@ -95,7 +114,7 @@
       </rdf:Description>
     </gndo:geographicAreaCode>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Checain</gndo:surname>
+      <gndo:surname>Chécain</gndo:surname>
       <gndo:forename>Lola</gndo:forename>
     </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Djangi, Lola</gndo:variantName>
@@ -111,12 +130,5 @@
         <rdfs:label>Orchestre Cobantou (Musikgruppe)</rdfs:label>
       </rdf:Description>
     </gndo:affiliation>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Djangi</gndo:surname>
-      <gndo:forename>Jerry</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Checain</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
   </gndo:AuthorityResource>
 </rdf:RDF>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:DifferentiatedPerson rdf:about="https://d-nb.info/gnd/134783700">
     <gndo:variantName>Kamda Bongo Man</gndo:variantName>
     <gndo:gndIdentifier>134783700</gndo:gndIdentifier>
@@ -54,14 +54,14 @@
       </rdf:Description>
     </schema:sameAs>
     <gndo:preferredName>Kanda Bongo Man</gndo:preferredName>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Kamda Bongo Man</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Kanda Bongo Man</gndo:personalName>
+    </gndo:preferredNameEntityForThePerson>
     <wdrs:describedby>
       <rdf:Description rdf:about="https://d-nb.info/gnd/134783700/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -78,6 +78,12 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-101">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-101</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-101"/>
       </rdf:Description>
     </wdrs:describedby>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
@@ -141,6 +147,9 @@
         <rdfs:label>Männlich</rdfs:label>
       </rdf:Description>
     </gndo:gender>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Kamda Bongo Man</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <gndo:placeOfBirth>
       <rdf:Description rdf:about="https://d-nb.info/gnd/7536960-6">
         <rdfs:label>Inongo</rdfs:label>
@@ -154,8 +163,5 @@
     </gndo:professionOrOccupation>
     <j.2:page rdf:resource="https://de.wikipedia.org/wiki/Kanda_Bongo_Man"/>
     <gndo:variantName>Kanda Bongo</gndo:variantName>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Kanda Bongo Man</gndo:personalName>
-    </gndo:preferredNameEntityForThePerson>
   </gndo:DifferentiatedPerson>
 </rdf:RDF>

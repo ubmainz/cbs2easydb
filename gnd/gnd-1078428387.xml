@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/1078428387">
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Michelino</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
     <gndo:professionOrOccupation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4032009-1">
         <rdfs:label>Komponist</rdfs:label>
@@ -30,15 +27,7 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Michelliono</gndo:surname>
-      <gndo:forename>Michita</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Mavatiku Visi</gndo:surname>
-      <gndo:forename>Michelino</gndo:forename>
-    </gndo:preferredNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="http://www.wikidata.org/entity/Q6836892">
         <j.1:isDescribedIn>
@@ -51,11 +40,15 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Michelliono</gndo:surname>
+      <gndo:forename>Michita</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="https://d-nb.info/gnd/1078428387/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -72,6 +65,12 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
       </rdf:Description>
     </schema:sameAs>
     <schema:sameAs>
@@ -115,10 +114,6 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Mavatiku Visi</gndo:surname>
-      <gndo:forename>Michel</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Michelliono, Michita</gndo:variantName>
     <gndo:gndIdentifier>1078428387</gndo:gndIdentifier>
     <gndo:dateOfBirth>1946-03-15</gndo:dateOfBirth>
@@ -127,8 +122,19 @@
         <j.1:isDescribedIn rdf:resource="https://isni.org"/>
       </rdf:Description>
     </schema:sameAs>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mavatiku Visi</gndo:surname>
+      <gndo:forename>Michel</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Michelino</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
     <gndo:preferredName>Mavatiku Visi, Michelino</gndo:preferredName>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mavatiku Visi</gndo:surname>
+      <gndo:forename>Michelino</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
     <gndo:variantName>Mavatiku Visi, Michel</gndo:variantName>
     <gndo:playedInstrument>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4124933-1">

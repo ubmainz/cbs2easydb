@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:Person rdf:about="https://d-nb.info/gnd/135431611">
     <gndo:professionOrOccupation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
@@ -7,27 +7,24 @@
     </gndo:professionOrOccupation>
     <gndo:dateOfBirth>1930-12-16</gndo:dateOfBirth>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Kalé</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Kabasele</gndo:surname>
+      <gndo:surname>Kabasellé</gndo:surname>
       <gndo:forename>Joseph</gndo:forename>
-    </gndo:preferredNameEntityForThePerson>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Kalle</gndo:personalName>
+      <gndo:personalName>Le Grand Kallé</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Kallé</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Kabaselé</gndo:surname>
+      <gndo:forename>Joseph</gndo:forename>
     </gndo:variantNameEntityForThePerson>
     <gndo:geographicAreaCode>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-FR">
         <rdfs:label>Frankreich</rdfs:label>
       </rdf:Description>
     </gndo:geographicAreaCode>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Kalléjeff</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Kabaselé</gndo:surname>
-      <gndo:forename>Joseph</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Kabasselé, Joseph</gndo:variantName>
     <gndo:dateOfDeath>1983-02-11</gndo:dateOfDeath>
     <schema:sameAs>
@@ -42,14 +39,11 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Kallé</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="https://d-nb.info/gnd/135431611/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
-            <rdfs:label>Allgemeines, Interdisziplinäre Allgemeinwörter</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 1</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -66,10 +60,22 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-101">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-101</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-101"/>
       </rdf:Description>
     </schema:sameAs>
     <gndo:variantName>Kare</gndo:variantName>
     <gndo:variantName>Kalé</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Kalléjeff</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Grand Kallé</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <gndo:oldAuthorityNumber>(DE-588a)135431611</gndo:oldAuthorityNumber>
     <gndo:placeOfBirthAsLiteral>Matadi (DR Kongo/Zaire)</gndo:placeOfBirthAsLiteral>
     <gndo:geographicAreaCode>
@@ -77,6 +83,19 @@
         <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
       </rdf:Description>
     </gndo:geographicAreaCode>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Kabasele</gndo:surname>
+      <gndo:forename>Tshamala Joseph</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:pseudonymNameOfThePerson>
+      <gndo:PseudonymNameOfThePerson>
+        <gndo:personalName>Le Grand Kallé</gndo:personalName>
+      </gndo:PseudonymNameOfThePerson>
+    </gndo:pseudonymNameOfThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Kabasselé</gndo:surname>
+      <gndo:forename>Joseph</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Kabasellé, Joseph</gndo:variantName>
     <gndo:variantName>Kallé</gndo:variantName>
     <wdrs:describedby rdf:resource="https://d-nb.info/gnd/135431611/about"/>
@@ -99,9 +118,13 @@
       </rdf:Description>
     </schema:sameAs>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Grand Kallé</gndo:personalName>
+      <gndo:surname>Kallé</gndo:surname>
+      <gndo:forename>Jeff</gndo:forename>
     </gndo:variantNameEntityForThePerson>
     <gndo:oldAuthorityNumber>(DE-101c)311121616</gndo:oldAuthorityNumber>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Kalle</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <gndo:variantName>Kabaselé, Joseph</gndo:variantName>
     <gndo:variantName>Kalléjeff</gndo:variantName>
     <schema:sameAs>
@@ -121,14 +144,12 @@
         <rdfs:label>Männlich</rdfs:label>
       </rdf:Description>
     </gndo:gender>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Kabasellé</gndo:surname>
-      <gndo:forename>Joseph</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Kabasselé</gndo:surname>
-      <gndo:forename>Joseph</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
+    <gndo:pseudonymNameOfThePerson>
+      <gndo:PseudonymNameOfThePerson>
+        <gndo:surname>Kallé</gndo:surname>
+        <gndo:forename>Jeff</gndo:forename>
+      </gndo:PseudonymNameOfThePerson>
+    </gndo:pseudonymNameOfThePerson>
     <gndo:variantName>Kabasele, Tshamala Joseph</gndo:variantName>
     <gndo:variantName>Kallé, Jeff</gndo:variantName>
     <gndo:variantName>Le Grand Kallé</gndo:variantName>
@@ -144,10 +165,6 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Tshamala</gndo:surname>
-      <gndo:forename>Kabasele</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <gndo:affiliation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/3020346-6">
         <rdfs:label>African Jazz</rdfs:label>
@@ -160,7 +177,21 @@
       </rdf:Description>
     </gndo:playedInstrument>
     <gndo:variantName>Kalle</gndo:variantName>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Kabasele</gndo:surname>
+      <gndo:forename>Joseph</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Kalé</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Tshamala</gndo:surname>
+      <gndo:forename>Kabasele</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Kare</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3113632">
         <j.1:isDescribedIn>
@@ -180,13 +211,6 @@
     </gndo:placeOfDeath>
     <gndo:variantName>Tshamala, Kabasele</gndo:variantName>
     <gndo:gndIdentifier>135431611</gndo:gndIdentifier>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Le Grand Kallé</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Kabasele</gndo:surname>
-      <gndo:forename>Tshamala Joseph</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <j.2:depiction>
       <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Kabasele%20promotional%20photo.jpg">
         <j.2:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Kabasele%20promotional%20photo.jpg?width=270</j.2:thumbnail>
@@ -194,12 +218,5 @@
       </rdf:Description>
     </j.2:depiction>
     <gndo:preferredName>Kabasele, Joseph</gndo:preferredName>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Kallé</gndo:surname>
-      <gndo:forename>Jeff</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Kare</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
   </gndo:Person>
 </rdf:RDF>

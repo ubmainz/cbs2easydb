@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/agrelon#" xmlns:j.2="https://d-nb.info/standards/elementset/dnb#" xmlns:j.3="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/agrelon#" xmlns:j.2="https://d-nb.info/standards/elementset/dnb#" xmlns:j.3="http://xmlns.com/foaf/0.1/" xmlns:j.4="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/1071836579">
     <gndo:professionOrOccupation>
       <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
@@ -9,7 +9,7 @@
       <rdf:Description rdf:about="https://d-nb.info/gnd/1071836579/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.2:isDescribedIn>
@@ -26,6 +26,12 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.4:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
       </rdf:Description>
     </schema:sameAs>
     <gndo:geographicAreaCode>
@@ -60,18 +66,12 @@
         </j.2:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Siongo Bavon Luambo</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
     <gndo:preferredName>Bavon Marie-Marie</gndo:preferredName>
     <j.1:hasSibling>
       <rdf:Description rdf:about="https://d-nb.info/gnd/1034498649">
         <rdfs:label>Franco, Musiker</rdfs:label>
       </rdf:Description>
     </j.1:hasSibling>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Bavon Marie-Marie</gndo:personalName>
-    </gndo:preferredNameEntityForThePerson>
     <gndo:dateOfDeath>1970-08-05</gndo:dateOfDeath>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
     <gndo:relatedPlaceOrGeographicName>
@@ -79,11 +79,17 @@
         <rdfs:label>Demokratische Republik Kongo</rdfs:label>
       </rdf:Description>
     </gndo:relatedPlaceOrGeographicName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Siongo Bavon Luambo</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <gndo:gender>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
         <rdfs:label>Männlich</rdfs:label>
       </rdf:Description>
     </gndo:gender>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Bavon Marie-Marie</gndo:personalName>
+    </gndo:preferredNameEntityForThePerson>
     <gndo:gndIdentifier>1071836579</gndo:gndIdentifier>
     <schema:sameAs>
       <rdf:Description rdf:about="http://www.wikidata.org/entity/Q55683358">
@@ -117,6 +123,11 @@
       </rdf:Description>
     </schema:sameAs>
     <wdrs:describedby rdf:resource="https://d-nb.info/gnd/1071836579/about"/>
+    <gndo:realNameOfThePerson>
+      <gndo:RealNameOfThePerson>
+        <gndo:personalName>Siongo Bavon Luambo</gndo:personalName>
+      </gndo:RealNameOfThePerson>
+    </gndo:realNameOfThePerson>
     <gndo:placeOfBirth rdf:resource="https://d-nb.info/gnd/4030682-3"/>
     <gndo:familialRelationship rdf:resource="https://d-nb.info/gnd/1034498649"/>
   </gndo:AuthorityResource>

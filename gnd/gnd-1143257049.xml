@@ -1,17 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
   <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/1143257049">
     <gndo:geographicAreaCode>
       <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-CD">
         <rdfs:label>Kongo (Demokratische Republik)</rdfs:label>
       </rdf:Description>
     </gndo:geographicAreaCode>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Victor</gndo:personalName>
-    </gndo:variantNameEntityForThePerson>
-    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Longomba</gndo:surname>
-      <gndo:forename>Besange Lokuli Victor</gndo:forename>
-    </gndo:variantNameEntityForThePerson>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
       <gndo:personalName>Vicky</gndo:personalName>
     </gndo:variantNameEntityForThePerson>
@@ -31,7 +24,7 @@
       <rdf:Description rdf:about="https://d-nb.info/gnd/1143257049/about">
         <gndo:descriptionLevel>
           <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
-            <rdfs:label>Religion</rdfs:label>
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
           </rdf:Description>
         </gndo:descriptionLevel>
         <j.1:isDescribedIn>
@@ -48,6 +41,12 @@
             <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
           </rdf:Description>
         </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
       </rdf:Description>
     </schema:sameAs>
     <gndo:relatedPlaceOrGeographicName>
@@ -78,13 +77,10 @@
       </rdf:Description>
     </schema:sameAs>
     <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:personalName>Lovy</gndo:personalName>
+      <gndo:surname>Longomba</gndo:surname>
+      <gndo:forename>Besange Lokuli Victor</gndo:forename>
     </gndo:variantNameEntityForThePerson>
     <gndo:preferredName>Longomba, Victor</gndo:preferredName>
-    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
-      <gndo:surname>Longomba</gndo:surname>
-      <gndo:forename>Victor</gndo:forename>
-    </gndo:preferredNameEntityForThePerson>
     <j.2:depiction>
       <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Vicky%20Longomba.jpg">
         <j.2:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Vicky%20Longomba.jpg?width=270</j.2:thumbnail>
@@ -100,6 +96,9 @@
     </gndo:gender>
     <gndo:variantName>Victor</gndo:variantName>
     <gndo:dateOfBirth>1932-12-13</gndo:dateOfBirth>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Lovy</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
     <schema:sameAs>
       <rdf:Description rdf:about="http://viaf.org/viaf/194781851">
@@ -125,8 +124,21 @@
       </rdf:Description>
     </gndo:geographicAreaCode>
     <gndo:variantName>Longomba, Besange Lokuli Victor</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Victor</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
     <gndo:gndIdentifier>1143257049</gndo:gndIdentifier>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Longomba</gndo:surname>
+      <gndo:forename>Victor</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
     <gndo:variantName>Lovy</gndo:variantName>
+    <gndo:realNameOfThePerson>
+      <gndo:RealNameOfThePerson>
+        <gndo:surname>Longomba</gndo:surname>
+        <gndo:forename>Besange Lokuli Victor</gndo:forename>
+      </gndo:RealNameOfThePerson>
+    </gndo:realNameOfThePerson>
     <schema:sameAs>
       <rdf:Description rdf:about="http://www.wikidata.org/entity/Q7925531">
         <j.1:isDescribedIn>
@@ -139,5 +151,10 @@
         </j.1:isDescribedIn>
       </rdf:Description>
     </schema:sameAs>
+    <gndo:pseudonymNameOfThePerson>
+      <gndo:PseudonymNameOfThePerson>
+        <gndo:personalName>Lovy</gndo:personalName>
+      </gndo:PseudonymNameOfThePerson>
+    </gndo:pseudonymNameOfThePerson>
   </gndo:AuthorityResource>
 </rdf:RDF>
