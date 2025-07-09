@@ -65,7 +65,7 @@
             <xsl:for-each select="$signatur"><xsl:sequence>Signatur</xsl:sequence></xsl:for-each>
             <xsl:for-each select="tag[@id='004E/01']/sbf[@id='0']"><xsl:sequence>Verlags-Bestellnummer</xsl:sequence></xsl:for-each>
             <xsl:for-each select="tag[@id='004C']/sbf[@id='0']"><xsl:sequence>Produkt-Nummer</xsl:sequence></xsl:for-each> <!-- UPC -->
-            <xsl:for-each select="tag[@id='037A']/sbf[@id='a'][contains(.,'Matrix')]"><xsl:sequence>Matrix-Nummer</xsl:sequence></xsl:for-each>    
+            <xsl:for-each select="tag[@id='037A']/sbf[@id='a'][starts-with(.,'Matrix-Nr.:')]"><xsl:sequence>Matrix-Nummer</xsl:sequence></xsl:for-each>    
         </xsl:variable>
         <xsl:call-template name="feld">
             <xsl:with-param name="wert" select="concat('&quot;',string-join($weiterenummertyp,$sep),'&quot;')"></xsl:with-param>
@@ -74,7 +74,7 @@
             <xsl:sequence select="$signatur"/>
             <xsl:sequence select="tag[@id='004E/01']/sbf[@id='0']"/> <!-- Verlags-Bestellnummer -->
             <xsl:sequence select="tag[@id='004C']/sbf[@id='0']"/> <!-- UPC -->
-            <xsl:sequence select="tag[@id='037A']/sbf[@id='a'][contains(.,'Matrix')]"/> <!-- Matrixnr. -->
+            <xsl:for-each select="tag[@id='037A']/sbf[@id='a'][starts-with(.,'Matrix-Nr.:')]"><xsl:sequence select="normalize-space(substring-after(.,'Matrix-Nr.:'))"/></xsl:for-each> <!-- Matrixnr. -->
         </xsl:variable>
         <xsl:call-template name="feld">
             <xsl:with-param name="wert" select="concat('&quot;',translate(string-join($weiterenummerwert,$sep),$quote,$apos),'&quot;')"></xsl:with-param>
@@ -105,7 +105,7 @@
             <xsl:with-param name="wert" select="tag[starts-with(@id,'209C')]/sbf[@id='a'][1]"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Weitere Informationen -->
-            <xsl:with-param name="wert" select="string-join(tag[@id='037A']/sbf[@id='a'],' - ')"/>
+            <xsl:with-param name="wert" select="string-join(tag[@id='037A']/sbf[@id='a'][not(starts-with(.,'Matrix-Nr.:'))],' - ')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Merkmale -->
             <xsl:with-param name="wert" select="string-join(tag[starts-with(@id,'237A')]/sbf[@id='a'],', ')"/>
