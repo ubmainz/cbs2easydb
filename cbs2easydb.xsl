@@ -10,6 +10,10 @@
     
     <xsl:variable name="quote" select="'&quot;&quot;'"/>
     <xsl:variable name="apos" select="'&apos;&apos;'"/>
+    
+    <xsl:variable name="OrtsIDs">
+        <xsl:copy-of select="doc('AMARecordsOrte_20250708.xml')"/>
+    </xsl:variable>
    
     <xsl:template match="record[../name()='dataExportXML']">
         <xsl:variable name="ppn" select="tag[@id='003@']/sbf[@id='0']"/>
@@ -73,13 +77,23 @@
             <xsl:sequence select="tag[@id='037A']/sbf[@id='a'][contains(.,'Matrix')]"/> <!-- Matrixnr. -->
         </xsl:variable>
         <xsl:call-template name="feld">
-            <xsl:with-param name="wert" select="concat('&quot;',string-join($weiterenummerwert,$sep),'&quot;')"></xsl:with-param>
+            <xsl:with-param name="wert" select="concat('&quot;',translate(string-join($weiterenummerwert,$sep),$quote,$apos),'&quot;')"></xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Jahr -->
             <xsl:with-param name="wert" select="tag[@id='011@']/sbf[@id='a']"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Ort --> <!-- CR -->
             <xsl:with-param name="wert" select="concat('&quot;',translate(string-join(tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))],$sep),'[]{',''),'&quot;')"/>
+        </xsl:call-template>
+        <xsl:variable name="Orts-ID-Liste" as="xs:string*">
+            <xsl:for-each select="tag[@id='033A']/sbf[@id='p'][../sbf[@id='n']/not(contains(.,'(Distr.)'))]">
+                <xsl:variable name="CBSOrt" select="normalize-unicode(translate(.,'[]{?',''),'NFC')"/>
+                <xsl:sequence select="$OrtsIDs/root/row[CBS=$CBSOrt]/System-ID"/>
+            </xsl:for-each>
+        </xsl:variable>
+        <xsl:message>System-ID <xsl:value-of select="string-join($Orts-ID-Liste,',')"/></xsl:message>
+        <xsl:call-template name="feld"> <!-- Ort-System-ID --> <!-- CR -->
+            <xsl:with-param name="wert" select="concat('&quot;',string-join($Orts-ID-Liste,$sep),'&quot;')"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Label -->
             <xsl:with-param name="wert" select="string-join(tag[@id='033A']/sbf[@id='n'][not(contains(.,'(Distr.)'))],', ')"/>
@@ -241,6 +255,9 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">&quot;Ort&quot;</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">&quot;Ort-System-ID&quot;</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Label</xsl:with-param>
