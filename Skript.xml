@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2025-07-16T11:50:26">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2025-07-16T16:34:45">
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1989&quot; --str-artist &quot;Ley, Tabu / Afrisa International Orchestra&quot; --str-album &quot;Soum-Djoum / Seigneur Tabu Ley Rochereau et Afrisa de l&apos;an 2000 [Orch. Afrisa International] - Genidia (Sonodisc)&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 444 122985192 Various Artists - Soum-Djoum/R 444 122985192 A Various Artists - Soum-Djoum.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1980&quot; --str-artist &quot;Ley, Tabu / Franco &lt;Musiker&gt;&quot; --str-album &quot;Rochereau et Franco à Paris / Tabu Ley ; Luambo-Makiadi - Sonodisc&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 2/R 345 287526224 Tabu Ley, Luambo-Makiadi - Rochereau et Franco à Paris/R 345 287526224 A1 Tabu Ley, Luambo-Makiadi - Ngungi.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1989&quot; --str-artist &quot;Ley, Tabu / Afrisa International Orchestra&quot; --str-album &quot;Soum-Djoum / Seigneur Tabu Ley Rochereau et Afrisa de l&apos;an 2000 [Orch. Afrisa International] - Genidia (Sonodisc)&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 444 122985192 Various Artists - Soum-Djoum/R 444 122985192 B Various Artists - Soum-Djoum.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1980&quot; --str-artist &quot;Ley, Tabu / Franco &lt;Musiker&gt;&quot; --str-album &quot;Rochereau et Franco à Paris / Tabu Ley ; Luambo-Makiadi - Sonodisc&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 2/R 345 287526224 Tabu Ley, Luambo-Makiadi - Rochereau et Franco à Paris/R 345 287526224 A2 Tabu Ley, Luambo-Makiadi - Omona wapi.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1980&quot; --str-artist &quot;Ley, Tabu / Franco &lt;Musiker&gt;&quot; --str-album &quot;Rochereau et Franco à Paris / Tabu Ley ; Luambo-Makiadi - Sonodisc&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 2/R 345 287526224 Tabu Ley, Luambo-Makiadi - Rochereau et Franco à Paris/R 345 287526224 B1 Tabu Ley, Luambo-Makiadi - Lisanga ya ba nganga.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1980&quot; --str-artist &quot;Ley, Tabu / Franco &lt;Musiker&gt;&quot; --str-album &quot;Rochereau et Franco à Paris / Tabu Ley ; Luambo-Makiadi - Sonodisc&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 2/R 345 287526224 Tabu Ley, Luambo-Makiadi - Rochereau et Franco à Paris/R 345 287526224 B2 Tabu Ley, Luambo-Makiadi - Kabassele in memoriam.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1982&quot; --str-artist &quot;Mayaula Mayoni&quot; --str-album &quot;Bon anniversaire / Mayaoula Mayoni - Disc-Orient&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 2/R 4471 480459258 Mayaoula Mayoni - Bon anniversaire/R 4471 480459258 A Mayaoula Mayoni - Bon anniversaire.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1982&quot; --str-artist &quot;Mayaula Mayoni&quot; --str-album &quot;Bon anniversaire / Mayaoula Mayoni - Disc-Orient&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 2/R 4471 480459258 Mayaoula Mayoni - Bon anniversaire/R 4471 480459258 B Mayaoula Mayoni - Tonton Akué.wav&quot;</Command>
 </Skript>
 <Skript>
 <Command>sndfile-metadata-set --str-date &quot;1989&quot; --str-artist &quot;Ombale, Bimi&quot; --str-album &quot;Mbelengo Zouk &amp; Inongo / Bimi-Ombale - Bono Music, Sonodisc (Distr.)&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 482 303192178 Bimi-Ombale - Mbelengo Zouk &amp; Inongo/R 482 303192178 A1 Bimi-Ombale - Ingongo.wav&quot;</Command>
@@ -214,12 +226,6 @@
 <Command>sndfile-metadata-set --str-date &quot;1989&quot; --str-artist &quot;Ferré, Modogo Gianfranco / Papa Wemba / Viva la Musica&quot; --str-album &quot;Place Vendome / Modogo Gian Franco Ferré et Papa Wemba avec L&apos;Orchestre Viva La Musica - Disques Espérance&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 4984 491154755 Various Artists - Place Vendome/R 4984 491154755 B3 Various Artists - Jeune homme ya Paris.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1987&quot; --str-artist &quot;Franco &lt;Musiker&gt; / Tout-Puissant OK Jazz&quot; --str-album &quot;Live en Hollande / Franco et le T.P.O.K. Jazz - Africa Mama Sango Records&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 5236 498014061 Franco et le T.P.O.K Jazz - Live en Hollande/R 5236 498014061 A Franco et le T.P.O.K Jazz - Live en Hollande.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1987&quot; --str-artist &quot;Franco &lt;Musiker&gt; / Tout-Puissant OK Jazz&quot; --str-album &quot;Live en Hollande / Franco et le T.P.O.K. Jazz - Africa Mama Sango Records&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 5236 498014061 Franco et le T.P.O.K Jazz - Live en Hollande/R 5236 498014061 B Franco et le T.P.O.K Jazz - Live en Hollande.wav&quot;</Command>
-</Skript>
-<Skript>
 <Command>sndfile-metadata-set --str-date &quot;1987&quot; --str-artist &quot;Dalienst, Ntesa / Tout-Puissant OK Jazz&quot; --str-album &quot;Mamie Zou / Ntesa Dalienst et le T.P.O.K. Jazz - A.S.M. Production&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 5238 498017893 Ntesa Dalienst et le T.P.O.K Jazz - Mamie Zou/R 5238 498017893 A1 Ntesa Dalienst et le T.P.O.K Jazz - Mamie Zou.wav&quot;</Command>
 </Skript>
 <Skript>
@@ -313,16 +319,16 @@
 <Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Grand Zaiko Wawa&quot; --str-album &quot;Expérience 9 / Grand Zaïko - Syllart Records&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 691 321115899 Grand Zaiko - Expérience 9/R 691 321115899 B Grand Zaiko - Expérience 9.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Boziana, Bozi / Anti Choc&quot; --str-album &quot;Sans frontières / Bozi Boziana et L&apos;Anti Choc - Eds. Veve Internat. ; Paris : Mayala&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 694 321180976 Bozi Boziana et L&apos;Anti Choc - Sans frontières/R 694 321180976 A2 Bozi Boziana et L&apos;Anti Choc - Omibongisa.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Boziana, Bozi / Anti Choc&quot; --str-album &quot;Sans frontières / Bozi Boziana et L&apos;Anti Choc - Eds. Veve Internat.&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 694 321180976 Bozi Boziana et L&apos;Anti Choc - Sans frontières/R 694 321180976 A2 Bozi Boziana et L&apos;Anti Choc - Omibongisa.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Boziana, Bozi / Anti Choc&quot; --str-album &quot;Sans frontières / Bozi Boziana et L&apos;Anti Choc - Eds. Veve Internat. ; Paris : Mayala&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 694 321180976 Bozi Boziana et L&apos;Anti Choc - Sans frontières/R 694 321180976 A1 Bozi Boziana et L&apos;Anti Choc - Sans Frontiérs.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Boziana, Bozi / Anti Choc&quot; --str-album &quot;Sans frontières / Bozi Boziana et L&apos;Anti Choc - Eds. Veve Internat.&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 694 321180976 Bozi Boziana et L&apos;Anti Choc - Sans frontières/R 694 321180976 A1 Bozi Boziana et L&apos;Anti Choc - Sans Frontiérs.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Boziana, Bozi / Anti Choc&quot; --str-album &quot;Sans frontières / Bozi Boziana et L&apos;Anti Choc - Eds. Veve Internat. ; Paris : Mayala&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 694 321180976 Bozi Boziana et L&apos;Anti Choc - Sans frontières/R 694 321180976 B1 Bozi Boziana et L&apos;Anti Choc - Na Yoki.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Boziana, Bozi / Anti Choc&quot; --str-album &quot;Sans frontières / Bozi Boziana et L&apos;Anti Choc - Eds. Veve Internat.&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 694 321180976 Bozi Boziana et L&apos;Anti Choc - Sans frontières/R 694 321180976 B1 Bozi Boziana et L&apos;Anti Choc - Na Yoki.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Boziana, Bozi / Anti Choc&quot; --str-album &quot;Sans frontières / Bozi Boziana et L&apos;Anti Choc - Eds. Veve Internat. ; Paris : Mayala&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 694 321180976 Bozi Boziana et L&apos;Anti Choc - Sans frontières/R 694 321180976 B2 Bozi Boziana et L&apos;Anti Choc - Na Mituni.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Boziana, Bozi / Anti Choc&quot; --str-album &quot;Sans frontières / Bozi Boziana et L&apos;Anti Choc - Eds. Veve Internat.&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 694 321180976 Bozi Boziana et L&apos;Anti Choc - Sans frontières/R 694 321180976 B2 Bozi Boziana et L&apos;Anti Choc - Na Mituni.wav&quot;</Command>
 </Skript>
 <Skript>
 <Command>sndfile-metadata-set --str-date &quot;1988&quot; --str-artist &quot;Abeti&quot; --str-album &quot;Mokomboso / Abeti Masikini - Ed. Eddy&apos;son&quot; &quot;/mnt/KOSTIMA/LP/LP Liste 1/R 695 321181921 Abeti Masikini - Mokomboso/R 695 321181921 A1 Abeti Masikini - Mokom Boso.wav&quot;</Command>
@@ -406,7 +412,7 @@
 <Command>sndfile-metadata-set --str-date &quot;1967&quot; --str-artist &quot;Bavon Marie-Marie / Orchestre Negro Succes&quot; --str-album &quot;Mokolo se mokolo / Orchestre Negro Succès - African&quot; &quot;/mnt/KOSTIMA/RS/Single-Liste 4 Lea/RS 2480 513765735 Orchestre Negro Succes - Mokolo se mokolo/RS 2480 513765735 B1 Orchestre Negro Succes - Palado-palado.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1960&quot; --str-artist &quot;Becaud, Justin / Nkounkou, Freddy / M&apos;bilia, Casimir / Ry-Co Jazz&quot; --str-album &quot;Dansons le cha cha cha avec ... / Ry-Co Jazz. J. Becaud ; Freddy ; Casino - Vogue&quot; &quot;/mnt/KOSTIMA/RS/Single-Liste 3 Lea/RS 573 213656043 Ry-Co Jazz, J Becaud, Freddy, Casino - Dansons le cha cha cha avec/RS 573 213656043 A Ry-Co Jazz, J Becaud, Freddy, Casino - Dansons le cha cha cha avec/RS 573 213656043 A2 Ry-Co Jazz, J Becaud, Freddy, &quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1960&quot; --str-artist &quot;Becaud, Justin / Nkounkou, Freddy / M&apos;bilia, Casimir / Ry-Co Jazz&quot; --str-album &quot;Dansons le cha cha cha avec ... / Ry-Co Jazz. J. Becaud ; Freddy ; Casino - Vogue&quot; &quot;/mnt/KOSTIMA/RS/Single-Liste 3 Lea/RS 573 213656043 Ry-Co Jazz, J Becaud, Freddy, Casino - Dansons le cha cha cha avec/RS 573 213656043 A2 Ry-Co Jazz, J Becaud, Freddy, Casino - Caramba da ma vida.wav&quot;</Command>
 </Skript>
 <Skript>
 <Command>sndfile-metadata-set --str-date &quot;1975&quot; --str-artist &quot;Orchestra Tchondo Nationale&quot; --str-album &quot;Mwambusa / L&apos;Orchestra Tchondo Nationale - Yahoos Records&quot; &quot;/mnt/KOSTIMA/RS/Single-Liste 2 Merle/RS 2154 448270196 L&apos;Orchestra Tchondo Nationale - Mwambusa/RS 2154 448270196 A1 L&apos;Orchestra Tchondo Nationale - Mwambusa Part 1.wav&quot;</Command>
@@ -493,100 +499,7 @@
 <Command>sndfile-metadata-set --str-date &quot;1966&quot; --str-artist &quot;Franco &lt;Musiker&gt; / Tout-Puissant OK Jazz&quot; --str-album &quot;Timothée Abangi makambo / Orchestre O. K. Jazz - African&quot; &quot;/mnt/KOSTIMA/RS/Single-Liste 4 Merle/RS 2541 514483636 Orchestre O.K. Jazz - Timothée Abangi makambo/RS 2541 514483636 B1 Orchestre O.K. Jazz - Oyo mobali tapale.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Nado Kakoma / Nado Kakoma&quot; --str-album &quot;Sable mouvant / Nado Kakoma -&quot; &quot;/mnt/KOSTIMA/TK/TK 1272 41737738X Nado Kakoma - Sable mouvant/TK 1272 41737738X A1 Nado Kakoma - Papa Mokambi.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1991&quot; --str-artist &quot;Papa Wemba / Papa Wemba&quot; --str-album &quot;Le voyageur / Papa Wemba - CBH SARL&quot; &quot;/mnt/KOSTIMA/TK/TK 337 400445174 Papa Wemba - Le voyageur/TK 0337 400445174 A2 Papa Wemba - Lingo Lingo.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1991&quot; --str-artist &quot;Papa Wemba / Papa Wemba&quot; --str-album &quot;Le voyageur / Papa Wemba - CBH SARL&quot; &quot;/mnt/KOSTIMA/TK/TK 337 400445174 Papa Wemba - Le voyageur/TK 0337 400445174 B4 Papa Wemba - Zero.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1993&quot; --str-artist &quot;Pépé Kallé&quot; --str-album &quot;Loin des yeux / Pépé Kallé - Flash Diffusion Business&quot; &quot;/mnt/KOSTIMA/TK/TK 338 400445751 Pépé Kallé - Loin des yeux/TK 338 400445751 A3 Pépé Kallé - Coco.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1993&quot; --str-artist &quot;Pépé Kallé&quot; --str-album &quot;Loin des yeux / Pépé Kallé - Flash Diffusion Business&quot; &quot;/mnt/KOSTIMA/TK/TK 338 400445751 Pépé Kallé - Loin des yeux/TK 338 400445751 A4 Pépé Kallé.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1993&quot; --str-artist &quot;Pépé Kallé&quot; --str-album &quot;Loin des yeux / Pépé Kallé - Flash Diffusion Business&quot; &quot;/mnt/KOSTIMA/TK/TK 338 400445751 Pépé Kallé - Loin des yeux/TK 338 400445751 A5 Pépé Kallé.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1993&quot; --str-artist &quot;Pépé Kallé&quot; --str-album &quot;Loin des yeux / Pépé Kallé - Flash Diffusion Business&quot; &quot;/mnt/KOSTIMA/TK/TK 338 400445751 Pépé Kallé - Loin des yeux/TK 338 400445751 B1 Pépé Kallé - Nabeteli.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1993&quot; --str-artist &quot;Pépé Kallé&quot; --str-album &quot;Loin des yeux / Pépé Kallé - Flash Diffusion Business&quot; &quot;/mnt/KOSTIMA/TK/TK 338 400445751 Pépé Kallé - Loin des yeux/TK 338 400445751 B2 Pépé Kallé - Dieu seul sait.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1993&quot; --str-artist &quot;Pépé Kallé&quot; --str-album &quot;Loin des yeux / Pépé Kallé - Flash Diffusion Business&quot; &quot;/mnt/KOSTIMA/TK/TK 338 400445751 Pépé Kallé - Loin des yeux/TK 338 400445751 B3 Pépé Kallé - Amour, vie dure.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1993&quot; --str-artist &quot;Pépé Kallé&quot; --str-album &quot;Loin des yeux / Pépé Kallé - Flash Diffusion Business&quot; &quot;/mnt/KOSTIMA/TK/TK 338 400445751 Pépé Kallé - Loin des yeux/TK 338 400445751 A1 Pépé Kallé - Loin des yeux.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1993&quot; --str-artist &quot;Pépé Kallé&quot; --str-album &quot;Loin des yeux / Pépé Kallé - Flash Diffusion Business&quot; &quot;/mnt/KOSTIMA/TK/TK 338 400445751 Pépé Kallé - Loin des yeux/TK 338 400445751 A2 Pépé Kallé - Simplicité.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1993&quot; --str-artist &quot;Pépé Kallé&quot; --str-album &quot;Loin des yeux / Pépé Kallé - Flash Diffusion Business&quot; &quot;/mnt/KOSTIMA/TK/TK 338 400445751 Pépé Kallé - Loin des yeux/TK 338 400445751 B4 Pépé Kallé - Ambiance sebene.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1994&quot; --str-artist &quot;Dibala, Diblo / Matchatcha&quot; --str-album &quot;Ok Madame / Diblo-Dibala. Le groupe Matchatcha - Afric&apos;Music&quot; &quot;/mnt/KOSTIMA/TK/TK 334 400423006 Diblo-Dibala. Le groupe Matchatcha - Ok Madame/TK 0334 400423006 A1 Diblo-Dibala. Le groupe Matchatcha - O.K. Madame.wav&quot;</Command>
-</Skript>
-<Skript>
 <Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Lokito, N&apos;Gouma / Soukous Stars&quot; --str-album &quot;Leddy / N&apos;Gouma Lokito et les Soukouss Stars - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 371 400591596 N&apos;Gouma Lokito et les Soukouss Stars - Leddy/TK 371 400591596 B3 N&apos;Gouma Lokito et les Soukouss Stars - Sourire.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1996&quot; --str-artist &quot;Adams, Pierrette&quot; --str-album &quot;Mal de mère / Pierrette Adams - Sonodisc?]&quot; &quot;/mnt/KOSTIMA/TK/TK 629 402982908 Pierrette Adams - Mal de mère/TK 0629 402982908 B2 Pierrette Adams - Yele.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1996&quot; --str-artist &quot;Adams, Pierrette&quot; --str-album &quot;Mal de mère / Pierrette Adams - Sonodisc?]&quot; &quot;/mnt/KOSTIMA/TK/TK 629 402982908 Pierrette Adams - Mal de mère/TK 0629 402982908 A3 Pierrette Adams - Dernier voyage.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1996&quot; --str-artist &quot;Adams, Pierrette&quot; --str-album &quot;Mal de mère / Pierrette Adams - Sonodisc?]&quot; &quot;/mnt/KOSTIMA/TK/TK 629 402982908 Pierrette Adams - Mal de mère/TK 0629 402982908 B1 Pierrette Adams - Caterpillars.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1996&quot; --str-artist &quot;Adams, Pierrette&quot; --str-album &quot;Mal de mère / Pierrette Adams - Sonodisc?]&quot; &quot;/mnt/KOSTIMA/TK/TK 629 402982908 Pierrette Adams - Mal de mère/TK 0629 402982908 B3 Pierrette Adams - Qui perd gagne.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1996&quot; --str-artist &quot;Adams, Pierrette&quot; --str-album &quot;Mal de mère / Pierrette Adams - Sonodisc?]&quot; &quot;/mnt/KOSTIMA/TK/TK 629 402982908 Pierrette Adams - Mal de mère/TK 0629 402982908 B4 Pierrette Adams - Bokola bana ya mbanda.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1996&quot; --str-artist &quot;Adams, Pierrette&quot; --str-album &quot;Mal de mère / Pierrette Adams - Sonodisc?]&quot; &quot;/mnt/KOSTIMA/TK/TK 629 402982908 Pierrette Adams - Mal de mère/TK 0629 402982908 A1 Pierrette Adams - Denis.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1996&quot; --str-artist &quot;Adams, Pierrette&quot; --str-album &quot;Mal de mère / Pierrette Adams - Sonodisc?]&quot; &quot;/mnt/KOSTIMA/TK/TK 629 402982908 Pierrette Adams - Mal de mère/TK 0629 402982908 A2 Pierrette Adams - Ngandempa.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1996&quot; --str-artist &quot;Adams, Pierrette&quot; --str-album &quot;Mal de mère / Pierrette Adams - Sonodisc?]&quot; &quot;/mnt/KOSTIMA/TK/TK 629 402982908 Pierrette Adams - Mal de mère/TK 0629 402982908 A4 Pierrette Adams - Faux problèmes.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 0679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 0679 403151783 A2 Papa Wemba &amp; Viva La Musica.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 0679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 0679 403151783 A3 Papa Wemba &amp; Viva La Musica.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 0679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 0679 403151783 A4 Papa Wemba &amp; Viva La Musica.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 0679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 0679 403151783 A5 Papa Wemba &amp; Viva La Musica.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 0679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 0679 403151783 B1 Papa Wemba &amp; Viva La Musica.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 0679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 0679 403151783 B2 Papa Wemba &amp; Viva La Musica.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 0679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 0679 403151783 B3 Papa Wemba &amp; Viva La Musica.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 0679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 0679 403151783 B4 Papa Wemba &amp; Viva La Musica.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 0679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 0679 403151783 B5 Papa Wemba &amp; Viva La Musica.wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 0679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 0679 403151783 A1 Papa Wemba &amp; Viva La Musica.wav&quot;</Command>
 </Skript>
 <Skript>
 <Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Mangwana, Sam / Kahamba, Shaba / Mangwana, Sam&quot; --str-album &quot;Megamix / Sam Mangwana - CBS-Columbia Records]&quot; &quot;/mnt/KOSTIMA/TK/TK 953 404612261 Sam Mangwana - Megamix/TK 953 404612261 A1 Sam Mangwana - Megamix.wav&quot;</Command>
@@ -595,174 +508,228 @@
 <Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Mangwana, Sam / Kahamba, Shaba / Mangwana, Sam&quot; --str-album &quot;Megamix / Sam Mangwana - CBS-Columbia Records]&quot; &quot;/mnt/KOSTIMA/TK/TK 953 404612261 Sam Mangwana - Megamix/TK 953 404612261 A2 Sam Mangwana - Megamix.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 A1 Wenge-Musica 4x4 B.C.B.G.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - [W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 A3 Wenge-Musica 4x4 B.C.B.G. - Cresois.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 A2 Wenge-Musica 4x4 B.C.B.G.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - [W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 B1 Wenge-Musica 4x4 B.C.B.G. - Danico.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 A3 Wenge-Musica 4x4 B.C.B.G.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - [W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 B3 Wenge-Musica 4x4 B.C.B.G. - Voyage Mboso.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 B1 Wenge-Musica 4x4 B.C.B.G.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - [W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 A1 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-boeing.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 B2 Wenge-Musica 4x4 B.C.B.G.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - [W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 A2 Wenge-Musica 4x4 B.C.B.G - Cést trop tard djenga.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 B3 Wenge-Musica 4x4 B.C.B.G.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1990&quot; --str-artist &quot;Wenge Musica BC BG&quot; --str-album &quot;Kala-yi-Boeing / Wenge-Musica 4x4 B.C.B.G. - [W.I.B.E. Production]&quot; &quot;/mnt/KOSTIMA/TK/TK 908 404368727 Wenge-Musica 4x4 B.C.B.G. - Kala-yi-Boeing/TK 908 404368727 B2 Wenge-Musica 4x4 B.C.B.G. - Jessy Chouchou de London.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 A3 Solo Sita.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 B2 Solo Sita - Na Koliya.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 A4 Solo Sita.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 B3 Solo Sita - Trahison.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 B1 Solo Sita.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 A1 Solo Sita - Mettez la chose.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 B2 Solo Sita.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 A2 Solo Sita - Tu sors, je sors.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 A2 Solo Sita.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 A3 Solo Sita - Na Komitunaka.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 B3 Solo Sita.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 A4 Solo Sita - Na Komitunaka.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 B4 Solo Sita.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 B1 Solo Sita - Comme-Ci Comme-Ca.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 A1 Solo Sita.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Solo Sita / Toto, Jacky / Solo Sita&quot; --str-album &quot;Mettez la chose / Solo Sita - Emma Records&quot; &quot;/mnt/KOSTIMA/TK/TK 925 404447910 Solo Sita - Mettez la chose/TK 925 404447910 A5 Solo Sita - Amour Compliqué.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 A2 Orchestre international Empire Bakuba.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - [B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 A1 Orchestre international Empire Bakuba - Savoir vivre.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 A3 Orchestre international Empire Bakuba.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - [B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 A2 Orchestre international Empire Bakuba - Qu&apos;est-ce Que c&apos;est....wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 B1 Orchestre international Empire Bakuba.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - [B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 A3 Orchestre international Empire Bakuba - Bodo.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 B2 Orchestre international Empire Bakuba.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - [B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 B1 Orchestre international Empire Bakuba - Cerie Clau.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 B3 Orchestre international Empire Bakuba.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - [B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 B2 Orchestre international Empire Bakuba - Donne moi ta main.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 0955 404616496 B4 Orchestre international Empire Bakuba.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - [B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 B3 Orchestre international Empire Bakuba - L&apos;Espoir en Christ.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 A1 Orchestre international Empire Bakuba.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Savoir vivre / Orchestre international Empire Bakuba - [B-MAS Production/BMP]&quot; &quot;/mnt/KOSTIMA/TK/TK 955 404616496 Orchestre international Empire Bakuba - Savoir vivre/TK 955 404616496 B4 Orchestre international Empire Bakuba - Savoir vivre.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 A3 Koffi Olomide.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 A4 Koffi Olomide - No Name.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 A4 Koffi Olomide.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 A1 Koffi Olomide - No Name.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 B1 Koffi Olomide.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 B3 Koffi Olomide - No Name.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 B2 Koffi Olomide.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 B4 Koffi Olomide - No Name.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 B3 Koffi Olomide.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 A3 Koffi Olomide - Elle et moi.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 B4 Koffi Olomide.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 B1 Koffi Olomide - Kiki Ewig.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 A1 Koffi Olomide.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 A2 Koffi Olomide - Petit Fiere Ya Jesus.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 A2 Koffi Olomide.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Olomidé, Koffi / Olomidé, Koffi&quot; --str-album &quot;Les hits de... / Koffi Olomide - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 956 404617506 Koffi Olomide - Les hits de Koffi Olomide/TK 956 404617506 B2 Koffi Olomide - Droit De L´homme.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bel, M&apos;bilia / Ley, Tabu / Bel, M&apos;bilia&quot; --str-album &quot;Beyanga / Mbilia Bel - PolyGram Records&quot; &quot;/mnt/KOSTIMA/TK/- TK 1048 404999131 Mbilia Bel - Beyanga/TK 1048 404999131 B1 Mbilia Bel - Mobali na ngai wana.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 679 403151783 A2 Papa Wemba &amp; Viva La Musica - Apres Tout.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bel, M&apos;bilia / Ley, Tabu / Bel, M&apos;bilia&quot; --str-album &quot;Beyanga / Mbilia Bel - PolyGram Records&quot; &quot;/mnt/KOSTIMA/TK/- TK 1048 404999131 Mbilia Bel - Beyanga/TK 1048 404999131 B2 Mbilia Bel - Napika.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 679 403151783 B1 Papa Wemba &amp; Viva La Musica - Endena.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bel, M&apos;bilia / Ley, Tabu / Bel, M&apos;bilia&quot; --str-album &quot;Beyanga / Mbilia Bel - PolyGram Records&quot; &quot;/mnt/KOSTIMA/TK/- TK 1048 404999131 Mbilia Bel - Beyanga/TK 1048 404999131 B3 Mbilia Bel - Hidden Track.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 679 403151783 B2 Papa Wemba &amp; Viva La Musica - Toutou Kamuke.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bel, M&apos;bilia / Ley, Tabu / Bel, M&apos;bilia&quot; --str-album &quot;Beyanga / Mbilia Bel - PolyGram Records&quot; &quot;/mnt/KOSTIMA/TK/- TK 1048 404999131 Mbilia Bel - Beyanga/TK 1048 404999131 B4 Mbilia Bel - Hidden Track.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 679 403151783 A4 Papa Wemba &amp; Viva La Musica - Soul Gbemani.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 0991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 A2 Le Victoria Eleyson de King Kester Emeneya.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 679 403151783 B4 Papa Wemba &amp; Viva La Musica - Mississipi.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 0991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 A3 Le Victoria Eleyson de King Kester Emeneya.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 679 403151783 B3 Papa Wemba &amp; Viva La Musica - Sema Spraya.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 0991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 B1 Le Victoria Eleyson de King Kester Emeneya.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 679 403151783 A1 Papa Wemba &amp; Viva La Musica - Kaokokokoroba.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 0991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 B2 Le Victoria Eleyson de King Kester Emeneya.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 679 403151783 A3 Papa Wemba &amp; Viva La Musica - Perdu de vue.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 0991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 B3 Le Victoria Eleyson de King Kester Emeneya.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 679 403151783 A5 Papa Wemba &amp; Viva La Musica - Jingle Amina.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 0991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 A1 Le Victoria Eleyson de King Kester Emeneya.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Papa Wemba / Viva la Musica&quot; --str-album &quot;Pole position / Papa Wemba &amp; Viva La Musica - Sonodisc]&quot; &quot;/mnt/KOSTIMA/TK/TK 679 403151783 Papa Wemba &amp; Viva La Musica - Pole position/TK 679 403151783 B5 Papa Wemba &amp; Viva La Musica - Jingle Amina.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1993&quot; --str-artist &quot;Empire Bakuba&quot; --str-album &quot;Mamie - Musique clarification / L&apos;orchestre Empire Bakuba - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/TK/TK 930 404461492 L&apos;orchestre Empire Bakuba - Mamie - Musique clarification/TK 0930 404461492 B1 L&apos;orchestre Empire Bakuba - Musique clarification.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1984&quot; --str-artist &quot;Bel, M&apos;bilia / Bel, M&apos;bilia&quot; --str-album &quot;Ba gerants ya mabala - Paka wewe / Mbilia Bel - GMI&quot; &quot;/mnt/KOSTIMA/TK/TK 2060 529560917 Mbilia Bel - Ba gerants ya mabala - Paka wewe/TK 2060 529560917 A1 Mbilia Bel - Ba Gerants Ya Mabala.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1993&quot; --str-artist &quot;Pépé Kallé&quot; --str-album &quot;Loin des yeux / Pépé Kallé - Flash Diffusion Business&quot; &quot;/mnt/KOSTIMA/TK/TK 331 400416115 Pépé Kallé - Loin des yeux/TK 331 400416115 A1 Pépé Kallé - Loin des yeu.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1984&quot; --str-artist &quot;Bel, M&apos;bilia / Bel, M&apos;bilia&quot; --str-album &quot;Ba gerants ya mabala - Paka wewe / Mbilia Bel - GMI&quot; &quot;/mnt/KOSTIMA/TK/TK 2060 529560917 Mbilia Bel - Ba gerants ya mabala - Paka wewe/TK 2060 529560917 A2 Mbilia Bel - Ba Jen De Coin.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 A3 Geo Bilongo.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1984&quot; --str-artist &quot;Bel, M&apos;bilia / Bel, M&apos;bilia&quot; --str-album &quot;Ba gerants ya mabala - Paka wewe / Mbilia Bel - GMI&quot; &quot;/mnt/KOSTIMA/TK/TK 2060 529560917 Mbilia Bel - Ba gerants ya mabala - Paka wewe/TK 2060 529560917 A3 Mbilia Bel - Ba Gerants Ya Mabala-2.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 B1 Geo Bilongo.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1984&quot; --str-artist &quot;Bel, M&apos;bilia / Bel, M&apos;bilia&quot; --str-album &quot;Ba gerants ya mabala - Paka wewe / Mbilia Bel - GMI&quot; &quot;/mnt/KOSTIMA/TK/TK 2060 529560917 Mbilia Bel - Ba gerants ya mabala - Paka wewe/TK 2060 529560917 B1 Mbilia Bel - Paka wewe.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 B2 Geo Bilongo.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1984&quot; --str-artist &quot;Bel, M&apos;bilia / Bel, M&apos;bilia&quot; --str-album &quot;Ba gerants ya mabala - Paka wewe / Mbilia Bel - GMI&quot; &quot;/mnt/KOSTIMA/TK/TK 2060 529560917 Mbilia Bel - Ba gerants ya mabala - Paka wewe/TK 2060 529560917 B2 Mbilia Bel - Boni yo boye.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 B3 Geo Bilongo.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1984&quot; --str-artist &quot;Bel, M&apos;bilia / Bel, M&apos;bilia&quot; --str-album &quot;Ba gerants ya mabala - Paka wewe / Mbilia Bel - GMI&quot; &quot;/mnt/KOSTIMA/TK/TK 2060 529560917 Mbilia Bel - Ba gerants ya mabala - Paka wewe/TK 2060 529560917 B3 Mbilia Bel - Hidden Track.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 B4 Geo Bilongo.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 A1 Geo Bilongo - Ma Femme Est Capable.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 B5 Geo Bilongo.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 B5 Geo Bilongo - Banianga.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 A1 Geo Bilongo.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 A3 Geo Bilongo - Respectez Les Seins.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 A2 Geo Bilongo.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 B2 Geo Bilongo - Nabou.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 A3 Aurlus Mabele et le groupe Loketo (2).wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 A2 Geo Bilongo - Article 320.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 A4 Aurlus Mabele et le groupe Loketo (2).wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 B1 Geo Bilongo - Mande International.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 B2 Aurlus Mabele et le groupe Loketo.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 B3 Geo Bilongo - Ngambo Na Famille.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 A1 Aurlus Mabele et le groupe Loketo.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Bilongo, Géo&quot; --str-album &quot;Ma femme est capable / Geo Bilongo - Sonima Music&quot; &quot;/mnt/KOSTIMA/TK/TK 707 403278708 Geo Bilongo - Ma femme est capable/TK 707 403278708 B4 Geo Bilongo - La Princesse Dioulde Sy.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 A2 Aurlus Mabele et le groupe Loketo.wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 A3 Aurlus Mabele et le groupe Loketo -Rosa.wav&quot;</Command>
 </Skript>
 <Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 B3 Aurlus Mabele et le groupe Loketo (2).wav&quot;</Command>
-</Skript>
-<Skript>
-<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 B4 Aurlus Mabele et le groupe Loketo (2).wav&quot;</Command>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 A1 Aurlus Mabele et le groupe Loketo - Génération Wachiwa.wav&quot;</Command>
 </Skript>
 <Skript>
 <Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 B1 Aurlus Mabele et le groupe Loketo - Khadydja.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 A4 Aurlus Mabele et le groupe Loketo - Fatou.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 A2 Aurlus Mabele et le groupe Loketo - Papy-Kanza.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 B2 Aurlus Mabele et le groupe Loketo - Alina.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 A5 Aurlus Mabele et le groupe Loketo - Canon scié.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Mabélé, Aurlus / Mabélé, Aurlus / Loketo&quot; --str-album &quot;Génération Wachiwa encaisse tout / Aurlus Mabele et le groupe Loketo - Jimmy&apos;s International Productions&quot; &quot;/mnt/KOSTIMA/TK/TK 896 404352081 Aurlus Mabele et le groupe Loketo - Génération Wachiwa encaisse tout/TK 896 404352081 B3 Aurlus Mabele et le groupe Loketo - Tala-Mamina.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 A3 Le Victoria Eleyson de King Kester Emeneya - Nina.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 B1 Le Victoria Eleyson de King Kester Emeneya - Delando.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 A1 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 A2 Le Victoria Eleyson de King Kester Emeneya - Doris Iloko.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 B3 Le Victoria Eleyson de King Kester Emeneya - Papy Concha.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;1995&quot; --str-artist &quot;Emeneya / Victoria Eleison&quot; --str-album &quot;Stefie Tchoko / Le Victoria Eleyson de King Kester Emeneya - DMS Entertainment&quot; &quot;/mnt/KOSTIMA/TK/TK 991 404983030 Le Victoria Eleyson de King Kester Emeneya - Stefie Tchoko/TK 0991 404983030 B2 Le Victoria Eleyson de King Kester Emeneya - J.C. Nguibi.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;2000&quot; --str-artist &quot;Maquis du Zaire&quot; --str-album &quot;Best of Maquis du Zaïre / Maquis du Zaïre - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/CD - Umfeld Kongo/CD 2285 485303698 Maquis du Zaire - Best of Maquis du Zaire/CD 2285 485303698 01 Maquis du Zaire - Masua.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;2000&quot; --str-artist &quot;Maquis du Zaire&quot; --str-album &quot;Best of Maquis du Zaïre / Maquis du Zaïre - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/CD - Umfeld Kongo/CD 2285 485303698 Maquis du Zaire - Best of Maquis du Zaire/CD 2285 485303698 02 Maquis du Zaire - Umekwama.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;2000&quot; --str-artist &quot;Maquis du Zaire&quot; --str-album &quot;Best of Maquis du Zaïre / Maquis du Zaïre - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/CD - Umfeld Kongo/CD 2285 485303698 Maquis du Zaire - Best of Maquis du Zaire/CD 2285 485303698 03 Maquis du Zaire - Ngai Mwana Malole.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;2000&quot; --str-artist &quot;Maquis du Zaire&quot; --str-album &quot;Best of Maquis du Zaïre / Maquis du Zaïre - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/CD - Umfeld Kongo/CD 2285 485303698 Maquis du Zaire - Best of Maquis du Zaire/CD 2285 485303698 04 Maquis du Zaire - Tokoni Kowela Mbongo.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;2000&quot; --str-artist &quot;Maquis du Zaire&quot; --str-album &quot;Best of Maquis du Zaïre / Maquis du Zaïre - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/CD - Umfeld Kongo/CD 2285 485303698 Maquis du Zaire - Best of Maquis du Zaire/CD 2285 485303698 05 Maquis du Zaire - Bondela Moninga.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;2000&quot; --str-artist &quot;Maquis du Zaire&quot; --str-album &quot;Best of Maquis du Zaïre / Maquis du Zaïre - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/CD - Umfeld Kongo/CD 2285 485303698 Maquis du Zaire - Best of Maquis du Zaire/CD 2285 485303698 06 Maquis du Zaire - Malelisa.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;2000&quot; --str-artist &quot;Maquis du Zaire&quot; --str-album &quot;Best of Maquis du Zaïre / Maquis du Zaïre - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/CD - Umfeld Kongo/CD 2285 485303698 Maquis du Zaire - Best of Maquis du Zaire/CD 2285 485303698 08 Maquis du Zaire - Ngalula.wav&quot;</Command>
+</Skript>
+<Skript>
+<Command>sndfile-metadata-set --str-date &quot;2000&quot; --str-artist &quot;Maquis du Zaire&quot; --str-album &quot;Best of Maquis du Zaïre / Maquis du Zaïre - [Verlag nicht ermittelbar]&quot; &quot;/mnt/KOSTIMA/CD - Umfeld Kongo/CD 2285 485303698 Maquis du Zaire - Best of Maquis du Zaire/CD 2285 485303698 07 Maquis du Zaire - Niwewe Pekee.wav&quot;</Command>
 </Skript>
 </dataroot>
