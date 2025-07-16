@@ -6,7 +6,7 @@
     <xsl:output  method="text" encoding="UTF-8"/>
     <xsl:strip-space elements="*"/>
    
-    <xsl:template match="//record">
+    <xsl:template match="//record[../name()='dataExportXML']">
         <xsl:variable name="ppn" select="tag[@id='003@']/sbf[@id='0']"/>
         <xsl:variable name="signatur" select="tag[starts-with(@id,'209A') and (sbf[@id='f']='066')]/sbf[@id='a'][1]"/>
         <xsl:call-template name="feld"> <!-- PPN -->
