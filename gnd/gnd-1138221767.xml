@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:Person rdf:about="https://d-nb.info/gnd/1138221767">
+    <gndo:realNameOfThePerson>
+      <gndo:RealNameOfThePerson>
+        <gndo:surname>Mbilinyi</gndo:surname>
+        <gndo:forename>Joseph Osmund</gndo:forename>
+      </gndo:RealNameOfThePerson>
+    </gndo:realNameOfThePerson>
+    <gndo:preferredName>Sugu</gndo:preferredName>
+    <gndo:biographicalOrHistoricalInformation xml:lang="de">Tanzan. Musiker (HipHop, Bongo Flava)</gndo:biographicalOrHistoricalInformation>
+    <gndo:variantName>Sugu a.k.a. Mr. II</gndo:variantName>
+    <gndo:variantName>2-proud</gndo:variantName>
+    <gndo:dateOfBirth>1972</gndo:dateOfBirth>
+    <gndo:homepage>
+      <rdf:Description rdf:about="https://sugumusic.tripod.com/">
+        <rdfs:label>https://sugumusic.tripod.com/</rdfs:label>
+      </rdf:Description>
+    </gndo:homepage>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
+        <rdfs:label>Musiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n2022230669">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.2:name>NACO Authority File</j.2:name>
+            <j.2:logo>http://www.loc.gov/favicon.ico</j.2:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-TZ">
+        <rdfs:label>Tansania</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:gndIdentifier>1138221767</gndo:gndIdentifier>
+    <gndo:variantName>Mr. II</gndo:variantName>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Sugu</gndo:personalName>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#16.5p">
+        <rdfs:label>Personen der Geschichte (Politiker und historische Persönlichkeiten)</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mbilinyi</gndo:surname>
+      <gndo:forename>Joseph Osmund</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4046517-2">
+        <rdfs:label>Politiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Sugu a.k.a. Mr. II</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4434804-6">
+        <rdfs:label>Aktivist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#14.4p">
+        <rdfs:label>Personen zu Musik</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/16028709-1">
+        <rdfs:label>Songea</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q6928762">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Mr. II</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Mr._II">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.2:name>Wikipedia (English)</j.2:name>
+            <j.2:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Mbilinyi, Joseph Osmund</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1138221767/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
+            <rdfs:label>Katalogisierungslevel 1</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-09-12T13:22:18.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-77">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-77</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-77"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:placeOfActivity>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4038157-2">
+        <rdfs:label>Mbeya</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfActivity>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>2-proud</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4303534-6">
+        <rdfs:label>Rapmusiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/66150325561010090005">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/1138221767/about"/>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
+        <rdfs:label>Männlich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+  </gndo:Person>
+</rdf:RDF>

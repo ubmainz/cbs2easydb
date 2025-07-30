@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/agrelon#" xmlns:j.2="https://d-nb.info/standards/elementset/dnb#" xmlns:j.3="http://xmlns.com/foaf/0.1/" xmlns:j.4="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/132996847">
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Moya Aliya Malamusi</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000430692327">
+        <j.2:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Moya Aliya Malamusi</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/307510580">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.3:name>Virtual International Authority File (VIAF)</j.3:name>
+            <j.3:logo>http://viaf.org/viaf/images/viaf.ico</j.3:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:publication>Nyau. - 1987</gndo:publication>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/no2014018001">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.3:name>NACO Authority File</j.3:name>
+            <j.3:logo>http://www.loc.gov/favicon.ico</j.3:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/132996847/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.3:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.3:name>
+            <j.3:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.3:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-31T11:32:11.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/AT-NOELB">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/AT-NOELB</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.4:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/AT-NOELB"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Malamusi, Moya A.</gndo:variantName>
+    <gndo:placeOfActivity>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4066009-6">
+        <rdfs:label>Wien</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfActivity>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-MW">
+        <rdfs:label>Malawi</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-AT">
+        <rdfs:label>Österreich</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <j.1:hasSibling>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1096503425">
+        <rdfs:label>Malamusi, Lidiya</rdfs:label>
+      </rdf:Description>
+    </j.1:hasSibling>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Malamusi</gndo:surname>
+      <gndo:forename>Moya A.</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:periodOfActivity>1987</gndo:periodOfActivity>
+    <gndo:preferredName>Malamusi, Moya Aliya, Dr.</gndo:preferredName>
+    <gndo:familialRelationship rdf:resource="https://d-nb.info/gnd/1096503425"/>
+    <gndo:dateOfBirth>1958</gndo:dateOfBirth>
+    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/132996847/about"/>
+    <gndo:oldAuthorityNumber>(DE-588a)132996847</gndo:oldAuthorityNumber>
+    <gndo:academicDegree>Dr.</gndo:academicDegree>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/7628911-4">
+        <rdfs:label>Musikethnologe</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:gndIdentifier>132996847</gndo:gndIdentifier>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
+        <rdfs:label>Männlich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Malamusi</gndo:surname>
+      <gndo:nameAddition>Dr.</gndo:nameAddition>
+      <gndo:forename>Moya Aliya</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:placeOfBirthAsLiteral>Singano Village, Malawi</gndo:placeOfBirthAsLiteral>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+  </gndo:AuthorityResource>
+</rdf:RDF>

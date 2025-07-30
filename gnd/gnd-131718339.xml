@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/agrelon#" xmlns:j.2="https://d-nb.info/standards/elementset/dnb#" xmlns:j.3="http://xmlns.com/foaf/0.1/" xmlns:j.4="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:AuthorityResource rdf:about="https://d-nb.info/gnd/131718339">
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q334947">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.3:name>Wikidata</j.3:name>
+            <j.3:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.3:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/131718339/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
+            <rdfs:label>Katalogisierungslevel 1</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.3:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.3:name>
+            <j.3:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.3:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-10-12T05:33:55.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-12">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-12</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.4:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-12"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#14.4p">
+        <rdfs:label>Personen zu Musik</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+    <gndo:variantName>Ali Farka Toure</gndo:variantName>
+    <gndo:dateOfBirth>1939-10-31</gndo:dateOfBirth>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb13963347k">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19938912">
+            <j.3:name>Bibliothèque nationale de France</j.3:name>
+            <j.3:logo>https://www.bnf.fr/themes/custom/bnfsi/favicon.ico</j.3:logo>
+            <dc:publisher>Bibliothèque nationale de France</dc:publisher>
+            <j.0:abbreviation>BNF</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-ML">
+        <rdfs:label>Mali</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/131718339/about"/>
+    <gndo:variantName>Toure, Ali Farka</gndo:variantName>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
+        <rdfs:label>Männlich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:placeOfBirthAsLiteral>Gourmararusse, Mali</gndo:placeOfBirthAsLiteral>
+    <gndo:familialRelationship>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/138710872">
+        <rdfs:label>Touré, Vieux Farka</rdfs:label>
+      </rdf:Description>
+    </gndo:familialRelationship>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4157372-9">
+        <rdfs:label>Gitarrist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:preferredName>Touré, Ali Farka</gndo:preferredName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Farka</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
+        <rdfs:label>Musiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:oldAuthorityNumber>(DE-588a)131718339</gndo:oldAuthorityNumber>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000080151466">
+        <j.2:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:dateOfDeath>2006-03-07</gndo:dateOfDeath>
+    <gndo:variantName>Farka, Ali Toure</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Toure</gndo:surname>
+      <gndo:forename>Ali Farka</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Farka Toure, Ali</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Farka</gndo:surname>
+      <gndo:forename>Ali Toure</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Ali_Farka_Tour%C3%A9">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.3:name>Wikipedia (English)</j.3:name>
+            <j.3:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.3:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://www.filmportal.de/60D8F6C5590A45A99B80879C3DF2D051">
+        <j.2:isDescribedIn rdf:resource="https://www.filmportal.de"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Farka</gndo:variantName>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n91128970">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.3:name>NACO Authority File</j.3:name>
+            <j.3:logo>http://www.loc.gov/favicon.ico</j.3:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Ali_Farka_Tour%C3%A9">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48183">
+            <j.3:name>Wikipedia (Deutsch)</j.3:name>
+            <j.3:logo>https://de.wikipedia.org/static/favicon/wikipedia.ico</j.3:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>dewiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+        <rdfs:label>https://de.wikipedia.org/wiki/Ali_Farka_Tour%C3%A9</rdfs:label>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:biographicalOrHistoricalInformation xml:lang="de">Musiker aus Mali (Gitarre, Njurkle)</gndo:biographicalOrHistoricalInformation>
+    <gndo:placeOfDeath>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4086612-9">
+        <rdfs:label>Bamako</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfDeath>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Farka Toure</gndo:surname>
+      <gndo:forename>Ali</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <j.1:hasChild rdf:resource="https://d-nb.info/gnd/138710872"/>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Touré</gndo:surname>
+      <gndo:forename>Ali Farka</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4124099-6">
+        <rdfs:label>Sänger</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:gndIdentifier>131718339</gndo:gndIdentifier>
+    <j.3:page rdf:resource="https://de.wikipedia.org/wiki/Ali_Farka_Tour%C3%A9"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Ali Farka Toure</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/12498357">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.3:name>Virtual International Authority File (VIAF)</j.3:name>
+            <j.3:logo>http://viaf.org/viaf/images/viaf.ico</j.3:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <j.3:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Farka%20Toure.jpg">
+        <j.3:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Ali%20Farka%20Toure.jpg?width=270</j.3:thumbnail>
+        <j.3:page>https://commons.wikimedia.org/wiki/File:Ali%20Farka%20Toure.jpg?uselang=de</j.3:page>
+      </rdf:Description>
+    </j.3:depiction>
+  </gndo:AuthorityResource>
+</rdf:RDF>

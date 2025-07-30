@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:Person rdf:about="https://d-nb.info/gnd/119369370">
+    <gndo:oldAuthorityNumber>(DE-588)1035106574</gndo:oldAuthorityNumber>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Behrendt</gndo:surname>
+      <gndo:forename>Joachim Ernst</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:gndIdentifier>119369370</gndo:gndIdentifier>
+    <gndo:oldAuthorityNumber>(DE-588a)119369370</gndo:oldAuthorityNumber>
+    <gndo:publication>Spirituals. - 1955</gndo:publication>
+    <j.1:deprecatedUri>https://d-nb.info/gnd/171973313</j.1:deprecatedUri>
+    <gndo:variantName>Berendt, Joachim Ernst</gndo:variantName>
+    <gndo:dateOfDeath>2000-02-04</gndo:dateOfDeath>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/44384121">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/119369370/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
+            <rdfs:label>Katalogisierungslevel 1</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <j.2:logo>http://www.dnb.de/SiteGlobals/StyleBundles/Bilder/favicon.png?__blob=normal&amp;v=1</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-02-28T16:15:25.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-101">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-101</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-101"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#male">
+        <rdfs:label>Männlich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://catalogue.bnf.fr/ark:/12148/cb12402847g">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q19938912">
+            <j.2:name>Bibliothèque nationale de France</j.2:name>
+            <j.2:logo>https://www.bnf.fr/themes/custom/bnfsi/favicon.ico</j.2:logo>
+            <dc:publisher>Bibliothèque nationale de France</dc:publisher>
+            <j.0:abbreviation>BNF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/000000008377735X">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:oldAuthorityNumber>(DE-588a)131206044</gndo:oldAuthorityNumber>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4398800-3">
+        <rdfs:label>Musikschriftsteller</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:oldAuthorityNumber>(DE-588)171973313</gndo:oldAuthorityNumber>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4028781-6">
+        <rdfs:label>Journalist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:variantName>Bērento, J. E.</gndo:variantName>
+    <gndo:affiliation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1009723-5">
+        <rdfs:label>Südwestfunk</rdfs:label>
+      </rdf:Description>
+    </gndo:affiliation>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE">
+        <rdfs:label>Deutschland</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:oldAuthorityNumber>(DE-588a)171973313</gndo:oldAuthorityNumber>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/7628915-1">
+        <rdfs:label>Musikjournalist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#14.4p">
+        <rdfs:label>Personen zu Musik</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://www.deutsche-digitale-bibliothek.de/person/gnd/119369370">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q621630">
+            <j.2:name>Deutsche Digitale Bibliothek</j.2:name>
+            <j.2:logo>https://www.deutsche-digitale-bibliothek.de/favicon.ico</j.2:logo>
+            <dc:publisher>Deutsche Digitale Bibliothek</dc:publisher>
+            <j.0:abbreviation>DDB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:dateOfBirth>1922-07-20</gndo:dateOfBirth>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/171973313">
+        <j.1:isDescribedIn rdf:resource="http://www.wikidata.org/entity/Q36578"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Joachim-Ernst_Berendt">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.2:name>Wikipedia (English)</j.2:name>
+            <j.2:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:placeOfDeath>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4023118-5">
+        <rdfs:label>Hamburg</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfDeath>
+    <gndo:variantName>Berendt, Joachim E.</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Berendt</gndo:surname>
+      <gndo:forename>Joachim Ernst</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Berendt, Joachim</gndo:variantName>
+    <gndo:variantName>Behrendt, Joachim Ernst</gndo:variantName>
+    <wdrs:describedby rdf:resource="https://d-nb.info/gnd/119369370/about"/>
+    <gndo:preferredName>Berendt, Joachim-Ernst</gndo:preferredName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Berendt</gndo:surname>
+      <gndo:forename>Joachim</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Joachim-Ernst_Berendt">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48183">
+            <j.2:name>Wikipedia (Deutsch)</j.2:name>
+            <j.2:logo>https://de.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>dewiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <rdfs:label>https://de.wikipedia.org/wiki/Joachim-Ernst_Berendt</rdfs:label>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4094838-9">
+        <rdfs:label>Berlin-Weißensee</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://www.filmportal.de/573DBB925FE7492E9760EA76E592FD69">
+        <j.1:isDescribedIn rdf:resource="https://www.filmportal.de"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Berendt</gndo:surname>
+      <gndo:forename>Joachim E.</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Bērento</gndo:surname>
+      <gndo:forename>J. E.</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q77970">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1035106574">
+        <j.1:isDescribedIn rdf:resource="http://www.wikidata.org/entity/Q36578"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:oldAuthorityNumber>(DE-588c)4423152-0</gndo:oldAuthorityNumber>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://dbpedia.org/resource/Joachim-Ernst_Berendt">
+        <j.1:isDescribedIn rdf:resource="https://dbpedia.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n80015485">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.2:name>NACO Authority File</j.2:name>
+            <j.2:logo>http://www.loc.gov/favicon.ico</j.2:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <j.2:page rdf:resource="https://de.wikipedia.org/wiki/Joachim-Ernst_Berendt"/>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Berendt</gndo:surname>
+      <gndo:forename>Joachim-Ernst</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:biographicalOrHistoricalInformation xml:lang="de">Musikwissenschafler, Funk- und Fernsehredakteur; Jazzexperte</gndo:biographicalOrHistoricalInformation>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://www.archivportal-d.de/person/gnd/119369370">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="https://www.archivportal-d.de">
+            <j.2:name>Archivportal-D</j.2:name>
+            <j.2:logo>https://www.archivportal-d.de/favicon.ico</j.2:logo>
+            <dc:publisher>Deutsche Digitale Bibliothek</dc:publisher>
+            <j.0:abbreviation>ARCHIV-D</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://kalliope-verbund.info/gnd/119369370">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="https://kalliope-verbund.info">
+            <j.2:name>Kalliope Verbundkatalog</j.2:name>
+            <j.2:logo>https://kalliope-verbund.info/img/favicon.ico</j.2:logo>
+            <dc:publisher>Staatsbibliothek zu Berlin - Preußischer Kulturbesitz</dc:publisher>
+            <j.0:abbreviation>DE-611</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <j.1:deprecatedUri>https://d-nb.info/gnd/1035106574</j.1:deprecatedUri>
+  </gndo:Person>
+</rdf:RDF>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:DifferentiatedPerson rdf:about="https://d-nb.info/gnd/1349734802">
+    <gndo:variantName>Eyayu Tesfaye Mulugeta</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Eyayu Tesfaye Mulugeta</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:preferredName>Mulugeta, Eyayu Tesfaye</gndo:preferredName>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/1349734802/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-11-30T05:54:41.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-206">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-206</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-206"/>
+      </rdf:Description>
+    </wdrs:describedby>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:variantName>Tesfaye Mulugeta, Eyayu</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://orcid.org/0000-0002-9620-3210">
+        <j.1:isDescribedIn rdf:resource="https://orcid.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:affiliationAsLiteral>Addis Ababa University. Department of Economics</gndo:affiliationAsLiteral>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Mulugeta</gndo:surname>
+      <gndo:forename>Eyayu Tesfaye</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:periodOfActivity>2024-</gndo:periodOfActivity>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#notKnown">
+        <rdfs:label>Unbekannt</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/1349734802/about"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Tesfaye Mulugeta</gndo:surname>
+      <gndo:forename>Eyayu</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:gndIdentifier>1349734802</gndo:gndIdentifier>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-ET">
+        <rdfs:label>Äthiopien</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+  </gndo:DifferentiatedPerson>
+</rdf:RDF>

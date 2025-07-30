@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:Person rdf:about="https://d-nb.info/gnd/108965152X">
+    <gndo:variantName>Harachi, Dahmane</gndo:variantName>
+    <gndo:variantName>ʿAmrānī, ʿAbd al-Raḥmān</gndo:variantName>
+    <gndo:variantName>Elharrachi, Dahmane</gndo:variantName>
+    <gndo:variantName>Harachi, Dahmane el-</gndo:variantName>
+    <gndo:variantName>Harrachi, Dahmane</gndo:variantName>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-DZ">
+        <rdfs:label>Algerien</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4040841-3">
+        <rdfs:label>Musiker</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Harrachi</gndo:surname>
+      <gndo:prefix>el-</gndo:prefix>
+      <gndo:forename>Dahmane</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Elharrachi</gndo:surname>
+      <gndo:forename>Dahmane</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Harrachi, Dahmane el-</gndo:variantName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Dahmane el Harachi</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:dateOfBirth>1926-07-07</gndo:dateOfBirth>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/108965152X/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#3">
+            <rdfs:label>Katalogisierungslevel 3</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-09-26T20:35:04.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/CH-ZuETHN">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/CH-ZuETHN</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/CH-ZuETHN"/>
+      </rdf:Description>
+    </wdrs:describedby>
+    <gndo:realNameOfThePerson>
+      <gndo:RealNameOfThePerson>
+        <gndo:surname>Amrani</gndo:surname>
+        <gndo:forename>Abderrahmane</gndo:forename>
+      </gndo:RealNameOfThePerson>
+    </gndo:realNameOfThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3011965">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>ʿAmrānī</gndo:surname>
+      <gndo:forename>ʿAbd al-Raḥmān</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Harachi</gndo:surname>
+      <gndo:prefix>el-</gndo:prefix>
+      <gndo:forename>Dahmane</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Dahmane el Harachi</gndo:variantName>
+    <gndo:variantName>Harrachi, Dahmane el</gndo:variantName>
+    <gndo:variantName>Amrani, Abderrahmane</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/no2019131463">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.2:name>NACO Authority File</j.2:name>
+            <j.2:logo>http://www.loc.gov/favicon.ico</j.2:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/17414036">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/108965152X/about"/>
+    <gndo:preferredName>Ḥarrāšī, Dahmân al-</gndo:preferredName>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Ḥarrāšī</gndo:surname>
+      <gndo:prefix>al-</gndo:prefix>
+      <gndo:forename>Dahmân</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Harrachi</gndo:surname>
+      <gndo:forename>Dahmane el</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000500640646">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="https://isni.org">
+            <j.2:name>International Standard Name Identifier (ISNI)</j.2:name>
+            <j.2:logo>https://www.isni.org/sites/default/files/isni_new_favicon.ico</j.2:logo>
+            <dc:publisher>International Standard Name Identifier (ISNI)</dc:publisher>
+            <j.0:abbreviation>ISNI</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#notKnown">
+        <rdfs:label>Unbekannt</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:gndIdentifier>108965152X</gndo:gndIdentifier>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Harachi</gndo:surname>
+      <gndo:forename>Dahmane</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000055162155">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Dahmane_El_Harrachi">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.2:name>Wikipedia (English)</j.2:name>
+            <j.2:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Dahmane el-Harrachi</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Amrani</gndo:surname>
+      <gndo:forename>Abderrahmane</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:biographicalOrHistoricalInformation xml:lang="de">Sänger, Instrumentalmusiker, Komponist und Textdichter</gndo:biographicalOrHistoricalInformation>
+    <gndo:variantName>Dahmane el-Harrachi</gndo:variantName>
+    <gndo:dateOfDeath>1980-08-31</gndo:dateOfDeath>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4032009-1">
+        <rdfs:label>Komponist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <j.2:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/Dahman.jpg">
+        <j.2:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/Dahman.jpg?width=270</j.2:thumbnail>
+        <j.2:page>https://commons.wikimedia.org/wiki/File:Dahman.jpg?uselang=de</j.2:page>
+      </rdf:Description>
+    </j.2:depiction>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Harrachi</gndo:surname>
+      <gndo:forename>Dahmane</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+  </gndo:Person>
+</rdf:RDF>

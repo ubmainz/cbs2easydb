@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/agrelon#" xmlns:j.2="https://d-nb.info/standards/elementset/dnb#" xmlns:j.3="http://xmlns.com/foaf/0.1/" xmlns:j.4="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:DifferentiatedPerson rdf:about="https://d-nb.info/gnd/119080834">
+    <j.3:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/6464hoss.jpg">
+        <j.3:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/6464hoss.jpg?width=270</j.3:thumbnail>
+        <j.3:page>https://commons.wikimedia.org/wiki/File:6464hoss.jpg?uselang=de</j.3:page>
+      </rdf:Description>
+    </j.3:depiction>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4124099-6">
+        <rdfs:label>Sänger</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XB-SY">
+        <rdfs:label>Syrien</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Atrash</gndo:surname>
+      <gndo:prefix>al-</gndo:prefix>
+      <gndo:forename>Farid</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Aṭraš</gndo:surname>
+      <gndo:prefix>al-</gndo:prefix>
+      <gndo:forename>Farid</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/172990862">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.3:name>Virtual International Authority File (VIAF)</j.3:name>
+            <j.3:logo>http://viaf.org/viaf/images/viaf.ico</j.3:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:variantName>Atrash, Farid el-</gndo:variantName>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/119080834/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
+            <rdfs:label>Katalogisierungslevel 1</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.3:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.3:name>
+            <j.3:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.3:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-01-14T13:11:51.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-12">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-12</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.4:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-12"/>
+      </rdf:Description>
+    </wdrs:describedby>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#Person"/>
+    <gndo:variantName>Atrash, Farid</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q1391669">
+        <j.2:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.3:name>Wikidata</j.3:name>
+            <j.3:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.3:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.2:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gndIdentifier>119080834</gndo:gndIdentifier>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/000000012328362X">
+        <j.2:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#notKnown">
+        <rdfs:label>Unbekannt</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:dateOfBirth>1910-10-19</gndo:dateOfBirth>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Atrash</gndo:surname>
+      <gndo:prefix>el-</gndo:prefix>
+      <gndo:forename>Farid</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#14.4p">
+        <rdfs:label>Personen zu Musik</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+    <gndo:familialRelationship>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/122853687">
+        <rdfs:label>Asmahān</rdfs:label>
+      </rdf:Description>
+    </gndo:familialRelationship>
+    <gndo:placeOfDeath>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4005348-9">
+        <rdfs:label>Beirut</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfDeath>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/119080834/about"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Atrache</gndo:surname>
+      <gndo:prefix>el-</gndo:prefix>
+      <gndo:forename>Farid</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://dbpedia.org/resource/Farid_al-Atrash">
+        <j.2:isDescribedIn rdf:resource="https://dbpedia.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:dateOfDeath>1974-12-26</gndo:dateOfDeath>
+    <gndo:variantName>Elatrache, Farid</gndo:variantName>
+    <gndo:oldAuthorityNumber>(DE-588c)4306299-4</gndo:oldAuthorityNumber>
+    <j.1:hasSibling rdf:resource="https://d-nb.info/gnd/122853687"/>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Elatrache</gndo:surname>
+      <gndo:forename>Farid</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4052154-0">
+        <rdfs:label>Schauspieler</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:playedInstrument>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4166936-8">
+        <rdfs:label>Laute</rdfs:label>
+      </rdf:Description>
+    </gndo:playedInstrument>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4272049-7">
+        <rdfs:label>Suwaida</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XB-LB">
+        <rdfs:label>Libanon</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#15.1p">
+        <rdfs:label>Personen zu Theater, Tanz</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+    <gndo:relatedPlaceOrGeographicName>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4058794-0">
+        <rdfs:label>Syrien</rdfs:label>
+      </rdf:Description>
+    </gndo:relatedPlaceOrGeographicName>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Atrash</gndo:surname>
+      <gndo:forename>Farid</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <gndo:variantName>Atrache, Farid el-</gndo:variantName>
+    <gndo:variantName>Atrash, Farid al-</gndo:variantName>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-EG">
+        <rdfs:label>Ägypten</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4032009-1">
+        <rdfs:label>Komponist</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:oldAuthorityNumber>(DE-588a)119080834</gndo:oldAuthorityNumber>
+    <gndo:preferredName>Aṭraš, Farid al-</gndo:preferredName>
+  </gndo:DifferentiatedPerson>
+</rdf:RDF>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><rdf:RDF xmlns:bf="http://id.loc.gov/ontologies/bibframe/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:gndo="https://d-nb.info/standards/elementset/gnd#" xmlns:j.0="http://dbpedia.org/ontology/" xmlns:j.1="https://d-nb.info/standards/elementset/dnb#" xmlns:j.2="http://xmlns.com/foaf/0.1/" xmlns:j.3="http://dcat-ap.de/def/dcatde/" xmlns:lv="http://purl.org/lobid/lv#" xmlns:mo="http://purl.org/ontology/mo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:wdrs="http://www.w3.org/2007/05/powder-s#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <gndo:Person rdf:about="https://d-nb.info/gnd/119199211">
+    <gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Ross</gndo:surname>
+      <gndo:forename>Diana</gndo:forename>
+    </gndo:preferredNameEntityForThePerson>
+    <gndo:oldAuthorityNumber>(DE-101c)310192285</gndo:oldAuthorityNumber>
+    <gndo:gndSubjectCategory>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gnd-sc#14.4p">
+        <rdfs:label>Personen zu Musik</rdfs:label>
+      </rdf:Description>
+    </gndo:gndSubjectCategory>
+    <gndo:preferredName>Ross, Diana</gndo:preferredName>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4550934-7">
+        <rdfs:label>Popsängerin</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:surname>Ross</gndo:surname>
+      <gndo:forename>Diane Ernestine Earle</gndo:forename>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://isni.org/isni/0000000114554889">
+        <j.1:isDescribedIn rdf:resource="https://isni.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <wdrs:describedby>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/119199211/about">
+        <gndo:descriptionLevel>
+          <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/description-level#1">
+            <rdfs:label>Katalogisierungslevel 1</rdfs:label>
+          </rdf:Description>
+        </gndo:descriptionLevel>
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36578">
+            <j.2:name>Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek</j.2:name>
+            <j.2:logo>https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&amp;v=4</j.2:logo>
+            <dc:publisher>Deutsche Nationalbibliothek</dc:publisher>
+            <j.0:abbreviation>DNB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2025-03-16T08:24:11.000</dcterms:modified>
+        <dcterms:license>
+          <rdf:Description rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+            <rdfs:label>http://creativecommons.org/publicdomain/zero/1.0/</rdfs:label>
+          </rdf:Description>
+        </dcterms:license>
+        <dcterms:creator>
+          <rdf:Description rdf:about="https://ld.zdb-services.de/resource/organisations/DE-101">
+            <rdfs:label>https://ld.zdb-services.de/resource/organisations/DE-101</rdfs:label>
+          </rdf:Description>
+        </dcterms:creator>
+        <j.3:maintainer rdf:resource="https://ld.zdb-services.de/resource/organisations/DE-101"/>
+      </rdf:Description>
+    </wdrs:describedby>
+    <gndo:oldAuthorityNumber>(DE-101c)310859522</gndo:oldAuthorityNumber>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://viaf.org/viaf/114868940">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q54919">
+            <j.2:name>Virtual International Authority File (VIAF)</j.2:name>
+            <j.2:logo>http://viaf.org/viaf/images/viaf.ico</j.2:logo>
+            <dc:publisher>OCLC</dc:publisher>
+            <j.0:abbreviation>VIAF</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:gndIdentifier>119199211</gndo:gndIdentifier>
+    <gndo:oldAuthorityNumber>(DE-588c)4358373-8</gndo:oldAuthorityNumber>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4051246-0">
+        <rdfs:label>Sängerin</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://de.wikipedia.org/wiki/Diana_Ross">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q48183">
+            <j.2:name>Wikipedia (Deutsch)</j.2:name>
+            <j.2:logo>https://de.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>dewiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+        <rdfs:label>https://de.wikipedia.org/wiki/Diana_Ross</rdfs:label>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:oldAuthorityNumber>(DE-588a)135169526</gndo:oldAuthorityNumber>
+    <gndo:dateOfBirth>1944</gndo:dateOfBirth>
+    <gndo:affiliation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/5154381-3">
+        <rdfs:label>The Supremes (Musikgruppe)</rdfs:label>
+      </rdf:Description>
+    </gndo:affiliation>
+    <gndo:variantName>Ross, Diane Ernestine Earle</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://dbpedia.org/resource/Diana_Ross">
+        <j.1:isDescribedIn rdf:resource="https://dbpedia.org"/>
+      </rdf:Description>
+    </schema:sameAs>
+    <j.2:depiction>
+      <rdf:Description rdf:about="https://commons.wikimedia.org/wiki/Special:FilePath/DRossLongleat010722%20%289%20of%2043%29%20%2852189231585%29%20%28cropped%29.jpg">
+        <j.2:thumbnail>https://commons.wikimedia.org/wiki/Special:FilePath/DRossLongleat010722%20%289%20of%2043%29%20%2852189231585%29%20%28cropped%29.jpg?width=270</j.2:thumbnail>
+        <j.2:page>https://commons.wikimedia.org/wiki/File:DRossLongleat010722%20%289%20of%2043%29%20%2852189231585%29%20%28cropped%29.jpg?uselang=de</j.2:page>
+      </rdf:Description>
+    </j.2:depiction>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4170818-0">
+        <rdfs:label>Musikerin</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:oldAuthorityNumber>(DE-588a)119199211</gndo:oldAuthorityNumber>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://www.wikidata.org/entity/Q36290">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q2013">
+            <j.2:name>Wikidata</j.2:name>
+            <j.2:logo>https://www.wikidata.org/static/favicon/wikidata.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>WIKIDATA</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:oldAuthorityNumber>(DE-588a)134502280</gndo:oldAuthorityNumber>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#DifferentiatedPerson"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://en.wikipedia.org/wiki/Diana_Ross">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q328">
+            <j.2:name>Wikipedia (English)</j.2:name>
+            <j.2:logo>https://en.wikipedia.org/static/favicon/wikipedia.ico</j.2:logo>
+            <dc:publisher>Wikimedia Foundation Inc.</dc:publisher>
+            <j.0:abbreviation>enwiki</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:playedInstrument>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4156941-6">
+        <rdfs:label>Singstimme</rdfs:label>
+      </rdf:Description>
+    </gndo:playedInstrument>
+    <gndo:placeOfBirth>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4011559-8">
+        <rdfs:label>Detroit, Mich.</rdfs:label>
+      </rdf:Description>
+    </gndo:placeOfBirth>
+    <gndo:gender>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/gender#female">
+        <rdfs:label>Weiblich</rdfs:label>
+      </rdf:Description>
+    </gndo:gender>
+    <gndo:geographicAreaCode>
+      <rdf:Description rdf:about="https://d-nb.info/standards/vocab/gnd/geographic-area-code#XD-US">
+        <rdfs:label>USA</rdfs:label>
+      </rdf:Description>
+    </gndo:geographicAreaCode>
+    <gndo:variantName>Diana</gndo:variantName>
+    <schema:sameAs>
+      <rdf:Description rdf:about="http://id.loc.gov/rwo/agents/n82089447">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q13219454">
+            <j.2:name>NACO Authority File</j.2:name>
+            <j.2:logo>http://www.loc.gov/favicon.ico</j.2:logo>
+            <dc:publisher>Library of Congress</dc:publisher>
+            <j.0:abbreviation>LC</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <gndo:professionOrOccupation>
+      <rdf:Description rdf:about="https://d-nb.info/gnd/4033430-2">
+        <rdfs:label>Künstlerin</rdfs:label>
+      </rdf:Description>
+    </gndo:professionOrOccupation>
+    <gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+      <gndo:personalName>Diana</gndo:personalName>
+    </gndo:variantNameEntityForThePerson>
+    <schema:sameAs rdf:resource="https://d-nb.info/gnd/119199211/about"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://www.archivportal-d.de/person/gnd/119199211">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="https://www.archivportal-d.de">
+            <j.2:name>Archivportal-D</j.2:name>
+            <j.2:logo>https://www.archivportal-d.de/favicon.ico</j.2:logo>
+            <dc:publisher>Deutsche Digitale Bibliothek</dc:publisher>
+            <j.0:abbreviation>ARCHIV-D</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <rdf:type rdf:resource="https://d-nb.info/standards/elementset/gnd#AuthorityResource"/>
+    <schema:sameAs>
+      <rdf:Description rdf:about="https://www.deutsche-digitale-bibliothek.de/person/gnd/119199211">
+        <j.1:isDescribedIn>
+          <rdf:Description rdf:about="http://www.wikidata.org/entity/Q621630">
+            <j.2:name>Deutsche Digitale Bibliothek</j.2:name>
+            <j.2:logo>https://www.deutsche-digitale-bibliothek.de/favicon.ico</j.2:logo>
+            <dc:publisher>Deutsche Digitale Bibliothek</dc:publisher>
+            <j.0:abbreviation>DDB</j.0:abbreviation>
+          </rdf:Description>
+        </j.1:isDescribedIn>
+      </rdf:Description>
+    </schema:sameAs>
+    <j.2:page rdf:resource="https://de.wikipedia.org/wiki/Diana_Ross"/>
+  </gndo:Person>
+</rdf:RDF>
