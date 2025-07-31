@@ -28,7 +28,9 @@
             <xsl:with-param name="wert" select="concat($signatur[1],' ',$ppn)"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- weitere Signaturen -->
-            <xsl:with-param name="wert" select="string-join(remove(tag[starts-with(@id,'209A')]/sbf[@id='a'],index-of(tag[starts-with(@id,'209A')]/sbf[@id='a'],$signatur[1])),$sep)"/>
+            <xsl:with-param name="wert" select="if ($signatur[1])
+                then (string-join(remove(tag[starts-with(@id,'209A')]/sbf[@id='a'],index-of(tag[starts-with(@id,'209A')]/sbf[@id='a'],$signatur[1])),$sep))
+                else (string-join(tag[starts-with(@id,'209A')]/sbf[@id='a'],$sep))"/>
         </xsl:call-template>
         <!--
         <xsl:variable name="statistics" select="document('Examples/db-Liste.xml')/dataroot/db-Liste[PPN=$ppn]"/>
