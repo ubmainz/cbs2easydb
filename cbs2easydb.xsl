@@ -21,6 +21,9 @@
             <xsl:with-param name="wert" select="$ppn"/>
         </xsl:call-template>
         <xsl:variable name="signatur" select="tag[starts-with(@id,'209A') and (sbf[@id='f']='066')]/sbf[@id='a']"/>
+        <xsl:call-template name="feld"> <!-- 1. Signatur -->
+            <xsl:with-param name="wert" select="$signatur[1]"/>
+        </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Signatur_PPN -->
             <xsl:with-param name="wert" select="concat($signatur[1],' ',$ppn)"/>
         </xsl:call-template>
@@ -225,6 +228,9 @@
     <xsl:template match="/">
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">PPN</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">Signatur</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Signatur_PPN</xsl:with-param>
