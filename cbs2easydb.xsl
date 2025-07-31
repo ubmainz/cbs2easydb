@@ -187,7 +187,7 @@
                             <xsl:when test="index-of(('edt','hrsg.','Hrsg.','isb'),$cbsrolle) gt 0">Musikalisches Werk Herausgabe (durch)</xsl:when>
                             <xsl:when test="index-of(('g'),$cbsrolle) gt 0">Instrumentalmusik (von)</xsl:when>
                             <xsl:when test="(index-of(('hnr'),$cbsrolle) gt 0) or (@id='028F')">Geehrte Person</xsl:when>
-                            <xsl:when test="(index-of(('itr','prf','sng','voc'),$cbsrolle) gt 0) or (@id='028E') or starts-with(@id,'029E')">Interpretation (durch)</xsl:when>
+                            <xsl:when test="(index-of(('itr','prf','sng','voc','nrt'),$cbsrolle) gt 0) or (@id='028E') or starts-with(@id,'029E')">Interpretation (durch)</xsl:when>
                             <xsl:when test="index-of(('lyr'),$cbsrolle) gt 0">Liedtext (von)</xsl:when>
                             <xsl:when test="index-of(('pro','aup','Prod.'),$cbsrolle) gt 0">Produktion (von)</xsl:when>
                             <xsl:when test="index-of(('rcd'),$cbsrolle) gt 0">Aufnahme (durch)</xsl:when>
@@ -218,11 +218,11 @@
         <!-- <xsl:call-template name="feld"> 
             <xsl:with-param name="wert" select="$gndjson"/>                
         </xsl:call-template> -->
-        <xsl:call-template name="feld"> <!-- Rolle -->
-            <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/rolle,$sep),'&quot;')"/>                
-        </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Name -->
             <xsl:with-param name="wert" select="concat('&quot;',translate(string-join($gndliste/row/name,$sep),$quote,$apos),'&quot;')"/>                
+        </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- Rolle -->
+            <xsl:with-param name="wert" select="concat('&quot;',string-join($gndliste/row/rolle,$sep),'&quot;')"/>                
         </xsl:call-template>
         <xsl:value-of select="normalize-unicode(concat('&quot;',translate(string-join($gndliste/row/bemerkung,$sep),$quote,$apos),'&quot;'),'NFC')"/>
         <xsl:text>&#13;</xsl:text>
@@ -302,11 +302,11 @@
             <xsl:with-param name="wert"></xsl:with-param> select="concat('GND-JSON (',.,'.)')"
         </xsl:call-template> -->
         <xsl:call-template name="feld"> 
-            <xsl:with-param name="wert">&quot;Rolle&quot;</xsl:with-param>
-        </xsl:call-template> 
-        <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">&quot;Name&quot;</xsl:with-param>
         </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">&quot;Rolle&quot;</xsl:with-param>
+        </xsl:call-template> 
         <xsl:text>&quot;Bemerkung&quot;</xsl:text>
     <xsl:text>&#13;</xsl:text>
     <xsl:apply-templates/>
