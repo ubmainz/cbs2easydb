@@ -20,12 +20,15 @@
         <xsl:call-template name="feld"> <!-- PPN -->
             <xsl:with-param name="wert" select="$ppn"/>
         </xsl:call-template>
-        <xsl:variable name="signatur" select="tag[starts-with(@id,'209A') and (sbf[@id='f']='066')]/sbf[@id='a']"/>
+        <xsl:variable name="signatur" select="tag[starts-with(@id,'209A') and (sbf[@id='f']='066')]/sbf[@id='a']" as="xs:string*"/>
         <xsl:call-template name="feld"> <!-- 1. Signatur -->
             <xsl:with-param name="wert" select="$signatur[1]"/>
         </xsl:call-template>
         <xsl:call-template name="feld"> <!-- Signatur_PPN -->
             <xsl:with-param name="wert" select="concat($signatur[1],' ',$ppn)"/>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> <!-- weitere Signaturen -->
+            <xsl:with-param name="wert" select="string-join(remove(tag[starts-with(@id,'209A')]/sbf[@id='a'],index-of(tag[starts-with(@id,'209A')]/sbf[@id='a'],$signatur[1])),$sep)"/>
         </xsl:call-template>
         <!--
         <xsl:variable name="statistics" select="document('Examples/db-Liste.xml')/dataroot/db-Liste[PPN=$ppn]"/>
@@ -189,7 +192,7 @@
                             <xsl:when test="index-of(('pro','aup','Prod.'),$cbsrolle) gt 0">Produktion (von)</xsl:when>
                             <xsl:when test="index-of(('rcd'),$cbsrolle) gt 0">Aufnahme (durch)</xsl:when>
                             <xsl:when test="index-of(('aut','ctb','wst','wpr','ive','oth',''),$cbsrolle) gt 0">Beteiligte Person/Körperschaft</xsl:when>
-                            <xsl:otherwise><xsl:message>Unbekannte Rolle: <xsl:value-of select="$cbsrolle"/></xsl:message></xsl:otherwise>
+                            <xsl:otherwise><xsl:message>Unbekannte Rolle: <xsl:value-of select="$cbsrolle"/></xsl:message><xsl:text>?</xsl:text></xsl:otherwise>
                         </xsl:choose>
                     </xsl:variable>
                     <rolle><xsl:value-of select="$rolle"/></rolle>
@@ -234,6 +237,9 @@
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Signatur_PPN</xsl:with-param>
+        </xsl:call-template>
+        <xsl:call-template name="feld"> 
+            <xsl:with-param name="wert">weitere Signaturen</xsl:with-param>
         </xsl:call-template>
         <xsl:call-template name="feld"> 
             <xsl:with-param name="wert">Objekttitel</xsl:with-param>
