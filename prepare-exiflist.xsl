@@ -5,24 +5,30 @@
     xmlns:System="http://ns.exiftool.org/File/System/1.0/"
     xmlns:File="http://ns.exiftool.org/File/1.0/" xmlns:RIFF="http://ns.exiftool.org/RIFF/RIFF/1.0/"
     xmlns:ID3v2_3="http://ns.exiftool.org/ID3/ID3v2_3/1.0/"
-    xmlns:Composite="http://ns.exiftool.org/Composite/1.0/" version="2.0">
+    xmlns:Composite="http://ns.exiftool.org/Composite/1.0/" version="2.0" exclude-result-prefixes="#all">
     <xsl:output encoding="UTF-8" method="xml" indent="yes"/>
 
     <xsl:template match="/">
         <root>
-            <xsl:apply-templates/>
+            <xsl:apply-templates mode="record"/>
         </root>
 
     </xsl:template>
 
-    <xsl:template match="record">
+    <xsl:template match="record" mode="record">
         <record>
             <xsl:copy-of select="ppn"/>
             <file>
                 <xsl:value-of select="rdf:RDF/rdf:Description/@rdf:about"/>
             </file>
-            <xsl:copy-of select="rdf:RDF/rdf:Description/*"/>
+            <xsl:apply-templates select="rdf:RDF/rdf:Description/*"/>
         </record>
+    </xsl:template>
+    
+    <xsl:template match="*">
+        <xsl:element name="{concat(prefix-from-QName(node-name(.)),'-',local-name(.))}">
+            <xsl:value-of select="."/>
+        </xsl:element>
     </xsl:template>
 
 </xsl:stylesheet>
