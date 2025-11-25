@@ -17,7 +17,17 @@
 
     <xsl:template match="record" mode="record">
         <record>
-            <xsl:copy-of select="ppn"/>
+            <xsl:variable name="ppn" select="ppn"/>
+            <xsl:copy-of select="$ppn"/>
+            <xsl:variable name="signatur">
+                <xsl:analyze-string select="rdf:RDF/rdf:Description/System:Directory" regex="{concat('/[^/]*',$ppn)}">
+                    <xsl:matching-substring>
+                        <xsl:value-of select="substring-before(substring-after(.,'/'),concat(' ',$ppn))"/>
+                    </xsl:matching-substring>
+                </xsl:analyze-string>
+            </xsl:variable> 
+            <signatur><xsl:value-of select="$signatur"/></signatur>
+            <gruppe><xsl:value-of select="substring-before($signatur,' ')"/></gruppe>
             <file>
                 <xsl:value-of select="rdf:RDF/rdf:Description/@rdf:about"/>
             </file>
